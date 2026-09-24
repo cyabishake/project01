@@ -1,0 +1,1201 @@
+﻿order_id,order_date,customer_id,customer_name,city,state,region,product_name,category,quantity,unit_price_inr,total_amount_inr,payment_method,order_status
+ORD000001,2025-02-28,CUST00434,Aarav Singh,Hyderabad,Telangana,South,Notebook Pack,Stationery,5,535,2675,Net Banking,Delivered
+ORD000002,2025-09-08,CUST00369,Neha Sharma,Kolkata,West Bengal,East,Noise-Cancelling Headphones,Electronics,3,6979,20937,UPI,Delivered
+ORD000003,2026-04-27,CUST00388,Diya Rao,Chennai,Tamil Nadu,South,Wireless Mouse,Accessories,5,882,4410,Debit Card,Delivered
+ORD000004,2026-04-16,CUST00232,Ishaan Sharma,Mumbai,Maharashtra,West,Notebook Pack,Stationery,5,503,2515,Net Banking,Shipped
+ORD000005,2026-09-11,CUST00212,Ishaan Iyer,Kolkata,West Bengal,East,Mechanical Keyboard,Accessories,5,3254,16270,UPI,Processing
+ORD000006,2025-09-03,CUST00433,Ishaan Nair,Jaipur,Rajasthan,North,Notebook Pack,Stationery,5,495,2475,UPI,Cancelled
+ORD000007,2025-05-11,CUST00227,Aarav Sharma,Mumbai,Maharashtra,West,Data Engineering Handbook,Books,3,1783,5349,Credit Card,Delivered
+ORD000008,2026-09-19,CUST00180,Aarav Rao,Delhi,Delhi,North,USB-C Hub,Electronics,4,2554,10216,Cash on Delivery,Shipped
+ORD000009,2026-06-28,CUST00158,Diya Sharma,Mumbai,Maharashtra,West,Noise-Cancelling Headphones,Electronics,1,7759,7759,Net Banking,Processing
+ORD000010,2026-02-14,CUST00191,Aarav Kumar,Bhubaneswar,Odisha,East,USB-C Hub,Electronics,4,2422,9688,Cash on Delivery,Delivered
+ORD000011,2025-04-24,CUST00264,Arjun Rao,Chennai,Tamil Nadu,South,Wireless Mouse,Accessories,3,929,2787,Credit Card,Delivered
+ORD000012,2025-02-11,CUST00257,Zoya Singh,Chennai,Tamil Nadu,South,Webcam,Electronics,3,2364,7092,UPI,Delivered
+ORD000013,2026-06-25,CUST00303,Vikram Rao,Kolkata,West Bengal,East,USB-C Hub,Electronics,1,2293,2293,UPI,Processing
+ORD000014,2026-03-21,CUST00222,Kavya Iyer,Ahmedabad,Gujarat,West,Standing Desk,Furniture,4,20323,81292,Net Banking,Delivered
+ORD000015,2025-10-12,CUST00174,Riya Nair,Jaipur,Rajasthan,North,Laptop Stand,Accessories,4,1456,5824,UPI,Cancelled
+ORD000016,2026-08-08,CUST00305,Rahul Nair,Bengaluru,Karnataka,South,Mechanical Keyboard,Accessories,4,3500,14000,UPI,Delivered
+ORD000017,2025-06-22,CUST00008,Pooja Verma,Pune,Maharashtra,West,Webcam,Electronics,4,2453,9812,UPI,Processing
+ORD000018,2025-11-24,CUST00195,Aarav Nair,Bhubaneswar,Odisha,East,Data Engineering Handbook,Books,2,1659,3318,Net Banking,Returned
+ORD000019,2025-07-15,CUST00243,Ishaan Shah,Chennai,Tamil Nadu,South,Mechanical Keyboard,Accessories,2,3137,6274,Net Banking,Processing
+ORD000020,2025-12-06,CUST00115,Vikram Patel,Bengaluru,Karnataka,South,Office Chair,Furniture,2,11449,22898,UPI,Processing
+ORD000021,2025-09-02,CUST00440,Riya Reddy,Delhi,Delhi,North,Noise-Cancelling Headphones,Electronics,4,6594,26376,Cash on Delivery,Returned
+ORD000022,2026-09-04,CUST00154,Akash Singh,Bengaluru,Karnataka,South,Office Chair,Furniture,1,12702,12702,Net Banking,Returned
+ORD000023,2026-06-13,CUST00083,Aditi Nair,Ahmedabad,Gujarat,West,Standing Desk,Furniture,4,19910,79640,Cash on Delivery,Cancelled
+ORD000024,2026-03-14,CUST00447,Zoya Kumar,Bengaluru,Karnataka,South,Notebook Pack,Stationery,4,451,1804,Credit Card,Cancelled
+ORD000025,2026-05-13,CUST00091,Deepa Sharma,Bhubaneswar,Odisha,East,Standing Desk,Furniture,5,21781,108905,Cash on Delivery,Cancelled
+ORD000026,2025-04-03,CUST00422,Aarav Nair,Kolkata,West Bengal,East,Standing Desk,Furniture,4,21323,85292,Credit Card,Delivered
+ORD000027,2025-11-28,CUST00027,Vikram Patel,Chennai,Tamil Nadu,South,Office Chair,Furniture,3,13599,40797,UPI,Delivered
+ORD000028,2025-10-16,CUST00060,Ishaan Singh,Bengaluru,Karnataka,South,Standing Desk,Furniture,1,20927,20927,Credit Card,Delivered
+ORD000029,2025-02-11,CUST00323,Deepa Kumar,Chennai,Tamil Nadu,South,Webcam,Electronics,4,2402,9608,Credit Card,Shipped
+ORD000030,2026-04-28,CUST00033,Aditi Shah,Delhi,Delhi,North,Data Engineering Handbook,Books,3,1762,5286,Net Banking,Delivered
+ORD000031,2025-02-22,CUST00080,Aarav Reddy,Chennai,Tamil Nadu,South,Office Chair,Furniture,3,11906,35718,Net Banking,Delivered
+ORD000032,2025-01-31,CUST00077,Vikram Patel,Kolkata,West Bengal,East,Noise-Cancelling Headphones,Electronics,5,6497,32485,Debit Card,Delivered
+ORD000033,2025-10-24,CUST00413,Aarav Rao,Hyderabad,Telangana,South,USB-C Hub,Electronics,2,2797,5594,Cash on Delivery,Shipped
+ORD000034,2025-07-22,CUST00085,Rahul Sharma,Jaipur,Rajasthan,North,Noise-Cancelling Headphones,Electronics,3,6916,20748,Credit Card,Delivered
+ORD000035,2026-02-16,CUST00259,Aarav Rao,Bhubaneswar,Odisha,East,USB-C Hub,Electronics,4,2256,9024,Debit Card,Delivered
+ORD000036,2025-10-20,CUST00354,Neha Patel,Hyderabad,Telangana,South,Noise-Cancelling Headphones,Electronics,4,6629,26516,Debit Card,Delivered
+ORD000037,2025-04-29,CUST00002,Aarav Shah,Bhubaneswar,Odisha,East,Webcam,Electronics,3,2048,6144,UPI,Processing
+ORD000038,2026-09-06,CUST00430,Zoya Shah,Jaipur,Rajasthan,North,Office Chair,Furniture,3,12727,38181,UPI,Cancelled
+ORD000039,2026-04-16,CUST00086,Vikram Singh,Bengaluru,Karnataka,South,Notebook Pack,Stationery,2,455,910,Debit Card,Delivered
+ORD000040,2025-03-30,CUST00007,Rahul Shah,Bhubaneswar,Odisha,East,Webcam,Electronics,3,2255,6765,Cash on Delivery,Delivered
+ORD000041,2025-06-21,CUST00084,Rohan Nair,Bengaluru,Karnataka,South,Standing Desk,Furniture,2,22284,44568,Credit Card,Returned
+ORD000042,2025-01-23,CUST00036,Riya Rao,Pune,Maharashtra,West,Mechanical Keyboard,Accessories,5,3602,18010,Credit Card,Cancelled
+ORD000043,2025-11-02,CUST00311,Pooja Nair,Jaipur,Rajasthan,North,Standing Desk,Furniture,5,21247,106235,Debit Card,Returned
+ORD000044,2026-04-30,CUST00437,Pooja Rao,Delhi,Delhi,North,Noise-Cancelling Headphones,Electronics,1,7171,7171,UPI,Delivered
+ORD000045,2026-05-27,CUST00260,Deepa Rao,Pune,Maharashtra,West,Laptop Stand,Accessories,5,1677,8385,Debit Card,Returned
+ORD000046,2026-03-08,CUST00401,Neha Sharma,Hyderabad,Telangana,South,Webcam,Electronics,5,2177,10885,Debit Card,Delivered
+ORD000047,2025-06-12,CUST00147,Vikram Nair,Hyderabad,Telangana,South,Notebook Pack,Stationery,5,519,2595,Net Banking,Delivered
+ORD000048,2025-05-24,CUST00165,Aditi Iyer,Bengaluru,Karnataka,South,Noise-Cancelling Headphones,Electronics,4,6817,27268,Net Banking,Shipped
+ORD000049,2025-12-18,CUST00309,Pooja Singh,Ahmedabad,Gujarat,West,Mechanical Keyboard,Accessories,3,2971,8913,Credit Card,Shipped
+ORD000050,2025-01-17,CUST00357,Sneha Verma,Jaipur,Rajasthan,North,Webcam,Electronics,2,2106,4212,UPI,Cancelled
+ORD000051,2026-08-05,CUST00108,Nikhil Verma,Kolkata,West Bengal,East,Noise-Cancelling Headphones,Electronics,2,7752,15504,Cash on Delivery,Delivered
+ORD000052,2025-10-15,CUST00445,Rahul Patel,Jaipur,Rajasthan,North,Noise-Cancelling Headphones,Electronics,1,7716,7716,Cash on Delivery,Returned
+ORD000053,2025-09-08,CUST00284,Vikram Nair,Pune,Maharashtra,West,Webcam,Electronics,2,2373,4746,Credit Card,Delivered
+ORD000054,2026-05-01,CUST00127,Ananya Reddy,Kolkata,West Bengal,East,Notebook Pack,Stationery,4,526,2104,Net Banking,Delivered
+ORD000055,2026-09-03,CUST00401,Ananya Shah,Hyderabad,Telangana,South,Laptop Stand,Accessories,3,1615,4845,UPI,Returned
+ORD000056,2026-01-11,CUST00053,Pooja Nair,Hyderabad,Telangana,South,Webcam,Electronics,2,2446,4892,UPI,Delivered
+ORD000057,2025-09-09,CUST00317,Vikram Patel,Chennai,Tamil Nadu,South,Laptop Stand,Accessories,1,1401,1401,Credit Card,Returned
+ORD000058,2026-08-04,CUST00428,Ananya Rao,Ahmedabad,Gujarat,West,Webcam,Electronics,4,2234,8936,Debit Card,Returned
+ORD000059,2025-09-09,CUST00283,Rohan Nair,Bhubaneswar,Odisha,East,Notebook Pack,Stationery,1,460,460,Debit Card,Delivered
+ORD000060,2025-08-10,CUST00184,Harish Rao,Kolkata,West Bengal,East,Data Engineering Handbook,Books,3,1981,5943,Debit Card,Delivered
+ORD000061,2025-02-18,CUST00438,Nikhil Shah,Mumbai,Maharashtra,West,USB-C Hub,Electronics,1,2327,2327,Debit Card,Delivered
+ORD000062,2025-08-08,CUST00140,Arjun Reddy,Kolkata,West Bengal,East,Webcam,Electronics,5,2178,10890,Debit Card,Processing
+ORD000063,2025-05-17,CUST00173,Rahul Rao,Hyderabad,Telangana,South,Laptop Stand,Accessories,2,1371,2742,Net Banking,Cancelled
+ORD000064,2025-12-22,CUST00155,Diya Verma,Bengaluru,Karnataka,South,Standing Desk,Furniture,4,24522,98088,Debit Card,Shipped
+ORD000065,2025-04-10,CUST00440,Deepa Kumar,Kolkata,West Bengal,East,Notebook Pack,Stationery,4,493,1972,Debit Card,Delivered
+ORD000066,2025-07-03,CUST00062,Akash Sharma,Delhi,Delhi,North,Data Engineering Handbook,Books,3,1803,5409,Cash on Delivery,Shipped
+ORD000067,2025-01-21,CUST00248,Deepa Rao,Ahmedabad,Gujarat,West,Data Engineering Handbook,Books,3,1887,5661,UPI,Delivered
+ORD000068,2025-11-29,CUST00150,Arjun Verma,Jaipur,Rajasthan,North,Webcam,Electronics,4,2046,8184,Net Banking,Returned
+ORD000069,2025-06-23,CUST00096,Sneha Nair,Hyderabad,Telangana,South,Mechanical Keyboard,Accessories,2,3172,6344,Cash on Delivery,Processing
+ORD000070,2026-05-23,CUST00421,Aditi Singh,Jaipur,Rajasthan,North,Laptop Stand,Accessories,2,1471,2942,UPI,Returned
+ORD000071,2025-10-14,CUST00415,Rahul Reddy,Delhi,Delhi,North,Data Engineering Handbook,Books,1,1864,1864,Cash on Delivery,Processing
+ORD000072,2026-06-12,CUST00131,Diya Nair,Hyderabad,Telangana,South,Data Engineering Handbook,Books,1,1994,1994,Net Banking,Delivered
+ORD000073,2025-10-10,CUST00378,Harish Rao,Chennai,Tamil Nadu,South,Office Chair,Furniture,1,13260,13260,Net Banking,Shipped
+ORD000074,2025-05-25,CUST00157,Akash Iyer,Delhi,Delhi,North,Office Chair,Furniture,3,13570,40710,Net Banking,Delivered
+ORD000075,2026-02-23,CUST00164,Aarav Shah,Kolkata,West Bengal,East,Webcam,Electronics,4,2316,9264,Credit Card,Returned
+ORD000076,2026-05-31,CUST00155,Harish Shah,Delhi,Delhi,North,Notebook Pack,Stationery,4,517,2068,Net Banking,Cancelled
+ORD000077,2026-03-06,CUST00302,Aditi Iyer,Chennai,Tamil Nadu,South,Laptop Stand,Accessories,5,1639,8195,Debit Card,Delivered
+ORD000078,2025-07-10,CUST00183,Arjun Sharma,Jaipur,Rajasthan,North,Wireless Mouse,Accessories,3,943,2829,Debit Card,Delivered
+ORD000079,2026-09-22,CUST00266,Riya Nair,Pune,Maharashtra,West,Data Engineering Handbook,Books,4,1634,6536,Credit Card,Delivered
+ORD000080,2025-07-24,CUST00239,Vikram Rao,Mumbai,Maharashtra,West,Standing Desk,Furniture,1,20741,20741,Net Banking,Returned
+ORD000081,2026-05-29,CUST00361,Rahul Nair,Chennai,Tamil Nadu,South,USB-C Hub,Electronics,5,2464,12320,Net Banking,Returned
+ORD000082,2026-01-14,CUST00082,Rahul Singh,Bengaluru,Karnataka,South,Office Chair,Furniture,4,12023,48092,UPI,Delivered
+ORD000083,2026-09-03,CUST00411,Ananya Rao,Bhubaneswar,Odisha,East,Standing Desk,Furniture,3,20486,61458,Credit Card,Delivered
+ORD000084,2026-03-15,CUST00069,Rohan Kumar,Bengaluru,Karnataka,South,Wireless Mouse,Accessories,1,953,953,Cash on Delivery,Processing
+ORD000085,2026-05-21,CUST00391,Aarav Rao,Hyderabad,Telangana,South,Office Chair,Furniture,2,12005,24010,Net Banking,Processing
+ORD000086,2025-09-06,CUST00389,Ananya Nair,Jaipur,Rajasthan,North,Data Engineering Handbook,Books,5,1952,9760,Net Banking,Shipped
+ORD000087,2026-01-02,CUST00238,Harish Kumar,Kolkata,West Bengal,East,Noise-Cancelling Headphones,Electronics,4,6416,25664,Cash on Delivery,Delivered
+ORD000088,2026-06-17,CUST00301,Deepa Singh,Chennai,Tamil Nadu,South,Office Chair,Furniture,3,13617,40851,Cash on Delivery,Cancelled
+ORD000089,2026-03-19,CUST00357,Harish Reddy,Bengaluru,Karnataka,South,Office Chair,Furniture,3,12321,36963,Credit Card,Delivered
+ORD000090,2026-06-19,CUST00017,Harish Rao,Jaipur,Rajasthan,North,USB-C Hub,Electronics,2,2628,5256,Debit Card,Returned
+ORD000091,2025-09-28,CUST00269,Akash Kumar,Kolkata,West Bengal,East,Mechanical Keyboard,Accessories,1,3221,3221,Cash on Delivery,Shipped
+ORD000092,2025-06-07,CUST00308,Arjun Rao,Hyderabad,Telangana,South,Laptop Stand,Accessories,2,1571,3142,Credit Card,Cancelled
+ORD000093,2025-12-08,CUST00216,Vikram Kumar,Kolkata,West Bengal,East,Standing Desk,Furniture,1,20680,20680,Cash on Delivery,Delivered
+ORD000094,2026-06-04,CUST00197,Ananya Nair,Pune,Maharashtra,West,Webcam,Electronics,1,2305,2305,Debit Card,Delivered
+ORD000095,2025-05-03,CUST00034,Nikhil Sharma,Delhi,Delhi,North,Mechanical Keyboard,Accessories,5,3282,16410,Net Banking,Delivered
+ORD000096,2025-10-27,CUST00005,Deepa Reddy,Delhi,Delhi,North,Wireless Mouse,Accessories,4,927,3708,Net Banking,Returned
+ORD000097,2025-06-20,CUST00426,Diya Shah,Ahmedabad,Gujarat,West,Noise-Cancelling Headphones,Electronics,1,7042,7042,UPI,Processing
+ORD000098,2025-07-03,CUST00213,Riya Nair,Ahmedabad,Gujarat,West,Webcam,Electronics,4,2121,8484,Cash on Delivery,Delivered
+ORD000099,2025-10-04,CUST00421,Aarav Rao,Kolkata,West Bengal,East,Wireless Mouse,Accessories,2,895,1790,Credit Card,Processing
+ORD000100,2025-11-09,CUST00306,Aarav Verma,Hyderabad,Telangana,South,Webcam,Electronics,1,2254,2254,UPI,Delivered
+ORD000101,2025-06-05,CUST00212,Rahul Patel,Jaipur,Rajasthan,North,Webcam,Electronics,3,2036,6108,Cash on Delivery,Delivered
+ORD000102,2025-07-06,CUST00354,Neha Sharma,Bengaluru,Karnataka,South,Mechanical Keyboard,Accessories,5,3263,16315,Cash on Delivery,Delivered
+ORD000103,2026-05-30,CUST00058,Akash Patel,Ahmedabad,Gujarat,West,Wireless Mouse,Accessories,1,920,920,Cash on Delivery,Processing
+ORD000104,2026-02-21,CUST00408,Pooja Singh,Chennai,Tamil Nadu,South,Webcam,Electronics,4,2101,8404,UPI,Delivered
+ORD000105,2026-02-23,CUST00055,Aditi Rao,Chennai,Tamil Nadu,South,Data Engineering Handbook,Books,4,1924,7696,Net Banking,Processing
+ORD000106,2025-01-12,CUST00160,Pooja Iyer,Hyderabad,Telangana,South,Data Engineering Handbook,Books,5,1685,8425,Cash on Delivery,Cancelled
+ORD000107,2025-02-16,CUST00380,Rohan Reddy,Bengaluru,Karnataka,South,Laptop Stand,Accessories,1,1636,1636,UPI,Returned
+ORD000108,2026-07-26,CUST00251,Kavya Iyer,Bhubaneswar,Odisha,East,Mechanical Keyboard,Accessories,2,3327,6654,Credit Card,Delivered
+ORD000109,2026-06-04,CUST00298,Riya Verma,Chennai,Tamil Nadu,South,Office Chair,Furniture,4,12257,49028,Credit Card,Processing
+ORD000110,2025-07-01,CUST00174,Ishaan Verma,Hyderabad,Telangana,South,USB-C Hub,Electronics,2,2302,4604,Cash on Delivery,Cancelled
+ORD000111,2025-01-20,CUST00437,Rohan Nair,Kolkata,West Bengal,East,Webcam,Electronics,3,2309,6927,Net Banking,Shipped
+ORD000112,2025-10-31,CUST00197,Rahul Verma,Chennai,Tamil Nadu,South,Noise-Cancelling Headphones,Electronics,4,7263,29052,Cash on Delivery,Delivered
+ORD000113,2025-03-10,CUST00438,Arjun Singh,Jaipur,Rajasthan,North,Mechanical Keyboard,Accessories,4,3267,13068,Net Banking,Shipped
+ORD000114,2026-06-30,CUST00292,Riya Iyer,Delhi,Delhi,North,Mechanical Keyboard,Accessories,3,3292,9876,UPI,Delivered
+ORD000115,2025-04-28,CUST00155,Pooja Verma,Bengaluru,Karnataka,South,Wireless Mouse,Accessories,4,946,3784,Cash on Delivery,Delivered
+ORD000116,2025-05-19,CUST00087,Riya Nair,Mumbai,Maharashtra,West,Notebook Pack,Stationery,4,458,1832,Cash on Delivery,Delivered
+ORD000117,2025-03-31,CUST00304,Arjun Sharma,Chennai,Tamil Nadu,South,Notebook Pack,Stationery,3,469,1407,Cash on Delivery,Cancelled
+ORD000118,2026-02-02,CUST00345,Ishaan Kumar,Mumbai,Maharashtra,West,Webcam,Electronics,4,2057,8228,UPI,Shipped
+ORD000119,2026-02-28,CUST00017,Aarav Sharma,Bhubaneswar,Odisha,East,Standing Desk,Furniture,1,22555,22555,UPI,Cancelled
+ORD000120,2025-12-21,CUST00040,Meera Singh,Ahmedabad,Gujarat,West,Office Chair,Furniture,5,12535,62675,Credit Card,Cancelled
+ORD000121,2026-04-22,CUST00208,Diya Reddy,Bhubaneswar,Odisha,East,Webcam,Electronics,3,2036,6108,Debit Card,Delivered
+ORD000122,2025-08-22,CUST00079,Zoya Nair,Ahmedabad,Gujarat,West,Standing Desk,Furniture,1,23321,23321,Cash on Delivery,Delivered
+ORD000123,2026-05-10,CUST00221,Deepa Singh,Delhi,Delhi,North,Standing Desk,Furniture,4,21583,86332,Net Banking,Returned
+ORD000124,2026-04-19,CUST00257,Meera Iyer,Hyderabad,Telangana,South,Webcam,Electronics,1,2272,2272,Net Banking,Delivered
+ORD000125,2026-06-28,CUST00154,Vikram Verma,Jaipur,Rajasthan,North,Noise-Cancelling Headphones,Electronics,4,7393,29572,Cash on Delivery,Returned
+ORD000126,2025-02-17,CUST00083,Arjun Shah,Jaipur,Rajasthan,North,Wireless Mouse,Accessories,2,905,1810,Cash on Delivery,Processing
+ORD000127,2026-05-05,CUST00244,Rahul Singh,Chennai,Tamil Nadu,South,Office Chair,Furniture,1,11694,11694,UPI,Delivered
+ORD000128,2025-12-19,CUST00067,Vikram Patel,Jaipur,Rajasthan,North,Office Chair,Furniture,5,13918,69590,Credit Card,Returned
+ORD000129,2025-07-26,CUST00341,Kavya Nair,Ahmedabad,Gujarat,West,USB-C Hub,Electronics,2,2678,5356,Cash on Delivery,Delivered
+ORD000130,2025-09-06,CUST00249,Vikram Verma,Hyderabad,Telangana,South,Wireless Mouse,Accessories,2,917,1834,Credit Card,Cancelled
+ORD000131,2026-09-21,CUST00291,Riya Iyer,Ahmedabad,Gujarat,West,Laptop Stand,Accessories,4,1360,5440,Debit Card,Delivered
+ORD000132,2026-04-24,CUST00426,Aarav Iyer,Bengaluru,Karnataka,South,Noise-Cancelling Headphones,Electronics,1,6799,6799,Credit Card,Shipped
+ORD000133,2026-07-16,CUST00430,Deepa Rao,Delhi,Delhi,North,Webcam,Electronics,2,2389,4778,Cash on Delivery,Delivered
+ORD000134,2025-01-10,CUST00264,Sneha Rao,Ahmedabad,Gujarat,West,Office Chair,Furniture,5,12711,63555,Credit Card,Returned
+ORD000135,2026-08-21,CUST00096,Akash Verma,Ahmedabad,Gujarat,West,Wireless Mouse,Accessories,1,926,926,Credit Card,Delivered
+ORD000136,2026-04-07,CUST00170,Akash Rao,Hyderabad,Telangana,South,Wireless Mouse,Accessories,4,816,3264,Debit Card,Delivered
+ORD000137,2025-01-17,CUST00063,Arjun Reddy,Jaipur,Rajasthan,North,USB-C Hub,Electronics,4,2628,10512,Cash on Delivery,Delivered
+ORD000138,2026-01-16,CUST00179,Kavya Nair,Ahmedabad,Gujarat,West,Data Engineering Handbook,Books,4,1630,6520,UPI,Delivered
+ORD000139,2025-11-11,CUST00410,Arjun Iyer,Mumbai,Maharashtra,West,Data Engineering Handbook,Books,3,1948,5844,Cash on Delivery,Shipped
+ORD000140,2026-09-02,CUST00139,Ananya Nair,Jaipur,Rajasthan,North,Laptop Stand,Accessories,3,1374,4122,Cash on Delivery,Returned
+ORD000141,2026-08-11,CUST00297,Kavya Sharma,Mumbai,Maharashtra,West,Laptop Stand,Accessories,1,1536,1536,UPI,Processing
+ORD000142,2025-11-17,CUST00280,Vikram Rao,Mumbai,Maharashtra,West,Noise-Cancelling Headphones,Electronics,3,6883,20649,UPI,Processing
+ORD000143,2025-10-19,CUST00357,Ananya Verma,Bengaluru,Karnataka,South,Wireless Mouse,Accessories,2,930,1860,Debit Card,Shipped
+ORD000144,2025-10-01,CUST00275,Aditi Iyer,Bengaluru,Karnataka,South,Noise-Cancelling Headphones,Electronics,5,7049,35245,Net Banking,Delivered
+ORD000145,2026-02-15,CUST00165,Ananya Patel,Hyderabad,Telangana,South,USB-C Hub,Electronics,3,2378,7134,Debit Card,Shipped
+ORD000146,2025-11-07,CUST00230,Zoya Nair,Bhubaneswar,Odisha,East,Laptop Stand,Accessories,4,1578,6312,Net Banking,Delivered
+ORD000147,2025-03-05,CUST00120,Harish Kumar,Chennai,Tamil Nadu,South,Webcam,Electronics,2,2115,4230,Net Banking,Delivered
+ORD000148,2025-09-28,CUST00421,Zoya Nair,Chennai,Tamil Nadu,South,Wireless Mouse,Accessories,1,972,972,Net Banking,Delivered
+ORD000149,2026-09-02,CUST00078,Aditi Rao,Ahmedabad,Gujarat,West,Laptop Stand,Accessories,3,1421,4263,Net Banking,Delivered
+ORD000150,2025-03-23,CUST00161,Vikram Nair,Mumbai,Maharashtra,West,Mechanical Keyboard,Accessories,5,3593,17965,Credit Card,Delivered
+ORD000151,2026-05-18,CUST00397,Neha Kumar,Pune,Maharashtra,West,Noise-Cancelling Headphones,Electronics,4,6364,25456,UPI,Processing
+ORD000152,2025-11-24,CUST00289,Deepa Singh,Mumbai,Maharashtra,West,Data Engineering Handbook,Books,5,1989,9945,Credit Card,Returned
+ORD000153,2025-04-18,CUST00173,Akash Verma,Pune,Maharashtra,West,Notebook Pack,Stationery,1,449,449,Debit Card,Delivered
+ORD000154,2026-04-27,CUST00265,Akash Kumar,Hyderabad,Telangana,South,Mechanical Keyboard,Accessories,5,3244,16220,Credit Card,Returned
+ORD000155,2025-06-19,CUST00418,Meera Reddy,Pune,Maharashtra,West,Office Chair,Furniture,2,12397,24794,UPI,Cancelled
+ORD000156,2025-08-30,CUST00415,Pooja Nair,Bengaluru,Karnataka,South,Webcam,Electronics,1,2456,2456,Cash on Delivery,Returned
+ORD000157,2025-02-14,CUST00027,Pooja Nair,Jaipur,Rajasthan,North,Webcam,Electronics,4,2190,8760,Debit Card,Delivered
+ORD000158,2026-04-10,CUST00446,Diya Verma,Kolkata,West Bengal,East,Noise-Cancelling Headphones,Electronics,4,6385,25540,Net Banking,Returned
+ORD000159,2025-02-04,CUST00172,Meera Iyer,Delhi,Delhi,North,Webcam,Electronics,5,2047,10235,UPI,Cancelled
+ORD000160,2026-09-20,CUST00109,Nikhil Rao,Hyderabad,Telangana,South,Wireless Mouse,Accessories,1,958,958,Net Banking,Delivered
+ORD000161,2025-04-27,CUST00237,Aarav Patel,Delhi,Delhi,North,Notebook Pack,Stationery,1,493,493,Cash on Delivery,Delivered
+ORD000162,2025-11-22,CUST00142,Ananya Shah,Mumbai,Maharashtra,West,Office Chair,Furniture,1,12290,12290,Credit Card,Cancelled
+ORD000163,2026-05-15,CUST00381,Rahul Kumar,Hyderabad,Telangana,South,USB-C Hub,Electronics,4,2264,9056,Debit Card,Delivered
+ORD000164,2025-08-11,CUST00017,Sneha Iyer,Bengaluru,Karnataka,South,Mechanical Keyboard,Accessories,4,3140,12560,Credit Card,Cancelled
+ORD000165,2026-04-09,CUST00013,Riya Iyer,Hyderabad,Telangana,South,Standing Desk,Furniture,2,21530,43060,Cash on Delivery,Shipped
+ORD000166,2025-01-23,CUST00354,Aarav Patel,Kolkata,West Bengal,East,Standing Desk,Furniture,3,22308,66924,Debit Card,Returned
+ORD000167,2025-11-09,CUST00086,Ananya Nair,Chennai,Tamil Nadu,South,Laptop Stand,Accessories,5,1374,6870,Debit Card,Delivered
+ORD000168,2025-01-21,CUST00358,Pooja Reddy,Delhi,Delhi,North,USB-C Hub,Electronics,2,2435,4870,Debit Card,Delivered
+ORD000169,2025-02-11,CUST00145,Sneha Singh,Hyderabad,Telangana,South,Office Chair,Furniture,5,12789,63945,UPI,Delivered
+ORD000170,2026-06-06,CUST00144,Deepa Iyer,Pune,Maharashtra,West,USB-C Hub,Electronics,3,2359,7077,Credit Card,Processing
+ORD000171,2025-03-09,CUST00244,Rohan Verma,Chennai,Tamil Nadu,South,Noise-Cancelling Headphones,Electronics,2,7526,15052,Credit Card,Delivered
+ORD000172,2026-08-15,CUST00130,Zoya Iyer,Jaipur,Rajasthan,North,Notebook Pack,Stationery,3,548,1644,Debit Card,Returned
+ORD000173,2026-01-01,CUST00044,Sneha Singh,Hyderabad,Telangana,South,Standing Desk,Furniture,2,20829,41658,Debit Card,Shipped
+ORD000174,2026-05-10,CUST00296,Deepa Patel,Kolkata,West Bengal,East,Laptop Stand,Accessories,1,1517,1517,UPI,Processing
+ORD000175,2025-04-30,CUST00419,Pooja Verma,Pune,Maharashtra,West,Data Engineering Handbook,Books,2,1831,3662,Net Banking,Returned
+ORD000176,2026-06-03,CUST00148,Sneha Singh,Delhi,Delhi,North,Noise-Cancelling Headphones,Electronics,4,7809,31236,Cash on Delivery,Returned
+ORD000177,2026-06-07,CUST00282,Harish Rao,Delhi,Delhi,North,Mechanical Keyboard,Accessories,5,3457,17285,Debit Card,Delivered
+ORD000178,2025-11-12,CUST00385,Arjun Nair,Mumbai,Maharashtra,West,Data Engineering Handbook,Books,2,1806,3612,Credit Card,Delivered
+ORD000179,2026-08-01,CUST00213,Harish Kumar,Jaipur,Rajasthan,North,Office Chair,Furniture,2,12247,24494,Debit Card,Shipped
+ORD000180,2026-06-26,CUST00023,Pooja Nair,Pune,Maharashtra,West,Wireless Mouse,Accessories,1,912,912,Credit Card,Processing
+ORD000181,2026-02-25,CUST00180,Ananya Verma,Mumbai,Maharashtra,West,Data Engineering Handbook,Books,3,1689,5067,Credit Card,Processing
+ORD000182,2026-06-27,CUST00447,Sneha Sharma,Bhubaneswar,Odisha,East,Noise-Cancelling Headphones,Electronics,3,7488,22464,Debit Card,Delivered
+ORD000183,2026-04-26,CUST00136,Meera Nair,Pune,Maharashtra,West,Noise-Cancelling Headphones,Electronics,4,7683,30732,Credit Card,Delivered
+ORD000184,2025-05-14,CUST00234,Nikhil Sharma,Hyderabad,Telangana,South,USB-C Hub,Electronics,3,2305,6915,Cash on Delivery,Cancelled
+ORD000185,2025-07-13,CUST00011,Ishaan Rao,Pune,Maharashtra,West,USB-C Hub,Electronics,5,2713,13565,Net Banking,Shipped
+ORD000186,2025-08-05,CUST00271,Sneha Kumar,Bengaluru,Karnataka,South,USB-C Hub,Electronics,4,2607,10428,Net Banking,Returned
+ORD000187,2025-04-12,CUST00024,Akash Rao,Hyderabad,Telangana,South,Noise-Cancelling Headphones,Electronics,2,6465,12930,UPI,Cancelled
+ORD000188,2025-10-10,CUST00432,Deepa Verma,Bengaluru,Karnataka,South,Notebook Pack,Stationery,4,459,1836,Net Banking,Delivered
+ORD000189,2025-07-05,CUST00449,Kavya Singh,Delhi,Delhi,North,Standing Desk,Furniture,5,23425,117125,Debit Card,Returned
+ORD000190,2026-03-24,CUST00399,Harish Shah,Hyderabad,Telangana,South,Standing Desk,Furniture,4,23896,95584,Cash on Delivery,Delivered
+ORD000191,2025-11-09,CUST00362,Diya Patel,Bhubaneswar,Odisha,East,Wireless Mouse,Accessories,2,1000,2000,Net Banking,Processing
+ORD000192,2025-09-02,CUST00342,Akash Reddy,Ahmedabad,Gujarat,West,Noise-Cancelling Headphones,Electronics,4,6492,25968,Cash on Delivery,Delivered
+ORD000193,2026-03-24,CUST00432,Kavya Iyer,Kolkata,West Bengal,East,Mechanical Keyboard,Accessories,2,3654,7308,Credit Card,Delivered
+ORD000194,2026-06-30,CUST00440,Rahul Iyer,Pune,Maharashtra,West,Noise-Cancelling Headphones,Electronics,3,7367,22101,Cash on Delivery,Delivered
+ORD000195,2025-09-30,CUST00066,Vikram Nair,Pune,Maharashtra,West,Noise-Cancelling Headphones,Electronics,3,7204,21612,UPI,Returned
+ORD000196,2025-05-23,CUST00319,Nikhil Verma,Pune,Maharashtra,West,Mechanical Keyboard,Accessories,2,3608,7216,Cash on Delivery,Returned
+ORD000197,2026-03-25,CUST00037,Aarav Kumar,Delhi,Delhi,North,Webcam,Electronics,4,2360,9440,Credit Card,Delivered
+ORD000198,2025-09-09,CUST00105,Nikhil Patel,Jaipur,Rajasthan,North,Notebook Pack,Stationery,5,546,2730,Cash on Delivery,Processing
+ORD000199,2025-07-30,CUST00411,Ishaan Singh,Delhi,Delhi,North,Noise-Cancelling Headphones,Electronics,3,7660,22980,UPI,Delivered
+ORD000200,2025-04-14,CUST00296,Riya Kumar,Ahmedabad,Gujarat,West,Standing Desk,Furniture,5,20685,103425,UPI,Delivered
+ORD000201,2025-09-13,CUST00162,Diya Patel,Bengaluru,Karnataka,South,USB-C Hub,Electronics,5,2462,12310,Cash on Delivery,Delivered
+ORD000202,2026-05-01,CUST00273,Rohan Sharma,Pune,Maharashtra,West,Mechanical Keyboard,Accessories,4,3489,13956,Cash on Delivery,Cancelled
+ORD000203,2025-06-21,CUST00014,Aditi Singh,Bhubaneswar,Odisha,East,Standing Desk,Furniture,3,20375,61125,Debit Card,Delivered
+ORD000204,2026-08-09,CUST00304,Deepa Sharma,Ahmedabad,Gujarat,West,Data Engineering Handbook,Books,2,1766,3532,Credit Card,Delivered
+ORD000205,2025-08-18,CUST00295,Arjun Kumar,Pune,Maharashtra,West,Office Chair,Furniture,2,13647,27294,UPI,Delivered
+ORD000206,2025-05-23,CUST00194,Rahul Shah,Kolkata,West Bengal,East,Standing Desk,Furniture,5,21930,109650,Credit Card,Shipped
+ORD000207,2025-01-28,CUST00145,Diya Sharma,Chennai,Tamil Nadu,South,Laptop Stand,Accessories,4,1559,6236,Credit Card,Processing
+ORD000208,2026-06-12,CUST00043,Meera Verma,Chennai,Tamil Nadu,South,Mechanical Keyboard,Accessories,4,3351,13404,UPI,Cancelled
+ORD000209,2025-02-21,CUST00175,Vikram Nair,Hyderabad,Telangana,South,Webcam,Electronics,1,2311,2311,Net Banking,Delivered
+ORD000210,2025-08-30,CUST00271,Zoya Singh,Ahmedabad,Gujarat,West,Webcam,Electronics,3,2272,6816,Credit Card,Shipped
+ORD000211,2026-04-26,CUST00118,Nikhil Kumar,Delhi,Delhi,North,Office Chair,Furniture,3,13603,40809,Debit Card,Shipped
+ORD000212,2025-08-15,CUST00131,Harish Sharma,Pune,Maharashtra,West,Webcam,Electronics,1,2291,2291,UPI,Shipped
+ORD000213,2025-02-22,CUST00376,Arjun Singh,Bengaluru,Karnataka,South,Wireless Mouse,Accessories,2,994,1988,Cash on Delivery,Delivered
+ORD000214,2025-09-25,CUST00054,Harish Shah,Pune,Maharashtra,West,Wireless Mouse,Accessories,5,1000,5000,Net Banking,Delivered
+ORD000215,2025-11-15,CUST00404,Vikram Singh,Hyderabad,Telangana,South,Notebook Pack,Stationery,1,491,491,Net Banking,Delivered
+ORD000216,2025-05-27,CUST00333,Diya Singh,Pune,Maharashtra,West,Mechanical Keyboard,Accessories,2,3082,6164,Cash on Delivery,Delivered
+ORD000217,2026-07-02,CUST00022,Rahul Nair,Bengaluru,Karnataka,South,Notebook Pack,Stationery,1,528,528,Credit Card,Delivered
+ORD000218,2026-09-04,CUST00052,Pooja Shah,Hyderabad,Telangana,South,Noise-Cancelling Headphones,Electronics,4,7473,29892,Net Banking,Cancelled
+ORD000219,2025-11-29,CUST00445,Pooja Kumar,Bhubaneswar,Odisha,East,Webcam,Electronics,4,2426,9704,UPI,Returned
+ORD000220,2026-03-30,CUST00240,Nikhil Patel,Bengaluru,Karnataka,South,Laptop Stand,Accessories,4,1407,5628,Debit Card,Cancelled
+ORD000221,2026-09-02,CUST00387,Sneha Singh,Mumbai,Maharashtra,West,Notebook Pack,Stationery,1,517,517,Debit Card,Cancelled
+ORD000222,2026-08-04,CUST00115,Harish Shah,Kolkata,West Bengal,East,Data Engineering Handbook,Books,2,1731,3462,Net Banking,Shipped
+ORD000223,2025-02-09,CUST00198,Ishaan Reddy,Chennai,Tamil Nadu,South,Office Chair,Furniture,2,12017,24034,Cash on Delivery,Delivered
+ORD000224,2026-07-14,CUST00278,Akash Reddy,Kolkata,West Bengal,East,USB-C Hub,Electronics,1,2452,2452,Debit Card,Returned
+ORD000225,2026-04-05,CUST00006,Neha Iyer,Delhi,Delhi,North,Data Engineering Handbook,Books,2,1671,3342,Cash on Delivery,Delivered
+ORD000226,2026-02-13,CUST00257,Vikram Kumar,Ahmedabad,Gujarat,West,Mechanical Keyboard,Accessories,3,3090,9270,Net Banking,Delivered
+ORD000227,2025-04-01,CUST00033,Aditi Patel,Ahmedabad,Gujarat,West,Mechanical Keyboard,Accessories,4,3095,12380,UPI,Shipped
+ORD000228,2025-10-04,CUST00242,Akash Shah,Mumbai,Maharashtra,West,Wireless Mouse,Accessories,4,891,3564,Debit Card,Cancelled
+ORD000229,2026-07-11,CUST00209,Zoya Iyer,Hyderabad,Telangana,South,Office Chair,Furniture,4,11758,47032,UPI,Delivered
+ORD000230,2026-05-17,CUST00118,Ananya Sharma,Ahmedabad,Gujarat,West,Laptop Stand,Accessories,3,1382,4146,Credit Card,Processing
+ORD000231,2025-01-09,CUST00229,Aarav Kumar,Delhi,Delhi,North,Laptop Stand,Accessories,3,1353,4059,Debit Card,Delivered
+ORD000232,2026-03-29,CUST00178,Nikhil Kumar,Mumbai,Maharashtra,West,Office Chair,Furniture,1,13014,13014,UPI,Processing
+ORD000233,2026-05-24,CUST00264,Ananya Sharma,Delhi,Delhi,North,Laptop Stand,Accessories,5,1564,7820,Debit Card,Delivered
+ORD000234,2025-10-26,CUST00072,Aarav Shah,Pune,Maharashtra,West,Notebook Pack,Stationery,4,465,1860,Net Banking,Delivered
+ORD000235,2025-06-19,CUST00031,Riya Reddy,Bengaluru,Karnataka,South,Webcam,Electronics,5,2116,10580,Net Banking,Delivered
+ORD000236,2025-07-19,CUST00426,Deepa Reddy,Delhi,Delhi,North,Noise-Cancelling Headphones,Electronics,1,7779,7779,Credit Card,Delivered
+ORD000237,2025-11-16,CUST00214,Pooja Sharma,Kolkata,West Bengal,East,Standing Desk,Furniture,2,24207,48414,Debit Card,Delivered
+ORD000238,2025-06-15,CUST00001,Riya Shah,Kolkata,West Bengal,East,Noise-Cancelling Headphones,Electronics,5,6653,33265,UPI,Processing
+ORD000239,2025-05-06,CUST00423,Ishaan Reddy,Ahmedabad,Gujarat,West,Webcam,Electronics,3,2358,7074,Net Banking,Delivered
+ORD000240,2025-09-04,CUST00104,Nikhil Iyer,Kolkata,West Bengal,East,Standing Desk,Furniture,5,21949,109745,Net Banking,Returned
+ORD000241,2026-02-21,CUST00399,Deepa Sharma,Ahmedabad,Gujarat,West,Office Chair,Furniture,4,13063,52252,Cash on Delivery,Returned
+ORD000242,2026-06-26,CUST00277,Meera Reddy,Kolkata,West Bengal,East,Notebook Pack,Stationery,1,558,558,Net Banking,Processing
+ORD000243,2025-01-02,CUST00263,Zoya Patel,Chennai,Tamil Nadu,South,Webcam,Electronics,5,1996,9980,Net Banking,Delivered
+ORD000244,2026-09-22,CUST00240,Akash Reddy,Mumbai,Maharashtra,West,USB-C Hub,Electronics,2,2353,4706,Net Banking,Cancelled
+ORD000245,2025-11-14,CUST00285,Rohan Kumar,Chennai,Tamil Nadu,South,Webcam,Electronics,1,2406,2406,Credit Card,Delivered
+ORD000246,2025-04-08,CUST00210,Deepa Singh,Mumbai,Maharashtra,West,Webcam,Electronics,4,2200,8800,UPI,Delivered
+ORD000247,2025-12-29,CUST00280,Zoya Nair,Bhubaneswar,Odisha,East,Notebook Pack,Stationery,1,472,472,Debit Card,Processing
+ORD000248,2026-01-20,CUST00013,Deepa Nair,Bengaluru,Karnataka,South,Mechanical Keyboard,Accessories,2,3154,6308,UPI,Processing
+ORD000249,2026-08-08,CUST00162,Deepa Patel,Chennai,Tamil Nadu,South,USB-C Hub,Electronics,3,2731,8193,Debit Card,Cancelled
+ORD000250,2025-09-20,CUST00221,Harish Patel,Pune,Maharashtra,West,Webcam,Electronics,4,2331,9324,Net Banking,Shipped
+ORD000251,2025-10-05,CUST00091,Sneha Patel,Kolkata,West Bengal,East,Office Chair,Furniture,4,12987,51948,UPI,Processing
+ORD000252,2025-12-04,CUST00040,Sneha Singh,Ahmedabad,Gujarat,West,Data Engineering Handbook,Books,2,1682,3364,Debit Card,Processing
+ORD000253,2026-06-26,CUST00392,Pooja Reddy,Jaipur,Rajasthan,North,Wireless Mouse,Accessories,4,965,3860,Debit Card,Processing
+ORD000254,2026-03-20,CUST00178,Rahul Shah,Kolkata,West Bengal,East,Laptop Stand,Accessories,1,1554,1554,UPI,Delivered
+ORD000255,2026-01-31,CUST00311,Ishaan Singh,Mumbai,Maharashtra,West,Office Chair,Furniture,3,13300,39900,Debit Card,Delivered
+ORD000256,2025-11-18,CUST00251,Harish Shah,Mumbai,Maharashtra,West,Mechanical Keyboard,Accessories,4,3694,14776,UPI,Shipped
+ORD000257,2025-12-19,CUST00054,Aarav Rao,Kolkata,West Bengal,East,Webcam,Electronics,2,2109,4218,UPI,Returned
+ORD000258,2026-08-24,CUST00429,Rahul Verma,Bengaluru,Karnataka,South,Webcam,Electronics,5,2189,10945,Credit Card,Returned
+ORD000259,2026-05-22,CUST00239,Riya Shah,Delhi,Delhi,North,USB-C Hub,Electronics,3,2793,8379,Credit Card,Delivered
+ORD000260,2026-08-15,CUST00257,Neha Nair,Chennai,Tamil Nadu,South,Standing Desk,Furniture,1,24204,24204,Credit Card,Delivered
+ORD000261,2025-06-06,CUST00408,Harish Kumar,Hyderabad,Telangana,South,Notebook Pack,Stationery,5,549,2745,Credit Card,Cancelled
+ORD000262,2026-07-25,CUST00239,Riya Sharma,Chennai,Tamil Nadu,South,Data Engineering Handbook,Books,4,1933,7732,Credit Card,Cancelled
+ORD000263,2026-07-18,CUST00413,Meera Sharma,Bhubaneswar,Odisha,East,Laptop Stand,Accessories,3,1462,4386,Net Banking,Delivered
+ORD000264,2026-02-08,CUST00429,Pooja Singh,Kolkata,West Bengal,East,Wireless Mouse,Accessories,3,983,2949,Net Banking,Delivered
+ORD000265,2025-04-23,CUST00361,Nikhil Singh,Jaipur,Rajasthan,North,Mechanical Keyboard,Accessories,3,3182,9546,Credit Card,Cancelled
+ORD000266,2025-10-11,CUST00316,Zoya Kumar,Hyderabad,Telangana,South,Webcam,Electronics,3,2366,7098,Cash on Delivery,Processing
+ORD000267,2026-01-05,CUST00067,Riya Singh,Hyderabad,Telangana,South,USB-C Hub,Electronics,4,2773,11092,Credit Card,Delivered
+ORD000268,2025-06-03,CUST00119,Kavya Reddy,Pune,Maharashtra,West,Office Chair,Furniture,5,11937,59685,Credit Card,Processing
+ORD000269,2026-04-19,CUST00350,Vikram Singh,Bengaluru,Karnataka,South,Laptop Stand,Accessories,3,1606,4818,Debit Card,Delivered
+ORD000270,2025-08-24,CUST00327,Vikram Kumar,Bhubaneswar,Odisha,East,Data Engineering Handbook,Books,1,1653,1653,Net Banking,Shipped
+ORD000271,2025-10-27,CUST00042,Riya Reddy,Delhi,Delhi,North,Webcam,Electronics,2,2120,4240,Net Banking,Processing
+ORD000272,2025-08-18,CUST00118,Pooja Sharma,Mumbai,Maharashtra,West,Noise-Cancelling Headphones,Electronics,1,6677,6677,Debit Card,Shipped
+ORD000273,2025-08-11,CUST00205,Akash Singh,Bengaluru,Karnataka,South,Wireless Mouse,Accessories,5,958,4790,Cash on Delivery,Shipped
+ORD000274,2025-02-04,CUST00269,Pooja Shah,Bengaluru,Karnataka,South,Notebook Pack,Stationery,1,453,453,UPI,Delivered
+ORD000275,2025-09-04,CUST00273,Vikram Patel,Bhubaneswar,Odisha,East,Webcam,Electronics,4,2211,8844,UPI,Delivered
+ORD000276,2025-05-06,CUST00343,Pooja Reddy,Chennai,Tamil Nadu,South,Webcam,Electronics,4,2232,8928,Debit Card,Delivered
+ORD000277,2025-04-28,CUST00319,Zoya Nair,Bengaluru,Karnataka,South,Webcam,Electronics,4,2072,8288,Net Banking,Processing
+ORD000278,2025-11-03,CUST00053,Ananya Iyer,Hyderabad,Telangana,South,Office Chair,Furniture,2,12756,25512,Debit Card,Delivered
+ORD000279,2025-08-22,CUST00265,Ananya Shah,Chennai,Tamil Nadu,South,Office Chair,Furniture,5,12347,61735,Net Banking,Returned
+ORD000280,2025-12-28,CUST00294,Arjun Kumar,Pune,Maharashtra,West,Laptop Stand,Accessories,4,1387,5548,Cash on Delivery,Cancelled
+ORD000281,2025-02-10,CUST00291,Vikram Sharma,Delhi,Delhi,North,USB-C Hub,Electronics,3,2702,8106,Net Banking,Processing
+ORD000282,2025-11-29,CUST00138,Nikhil Shah,Delhi,Delhi,North,Notebook Pack,Stationery,1,481,481,Cash on Delivery,Cancelled
+ORD000283,2025-05-05,CUST00307,Nikhil Reddy,Hyderabad,Telangana,South,Office Chair,Furniture,2,12862,25724,Cash on Delivery,Returned
+ORD000284,2025-11-13,CUST00390,Aditi Shah,Ahmedabad,Gujarat,West,Wireless Mouse,Accessories,4,869,3476,UPI,Cancelled
+ORD000285,2025-09-21,CUST00208,Aditi Shah,Kolkata,West Bengal,East,Notebook Pack,Stationery,3,538,1614,UPI,Shipped
+ORD000286,2025-05-28,CUST00127,Meera Sharma,Bengaluru,Karnataka,South,USB-C Hub,Electronics,5,2446,12230,Net Banking,Returned
+ORD000287,2026-07-25,CUST00394,Akash Iyer,Mumbai,Maharashtra,West,Standing Desk,Furniture,3,19958,59874,UPI,Delivered
+ORD000288,2025-11-16,CUST00092,Akash Shah,Kolkata,West Bengal,East,Noise-Cancelling Headphones,Electronics,5,7653,38265,Net Banking,Cancelled
+ORD000289,2026-07-31,CUST00105,Aditi Sharma,Jaipur,Rajasthan,North,Laptop Stand,Accessories,5,1513,7565,Credit Card,Delivered
+ORD000290,2026-01-03,CUST00129,Neha Kumar,Chennai,Tamil Nadu,South,Webcam,Electronics,1,1981,1981,UPI,Processing
+ORD000291,2026-05-04,CUST00331,Ishaan Sharma,Kolkata,West Bengal,East,Office Chair,Furniture,4,13325,53300,Net Banking,Processing
+ORD000292,2025-06-18,CUST00315,Ananya Singh,Bhubaneswar,Odisha,East,Webcam,Electronics,1,2360,2360,Debit Card,Processing
+ORD000293,2025-08-22,CUST00244,Aarav Rao,Bhubaneswar,Odisha,East,Data Engineering Handbook,Books,1,1768,1768,Cash on Delivery,Delivered
+ORD000294,2026-02-10,CUST00263,Riya Shah,Bengaluru,Karnataka,South,Standing Desk,Furniture,3,22671,68013,Credit Card,Cancelled
+ORD000295,2025-12-06,CUST00005,Kavya Nair,Chennai,Tamil Nadu,South,Standing Desk,Furniture,3,22457,67371,Net Banking,Returned
+ORD000296,2025-09-26,CUST00368,Rohan Patel,Bengaluru,Karnataka,South,Noise-Cancelling Headphones,Electronics,5,7681,38405,UPI,Delivered
+ORD000297,2026-02-10,CUST00363,Pooja Verma,Pune,Maharashtra,West,Webcam,Electronics,5,2090,10450,Debit Card,Processing
+ORD000298,2025-05-21,CUST00372,Kavya Rao,Kolkata,West Bengal,East,Webcam,Electronics,2,2365,4730,Credit Card,Delivered
+ORD000299,2026-09-02,CUST00315,Harish Sharma,Bengaluru,Karnataka,South,Laptop Stand,Accessories,4,1542,6168,Debit Card,Returned
+ORD000300,2025-03-25,CUST00358,Ishaan Verma,Bhubaneswar,Odisha,East,Wireless Mouse,Accessories,1,835,835,UPI,Delivered
+ORD000301,2025-06-12,CUST00168,Ananya Sharma,Bhubaneswar,Odisha,East,Laptop Stand,Accessories,1,1428,1428,Cash on Delivery,Cancelled
+ORD000302,2025-06-19,CUST00006,Pooja Rao,Ahmedabad,Gujarat,West,Office Chair,Furniture,1,13526,13526,Debit Card,Delivered
+ORD000303,2025-08-21,CUST00230,Ishaan Nair,Jaipur,Rajasthan,North,Webcam,Electronics,2,2282,4564,Net Banking,Delivered
+ORD000304,2025-07-31,CUST00262,Aditi Shah,Ahmedabad,Gujarat,West,Noise-Cancelling Headphones,Electronics,3,7180,21540,Debit Card,Cancelled
+ORD000305,2025-11-19,CUST00274,Kavya Singh,Ahmedabad,Gujarat,West,Wireless Mouse,Accessories,4,821,3284,Cash on Delivery,Cancelled
+ORD000306,2026-06-27,CUST00430,Kavya Nair,Hyderabad,Telangana,South,Mechanical Keyboard,Accessories,1,3197,3197,Credit Card,Shipped
+ORD000307,2025-09-07,CUST00094,Harish Iyer,Jaipur,Rajasthan,North,Office Chair,Furniture,4,13112,52448,Cash on Delivery,Delivered
+ORD000308,2025-01-14,CUST00078,Akash Kumar,Jaipur,Rajasthan,North,Mechanical Keyboard,Accessories,5,3085,15425,UPI,Processing
+ORD000309,2026-03-03,CUST00445,Meera Kumar,Jaipur,Rajasthan,North,Notebook Pack,Stationery,1,556,556,Debit Card,Cancelled
+ORD000310,2026-09-01,CUST00423,Nikhil Shah,Mumbai,Maharashtra,West,Laptop Stand,Accessories,4,1400,5600,Debit Card,Delivered
+ORD000311,2026-01-03,CUST00105,Riya Rao,Chennai,Tamil Nadu,South,Laptop Stand,Accessories,1,1445,1445,Credit Card,Shipped
+ORD000312,2026-01-21,CUST00177,Neha Nair,Hyderabad,Telangana,South,USB-C Hub,Electronics,1,2445,2445,Net Banking,Cancelled
+ORD000313,2026-03-19,CUST00183,Aarav Iyer,Delhi,Delhi,North,Office Chair,Furniture,5,11314,56570,Net Banking,Shipped
+ORD000314,2025-09-03,CUST00304,Deepa Kumar,Ahmedabad,Gujarat,West,USB-C Hub,Electronics,5,2265,11325,Cash on Delivery,Delivered
+ORD000315,2026-05-25,CUST00118,Meera Verma,Pune,Maharashtra,West,Noise-Cancelling Headphones,Electronics,1,6388,6388,Cash on Delivery,Delivered
+ORD000316,2026-05-13,CUST00041,Arjun Iyer,Jaipur,Rajasthan,North,Standing Desk,Furniture,3,23391,70173,UPI,Delivered
+ORD000317,2025-05-26,CUST00170,Sneha Kumar,Mumbai,Maharashtra,West,Webcam,Electronics,3,2012,6036,Debit Card,Processing
+ORD000318,2025-07-25,CUST00279,Vikram Iyer,Ahmedabad,Gujarat,West,Laptop Stand,Accessories,1,1514,1514,UPI,Cancelled
+ORD000319,2025-05-15,CUST00289,Rahul Reddy,Kolkata,West Bengal,East,Office Chair,Furniture,1,12784,12784,Net Banking,Delivered
+ORD000320,2025-03-28,CUST00061,Riya Nair,Mumbai,Maharashtra,West,Standing Desk,Furniture,5,24035,120175,Credit Card,Delivered
+ORD000321,2025-02-28,CUST00306,Rohan Singh,Jaipur,Rajasthan,North,Laptop Stand,Accessories,1,1577,1577,Net Banking,Cancelled
+ORD000322,2025-09-26,CUST00270,Harish Iyer,Bhubaneswar,Odisha,East,Webcam,Electronics,3,2356,7068,Credit Card,Shipped
+ORD000323,2026-07-16,CUST00112,Vikram Verma,Bengaluru,Karnataka,South,Notebook Pack,Stationery,5,512,2560,Debit Card,Returned
+ORD000324,2026-03-09,CUST00294,Zoya Kumar,Pune,Maharashtra,West,Standing Desk,Furniture,3,20088,60264,UPI,Returned
+ORD000325,2026-01-07,CUST00277,Ananya Verma,Hyderabad,Telangana,South,Wireless Mouse,Accessories,4,963,3852,UPI,Delivered
+ORD000326,2025-01-19,CUST00098,Arjun Reddy,Bengaluru,Karnataka,South,Mechanical Keyboard,Accessories,3,3300,9900,Credit Card,Returned
+ORD000327,2026-05-13,CUST00250,Kavya Kumar,Kolkata,West Bengal,East,Data Engineering Handbook,Books,2,1772,3544,Credit Card,Cancelled
+ORD000328,2026-06-20,CUST00174,Diya Sharma,Chennai,Tamil Nadu,South,Laptop Stand,Accessories,3,1565,4695,Cash on Delivery,Delivered
+ORD000329,2025-02-24,CUST00404,Meera Sharma,Bhubaneswar,Odisha,East,Standing Desk,Furniture,4,23029,92116,Debit Card,Processing
+ORD000330,2026-07-27,CUST00260,Kavya Patel,Delhi,Delhi,North,USB-C Hub,Electronics,3,2464,7392,UPI,Delivered
+ORD000331,2026-04-27,CUST00155,Neha Sharma,Hyderabad,Telangana,South,Laptop Stand,Accessories,3,1388,4164,Credit Card,Delivered
+ORD000332,2026-06-03,CUST00437,Sneha Singh,Kolkata,West Bengal,East,Standing Desk,Furniture,3,23369,70107,UPI,Delivered
+ORD000333,2025-12-22,CUST00139,Ananya Patel,Hyderabad,Telangana,South,USB-C Hub,Electronics,3,2545,7635,Debit Card,Delivered
+ORD000334,2025-11-06,CUST00097,Aarav Rao,Mumbai,Maharashtra,West,Laptop Stand,Accessories,5,1507,7535,Cash on Delivery,Cancelled
+ORD000335,2025-12-10,CUST00001,Harish Shah,Pune,Maharashtra,West,Noise-Cancelling Headphones,Electronics,5,7566,37830,Credit Card,Delivered
+ORD000336,2026-02-01,CUST00139,Ishaan Kumar,Mumbai,Maharashtra,West,Wireless Mouse,Accessories,5,816,4080,Cash on Delivery,Shipped
+ORD000337,2025-07-30,CUST00255,Sneha Iyer,Delhi,Delhi,North,Laptop Stand,Accessories,1,1672,1672,Credit Card,Returned
+ORD000338,2026-03-15,CUST00426,Aditi Verma,Pune,Maharashtra,West,Mechanical Keyboard,Accessories,1,3566,3566,Debit Card,Processing
+ORD000339,2025-07-19,CUST00094,Diya Rao,Mumbai,Maharashtra,West,Mechanical Keyboard,Accessories,5,3686,18430,Cash on Delivery,Returned
+ORD000340,2026-08-09,CUST00282,Akash Rao,Bhubaneswar,Odisha,East,Notebook Pack,Stationery,5,451,2255,Cash on Delivery,Cancelled
+ORD000341,2026-02-09,CUST00118,Nikhil Nair,Mumbai,Maharashtra,West,Mechanical Keyboard,Accessories,2,3474,6948,UPI,Delivered
+ORD000342,2026-06-11,CUST00162,Ishaan Iyer,Delhi,Delhi,North,Mechanical Keyboard,Accessories,5,3554,17770,UPI,Returned
+ORD000343,2025-11-09,CUST00227,Deepa Singh,Delhi,Delhi,North,Wireless Mouse,Accessories,4,918,3672,Net Banking,Shipped
+ORD000344,2026-03-31,CUST00140,Riya Nair,Kolkata,West Bengal,East,Mechanical Keyboard,Accessories,5,3315,16575,Net Banking,Delivered
+ORD000345,2026-01-29,CUST00446,Diya Iyer,Delhi,Delhi,North,Data Engineering Handbook,Books,5,1731,8655,Debit Card,Shipped
+ORD000346,2026-01-20,CUST00408,Neha Iyer,Bengaluru,Karnataka,South,Notebook Pack,Stationery,1,514,514,Debit Card,Delivered
+ORD000347,2025-08-20,CUST00380,Kavya Nair,Kolkata,West Bengal,East,Data Engineering Handbook,Books,5,1967,9835,Cash on Delivery,Shipped
+ORD000348,2026-01-12,CUST00139,Aditi Verma,Kolkata,West Bengal,East,Notebook Pack,Stationery,4,496,1984,Credit Card,Cancelled
+ORD000349,2025-05-07,CUST00170,Riya Rao,Delhi,Delhi,North,Mechanical Keyboard,Accessories,5,3083,15415,Net Banking,Processing
+ORD000350,2025-05-19,CUST00292,Ananya Verma,Delhi,Delhi,North,Mechanical Keyboard,Accessories,5,3212,16060,Net Banking,Returned
+ORD000351,2025-06-11,CUST00120,Nikhil Rao,Pune,Maharashtra,West,Office Chair,Furniture,4,13811,55244,UPI,Delivered
+ORD000352,2025-06-03,CUST00339,Neha Kumar,Ahmedabad,Gujarat,West,Wireless Mouse,Accessories,5,909,4545,Net Banking,Delivered
+ORD000353,2025-08-10,CUST00022,Diya Shah,Ahmedabad,Gujarat,West,Mechanical Keyboard,Accessories,1,3520,3520,Debit Card,Shipped
+ORD000354,2025-01-25,CUST00198,Diya Rao,Ahmedabad,Gujarat,West,Webcam,Electronics,2,2451,4902,Cash on Delivery,Shipped
+ORD000355,2025-04-11,CUST00148,Riya Sharma,Mumbai,Maharashtra,West,Standing Desk,Furniture,3,20316,60948,Net Banking,Delivered
+ORD000356,2025-01-01,CUST00431,Neha Rao,Hyderabad,Telangana,South,Webcam,Electronics,5,2260,11300,Credit Card,Shipped
+ORD000357,2026-05-07,CUST00083,Aditi Kumar,Pune,Maharashtra,West,Office Chair,Furniture,3,12099,36297,Credit Card,Delivered
+ORD000358,2025-12-21,CUST00008,Zoya Rao,Kolkata,West Bengal,East,USB-C Hub,Electronics,2,2475,4950,Debit Card,Delivered
+ORD000359,2025-05-04,CUST00337,Harish Reddy,Hyderabad,Telangana,South,Webcam,Electronics,3,2029,6087,Cash on Delivery,Delivered
+ORD000360,2025-12-17,CUST00046,Vikram Reddy,Kolkata,West Bengal,East,Laptop Stand,Accessories,3,1653,4959,UPI,Delivered
+ORD000361,2025-01-13,CUST00238,Sneha Reddy,Kolkata,West Bengal,East,Office Chair,Furniture,3,13117,39351,Debit Card,Shipped
+ORD000362,2026-04-08,CUST00012,Sneha Kumar,Hyderabad,Telangana,South,Webcam,Electronics,4,2020,8080,Cash on Delivery,Delivered
+ORD000363,2026-04-08,CUST00335,Rahul Shah,Pune,Maharashtra,West,Data Engineering Handbook,Books,3,1838,5514,Debit Card,Shipped
+ORD000364,2025-11-15,CUST00398,Deepa Shah,Ahmedabad,Gujarat,West,Noise-Cancelling Headphones,Electronics,2,6338,12676,Credit Card,Shipped
+ORD000365,2026-09-18,CUST00229,Pooja Iyer,Pune,Maharashtra,West,Standing Desk,Furniture,1,24037,24037,UPI,Delivered
+ORD000366,2026-05-31,CUST00427,Diya Reddy,Pune,Maharashtra,West,Webcam,Electronics,1,2432,2432,Net Banking,Delivered
+ORD000367,2025-02-28,CUST00160,Vikram Reddy,Mumbai,Maharashtra,West,Standing Desk,Furniture,4,21215,84860,UPI,Cancelled
+ORD000368,2025-01-22,CUST00072,Ananya Iyer,Pune,Maharashtra,West,USB-C Hub,Electronics,5,2440,12200,Debit Card,Delivered
+ORD000369,2025-11-12,CUST00055,Riya Patel,Ahmedabad,Gujarat,West,Mechanical Keyboard,Accessories,3,3668,11004,Debit Card,Shipped
+ORD000370,2026-02-27,CUST00240,Rahul Nair,Delhi,Delhi,North,Data Engineering Handbook,Books,5,1920,9600,Net Banking,Delivered
+ORD000371,2025-03-12,CUST00029,Ananya Kumar,Kolkata,West Bengal,East,Wireless Mouse,Accessories,1,823,823,Credit Card,Delivered
+ORD000372,2025-11-03,CUST00289,Vikram Verma,Chennai,Tamil Nadu,South,Mechanical Keyboard,Accessories,1,3138,3138,Debit Card,Cancelled
+ORD000373,2026-06-27,CUST00102,Harish Reddy,Hyderabad,Telangana,South,Noise-Cancelling Headphones,Electronics,5,7351,36755,Cash on Delivery,Processing
+ORD000374,2025-11-22,CUST00279,Vikram Shah,Delhi,Delhi,North,Data Engineering Handbook,Books,5,1724,8620,Credit Card,Processing
+ORD000375,2026-01-26,CUST00161,Arjun Iyer,Ahmedabad,Gujarat,West,Laptop Stand,Accessories,3,1535,4605,UPI,Returned
+ORD000376,2025-04-24,CUST00137,Ishaan Rao,Mumbai,Maharashtra,West,Data Engineering Handbook,Books,2,1623,3246,Cash on Delivery,Delivered
+ORD000377,2025-12-06,CUST00282,Nikhil Reddy,Bhubaneswar,Odisha,East,Office Chair,Furniture,5,12307,61535,Credit Card,Cancelled
+ORD000378,2026-02-16,CUST00402,Ishaan Rao,Mumbai,Maharashtra,West,Laptop Stand,Accessories,4,1655,6620,Credit Card,Cancelled
+ORD000379,2025-07-29,CUST00002,Harish Singh,Delhi,Delhi,North,Webcam,Electronics,3,2049,6147,Cash on Delivery,Delivered
+ORD000380,2026-04-18,CUST00275,Rahul Iyer,Bhubaneswar,Odisha,East,Noise-Cancelling Headphones,Electronics,2,6891,13782,Net Banking,Processing
+ORD000381,2025-04-29,CUST00069,Aarav Reddy,Bengaluru,Karnataka,South,Mechanical Keyboard,Accessories,3,3020,9060,Debit Card,Delivered
+ORD000382,2025-01-20,CUST00103,Sneha Nair,Mumbai,Maharashtra,West,Standing Desk,Furniture,5,23814,119070,Net Banking,Cancelled
+ORD000383,2025-12-27,CUST00114,Ananya Iyer,Hyderabad,Telangana,South,Webcam,Electronics,1,2360,2360,UPI,Returned
+ORD000384,2025-11-20,CUST00345,Arjun Singh,Hyderabad,Telangana,South,Webcam,Electronics,1,2239,2239,Net Banking,Processing
+ORD000385,2025-01-19,CUST00362,Ananya Reddy,Bhubaneswar,Odisha,East,Laptop Stand,Accessories,4,1527,6108,Cash on Delivery,Processing
+ORD000386,2025-10-22,CUST00183,Arjun Reddy,Bengaluru,Karnataka,South,Mechanical Keyboard,Accessories,1,3203,3203,Cash on Delivery,Shipped
+ORD000387,2026-07-24,CUST00335,Diya Rao,Hyderabad,Telangana,South,Standing Desk,Furniture,1,23902,23902,Net Banking,Processing
+ORD000388,2025-12-06,CUST00035,Meera Sharma,Chennai,Tamil Nadu,South,USB-C Hub,Electronics,3,2745,8235,Debit Card,Delivered
+ORD000389,2026-07-25,CUST00372,Sneha Shah,Bhubaneswar,Odisha,East,Webcam,Electronics,3,2292,6876,Net Banking,Delivered
+ORD000390,2025-05-12,CUST00323,Aarav Rao,Mumbai,Maharashtra,West,Office Chair,Furniture,5,11956,59780,Credit Card,Delivered
+ORD000391,2025-10-18,CUST00218,Rahul Sharma,Delhi,Delhi,North,Mechanical Keyboard,Accessories,3,3254,9762,Credit Card,Delivered
+ORD000392,2026-02-12,CUST00044,Rahul Iyer,Bhubaneswar,Odisha,East,Notebook Pack,Stationery,5,518,2590,Cash on Delivery,Delivered
+ORD000393,2025-07-31,CUST00062,Neha Singh,Jaipur,Rajasthan,North,Standing Desk,Furniture,4,22362,89448,Debit Card,Shipped
+ORD000394,2026-08-19,CUST00394,Akash Nair,Hyderabad,Telangana,South,Mechanical Keyboard,Accessories,3,3171,9513,Net Banking,Delivered
+ORD000395,2025-07-11,CUST00110,Rohan Singh,Chennai,Tamil Nadu,South,USB-C Hub,Electronics,2,2683,5366,Cash on Delivery,Delivered
+ORD000396,2026-02-25,CUST00205,Meera Patel,Mumbai,Maharashtra,West,Notebook Pack,Stationery,1,540,540,Net Banking,Delivered
+ORD000397,2026-01-18,CUST00114,Aarav Singh,Chennai,Tamil Nadu,South,Office Chair,Furniture,4,13229,52916,UPI,Delivered
+ORD000398,2025-12-11,CUST00081,Akash Verma,Bhubaneswar,Odisha,East,Mechanical Keyboard,Accessories,1,3320,3320,Credit Card,Processing
+ORD000399,2025-04-04,CUST00079,Nikhil Sharma,Jaipur,Rajasthan,North,Wireless Mouse,Accessories,5,915,4575,Cash on Delivery,Delivered
+ORD000400,2025-02-18,CUST00098,Rahul Sharma,Chennai,Tamil Nadu,South,Noise-Cancelling Headphones,Electronics,4,7351,29404,Debit Card,Delivered
+ORD000401,2025-08-10,CUST00131,Rahul Singh,Pune,Maharashtra,West,Noise-Cancelling Headphones,Electronics,4,6401,25604,Net Banking,Shipped
+ORD000402,2026-03-31,CUST00220,Neha Iyer,Bengaluru,Karnataka,South,Noise-Cancelling Headphones,Electronics,2,6639,13278,Credit Card,Delivered
+ORD000403,2025-09-03,CUST00317,Rohan Sharma,Bhubaneswar,Odisha,East,USB-C Hub,Electronics,1,2531,2531,Debit Card,Returned
+ORD000404,2026-08-19,CUST00101,Ananya Rao,Jaipur,Rajasthan,North,USB-C Hub,Electronics,2,2666,5332,Net Banking,Shipped
+ORD000405,2026-06-17,CUST00325,Meera Reddy,Chennai,Tamil Nadu,South,Notebook Pack,Stationery,2,489,978,Cash on Delivery,Delivered
+ORD000406,2025-04-06,CUST00271,Kavya Patel,Ahmedabad,Gujarat,West,Mechanical Keyboard,Accessories,3,3667,11001,Debit Card,Delivered
+ORD000407,2026-03-06,CUST00027,Ananya Sharma,Chennai,Tamil Nadu,South,USB-C Hub,Electronics,5,2452,12260,Credit Card,Returned
+ORD000408,2026-05-29,CUST00344,Aarav Rao,Ahmedabad,Gujarat,West,Noise-Cancelling Headphones,Electronics,3,7335,22005,Credit Card,Cancelled
+ORD000409,2026-04-24,CUST00382,Rahul Iyer,Pune,Maharashtra,West,Standing Desk,Furniture,1,22345,22345,Debit Card,Processing
+ORD000410,2025-05-11,CUST00204,Arjun Rao,Pune,Maharashtra,West,Data Engineering Handbook,Books,2,1637,3274,Credit Card,Delivered
+ORD000411,2025-06-21,CUST00028,Rahul Verma,Bengaluru,Karnataka,South,Notebook Pack,Stationery,3,469,1407,Credit Card,Shipped
+ORD000412,2025-08-30,CUST00203,Meera Patel,Ahmedabad,Gujarat,West,Office Chair,Furniture,3,13558,40674,UPI,Processing
+ORD000413,2026-03-27,CUST00025,Nikhil Verma,Bengaluru,Karnataka,South,Data Engineering Handbook,Books,1,1669,1669,Cash on Delivery,Delivered
+ORD000414,2025-06-26,CUST00094,Neha Nair,Kolkata,West Bengal,East,Webcam,Electronics,3,2005,6015,Credit Card,Processing
+ORD000415,2026-09-12,CUST00448,Akash Reddy,Kolkata,West Bengal,East,Webcam,Electronics,4,2416,9664,UPI,Cancelled
+ORD000416,2026-04-17,CUST00144,Sneha Patel,Hyderabad,Telangana,South,Mechanical Keyboard,Accessories,3,3248,9744,UPI,Processing
+ORD000417,2025-07-10,CUST00133,Nikhil Reddy,Chennai,Tamil Nadu,South,Notebook Pack,Stationery,4,452,1808,Cash on Delivery,Delivered
+ORD000418,2026-09-13,CUST00042,Nikhil Patel,Ahmedabad,Gujarat,West,Data Engineering Handbook,Books,3,1631,4893,UPI,Delivered
+ORD000419,2025-07-09,CUST00011,Deepa Sharma,Delhi,Delhi,North,Mechanical Keyboard,Accessories,5,3479,17395,Net Banking,Processing
+ORD000420,2026-05-15,CUST00072,Pooja Iyer,Delhi,Delhi,North,Webcam,Electronics,2,2090,4180,Net Banking,Shipped
+ORD000421,2026-07-22,CUST00123,Vikram Nair,Jaipur,Rajasthan,North,Data Engineering Handbook,Books,5,1886,9430,Net Banking,Cancelled
+ORD000422,2025-01-03,CUST00133,Meera Verma,Jaipur,Rajasthan,North,Mechanical Keyboard,Accessories,2,3277,6554,Cash on Delivery,Shipped
+ORD000423,2025-12-23,CUST00076,Nikhil Iyer,Jaipur,Rajasthan,North,Noise-Cancelling Headphones,Electronics,5,7548,37740,Cash on Delivery,Shipped
+ORD000424,2026-05-12,CUST00288,Neha Shah,Chennai,Tamil Nadu,South,Notebook Pack,Stationery,2,480,960,Net Banking,Cancelled
+ORD000425,2025-08-27,CUST00259,Rohan Singh,Pune,Maharashtra,West,Webcam,Electronics,3,2259,6777,Net Banking,Shipped
+ORD000426,2025-05-28,CUST00214,Arjun Kumar,Bengaluru,Karnataka,South,USB-C Hub,Electronics,3,2667,8001,Net Banking,Cancelled
+ORD000427,2025-05-17,CUST00208,Zoya Iyer,Bengaluru,Karnataka,South,Data Engineering Handbook,Books,4,1993,7972,Credit Card,Delivered
+ORD000428,2025-01-23,CUST00093,Vikram Rao,Ahmedabad,Gujarat,West,Noise-Cancelling Headphones,Electronics,5,6318,31590,Net Banking,Processing
+ORD000429,2025-08-25,CUST00393,Neha Shah,Hyderabad,Telangana,South,Laptop Stand,Accessories,1,1678,1678,Credit Card,Processing
+ORD000430,2026-02-18,CUST00367,Nikhil Iyer,Hyderabad,Telangana,South,Noise-Cancelling Headphones,Electronics,3,7026,21078,Net Banking,Delivered
+ORD000431,2026-01-28,CUST00054,Ishaan Verma,Jaipur,Rajasthan,North,USB-C Hub,Electronics,1,2618,2618,Debit Card,Delivered
+ORD000432,2025-05-25,CUST00196,Riya Patel,Hyderabad,Telangana,South,Notebook Pack,Stationery,4,478,1912,Credit Card,Shipped
+ORD000433,2026-04-07,CUST00115,Nikhil Kumar,Jaipur,Rajasthan,North,Standing Desk,Furniture,4,23804,95216,UPI,Processing
+ORD000434,2025-09-01,CUST00427,Aarav Verma,Ahmedabad,Gujarat,West,Data Engineering Handbook,Books,3,1932,5796,Net Banking,Delivered
+ORD000435,2026-08-19,CUST00351,Neha Rao,Ahmedabad,Gujarat,West,Laptop Stand,Accessories,1,1455,1455,UPI,Cancelled
+ORD000436,2025-12-16,CUST00413,Rohan Kumar,Bhubaneswar,Odisha,East,Notebook Pack,Stationery,3,487,1461,Debit Card,Processing
+ORD000437,2026-09-06,CUST00043,Aditi Shah,Bhubaneswar,Odisha,East,USB-C Hub,Electronics,3,2608,7824,UPI,Delivered
+ORD000438,2026-02-27,CUST00313,Ishaan Iyer,Chennai,Tamil Nadu,South,Mechanical Keyboard,Accessories,4,3646,14584,Cash on Delivery,Cancelled
+ORD000439,2026-02-04,CUST00256,Kavya Iyer,Bengaluru,Karnataka,South,Data Engineering Handbook,Books,1,1980,1980,Net Banking,Delivered
+ORD000440,2026-03-21,CUST00237,Akash Nair,Kolkata,West Bengal,East,Wireless Mouse,Accessories,4,922,3688,UPI,Delivered
+ORD000441,2025-01-11,CUST00134,Akash Singh,Mumbai,Maharashtra,West,USB-C Hub,Electronics,2,2400,4800,Net Banking,Shipped
+ORD000442,2025-11-18,CUST00025,Sneha Shah,Hyderabad,Telangana,South,Laptop Stand,Accessories,4,1562,6248,UPI,Delivered
+ORD000443,2026-05-20,CUST00259,Diya Verma,Jaipur,Rajasthan,North,Webcam,Electronics,5,2148,10740,Credit Card,Delivered
+ORD000444,2026-03-27,CUST00408,Sneha Iyer,Chennai,Tamil Nadu,South,Office Chair,Furniture,3,11606,34818,UPI,Cancelled
+ORD000445,2025-09-23,CUST00421,Rohan Rao,Delhi,Delhi,North,Mechanical Keyboard,Accessories,4,3232,12928,Credit Card,Shipped
+ORD000446,2025-04-04,CUST00382,Aditi Reddy,Delhi,Delhi,North,Laptop Stand,Accessories,2,1465,2930,Credit Card,Returned
+ORD000447,2026-08-19,CUST00304,Akash Singh,Mumbai,Maharashtra,West,Wireless Mouse,Accessories,2,821,1642,Credit Card,Delivered
+ORD000448,2025-04-16,CUST00020,Ananya Singh,Chennai,Tamil Nadu,South,Standing Desk,Furniture,3,19883,59649,Credit Card,Delivered
+ORD000449,2026-05-16,CUST00426,Aarav Sharma,Delhi,Delhi,North,Standing Desk,Furniture,2,24538,49076,Credit Card,Delivered
+ORD000450,2025-07-25,CUST00303,Arjun Verma,Mumbai,Maharashtra,West,Data Engineering Handbook,Books,2,1935,3870,Net Banking,Delivered
+ORD000451,2025-06-02,CUST00406,Zoya Rao,Jaipur,Rajasthan,North,Standing Desk,Furniture,2,22869,45738,Net Banking,Returned
+ORD000452,2025-11-04,CUST00354,Diya Patel,Jaipur,Rajasthan,North,USB-C Hub,Electronics,1,2586,2586,Credit Card,Shipped
+ORD000453,2025-05-30,CUST00337,Arjun Shah,Jaipur,Rajasthan,North,Office Chair,Furniture,2,12606,25212,Net Banking,Cancelled
+ORD000454,2026-03-27,CUST00200,Harish Verma,Bhubaneswar,Odisha,East,Laptop Stand,Accessories,1,1458,1458,Credit Card,Delivered
+ORD000455,2026-09-03,CUST00256,Harish Kumar,Jaipur,Rajasthan,North,Standing Desk,Furniture,3,20028,60084,Debit Card,Delivered
+ORD000456,2026-05-21,CUST00382,Aarav Iyer,Pune,Maharashtra,West,Notebook Pack,Stationery,1,471,471,UPI,Shipped
+ORD000457,2026-02-28,CUST00065,Harish Singh,Bengaluru,Karnataka,South,Noise-Cancelling Headphones,Electronics,5,7539,37695,Debit Card,Delivered
+ORD000458,2026-07-27,CUST00279,Zoya Rao,Bhubaneswar,Odisha,East,Mechanical Keyboard,Accessories,2,3369,6738,Cash on Delivery,Delivered
+ORD000459,2025-01-31,CUST00173,Ishaan Patel,Delhi,Delhi,North,Laptop Stand,Accessories,3,1607,4821,Debit Card,Shipped
+ORD000460,2026-09-23,CUST00041,Aarav Shah,Bhubaneswar,Odisha,East,Data Engineering Handbook,Books,2,1780,3560,Debit Card,Delivered
+ORD000461,2025-10-02,CUST00449,Harish Shah,Bengaluru,Karnataka,South,USB-C Hub,Electronics,5,2291,11455,Net Banking,Shipped
+ORD000462,2026-05-14,CUST00187,Nikhil Shah,Mumbai,Maharashtra,West,Wireless Mouse,Accessories,4,909,3636,Cash on Delivery,Returned
+ORD000463,2025-09-21,CUST00265,Vikram Rao,Ahmedabad,Gujarat,West,Laptop Stand,Accessories,5,1422,7110,Credit Card,Processing
+ORD000464,2026-03-13,CUST00169,Arjun Patel,Jaipur,Rajasthan,North,Mechanical Keyboard,Accessories,5,3619,18095,UPI,Cancelled
+ORD000465,2026-04-04,CUST00435,Neha Verma,Bhubaneswar,Odisha,East,USB-C Hub,Electronics,1,2429,2429,Credit Card,Delivered
+ORD000466,2025-11-19,CUST00346,Harish Sharma,Mumbai,Maharashtra,West,Webcam,Electronics,3,2288,6864,Debit Card,Delivered
+ORD000467,2025-04-26,CUST00118,Ishaan Verma,Bhubaneswar,Odisha,East,Standing Desk,Furniture,3,22141,66423,UPI,Cancelled
+ORD000468,2025-08-11,CUST00273,Diya Rao,Chennai,Tamil Nadu,South,Noise-Cancelling Headphones,Electronics,4,7776,31104,Credit Card,Delivered
+ORD000469,2025-10-12,CUST00162,Kavya Nair,Mumbai,Maharashtra,West,Mechanical Keyboard,Accessories,5,3150,15750,Debit Card,Delivered
+ORD000470,2026-05-29,CUST00445,Diya Nair,Bengaluru,Karnataka,South,Office Chair,Furniture,5,12421,62105,Credit Card,Returned
+ORD000471,2026-01-18,CUST00166,Ishaan Iyer,Jaipur,Rajasthan,North,Laptop Stand,Accessories,3,1531,4593,Cash on Delivery,Shipped
+ORD000472,2025-04-26,CUST00365,Rahul Nair,Jaipur,Rajasthan,North,Noise-Cancelling Headphones,Electronics,2,7733,15466,Net Banking,Shipped
+ORD000473,2026-07-28,CUST00286,Nikhil Nair,Mumbai,Maharashtra,West,Wireless Mouse,Accessories,1,830,830,Debit Card,Cancelled
+ORD000474,2025-03-06,CUST00207,Zoya Iyer,Chennai,Tamil Nadu,South,Mechanical Keyboard,Accessories,3,3068,9204,UPI,Delivered
+ORD000475,2025-07-09,CUST00062,Nikhil Rao,Bengaluru,Karnataka,South,Laptop Stand,Accessories,5,1542,7710,Cash on Delivery,Delivered
+ORD000476,2025-11-26,CUST00422,Harish Singh,Kolkata,West Bengal,East,Standing Desk,Furniture,3,20602,61806,UPI,Delivered
+ORD000477,2026-08-01,CUST00417,Vikram Singh,Ahmedabad,Gujarat,West,USB-C Hub,Electronics,1,2409,2409,Credit Card,Delivered
+ORD000478,2025-06-17,CUST00217,Nikhil Nair,Pune,Maharashtra,West,Laptop Stand,Accessories,2,1613,3226,Debit Card,Cancelled
+ORD000479,2025-05-08,CUST00127,Rohan Rao,Hyderabad,Telangana,South,Wireless Mouse,Accessories,1,884,884,Debit Card,Shipped
+ORD000480,2026-04-29,CUST00282,Deepa Rao,Ahmedabad,Gujarat,West,Noise-Cancelling Headphones,Electronics,5,7682,38410,Credit Card,Shipped
+ORD000481,2026-04-09,CUST00435,Zoya Kumar,Jaipur,Rajasthan,North,Wireless Mouse,Accessories,2,890,1780,Credit Card,Delivered
+ORD000482,2026-09-04,CUST00422,Riya Reddy,Pune,Maharashtra,West,Mechanical Keyboard,Accessories,3,3200,9600,UPI,Delivered
+ORD000483,2025-08-18,CUST00223,Meera Patel,Chennai,Tamil Nadu,South,Mechanical Keyboard,Accessories,4,3280,13120,Debit Card,Processing
+ORD000484,2025-12-31,CUST00335,Ishaan Iyer,Ahmedabad,Gujarat,West,Noise-Cancelling Headphones,Electronics,4,6446,25784,UPI,Delivered
+ORD000485,2025-09-22,CUST00415,Akash Singh,Chennai,Tamil Nadu,South,Laptop Stand,Accessories,3,1391,4173,Credit Card,Returned
+ORD000486,2026-04-25,CUST00215,Kavya Iyer,Ahmedabad,Gujarat,West,Wireless Mouse,Accessories,3,811,2433,UPI,Returned
+ORD000487,2026-05-03,CUST00228,Harish Rao,Jaipur,Rajasthan,North,Noise-Cancelling Headphones,Electronics,1,7106,7106,Net Banking,Returned
+ORD000488,2026-05-06,CUST00026,Aarav Reddy,Jaipur,Rajasthan,North,Wireless Mouse,Accessories,3,830,2490,Net Banking,Processing
+ORD000489,2025-01-22,CUST00413,Ishaan Reddy,Bengaluru,Karnataka,South,Noise-Cancelling Headphones,Electronics,1,7786,7786,UPI,Returned
+ORD000490,2025-12-10,CUST00133,Vikram Patel,Pune,Maharashtra,West,Laptop Stand,Accessories,4,1653,6612,Net Banking,Shipped
+ORD000491,2025-03-14,CUST00213,Rahul Shah,Mumbai,Maharashtra,West,USB-C Hub,Electronics,5,2562,12810,Net Banking,Shipped
+ORD000492,2026-09-15,CUST00082,Kavya Iyer,Kolkata,West Bengal,East,Wireless Mouse,Accessories,3,996,2988,Credit Card,Delivered
+ORD000493,2026-01-16,CUST00280,Nikhil Reddy,Delhi,Delhi,North,Laptop Stand,Accessories,3,1561,4683,Cash on Delivery,Delivered
+ORD000494,2025-01-25,CUST00199,Rohan Verma,Hyderabad,Telangana,South,Data Engineering Handbook,Books,1,1791,1791,Net Banking,Cancelled
+ORD000495,2025-06-17,CUST00062,Neha Reddy,Mumbai,Maharashtra,West,Noise-Cancelling Headphones,Electronics,1,6525,6525,Credit Card,Delivered
+ORD000496,2025-06-28,CUST00434,Arjun Singh,Jaipur,Rajasthan,North,Office Chair,Furniture,2,13113,26226,UPI,Delivered
+ORD000497,2025-01-22,CUST00400,Rohan Verma,Ahmedabad,Gujarat,West,Data Engineering Handbook,Books,3,1970,5910,UPI,Delivered
+ORD000498,2026-04-22,CUST00406,Rohan Shah,Kolkata,West Bengal,East,Laptop Stand,Accessories,5,1569,7845,Cash on Delivery,Delivered
+ORD000499,2025-02-06,CUST00356,Nikhil Patel,Ahmedabad,Gujarat,West,Noise-Cancelling Headphones,Electronics,4,7565,30260,Debit Card,Cancelled
+ORD000500,2026-09-18,CUST00258,Aditi Sharma,Bhubaneswar,Odisha,East,Noise-Cancelling Headphones,Electronics,5,7831,39155,Credit Card,Cancelled
+ORD000501,2025-03-03,CUST00083,Neha Verma,Bhubaneswar,Odisha,East,Wireless Mouse,Accessories,3,862,2586,Cash on Delivery,Delivered
+ORD000502,2025-01-14,CUST00166,Sneha Rao,Bengaluru,Karnataka,South,Standing Desk,Furniture,3,20589,61767,Credit Card,Delivered
+ORD000503,2026-01-01,CUST00129,Aarav Patel,Jaipur,Rajasthan,North,Notebook Pack,Stationery,3,462,1386,Credit Card,Returned
+ORD000504,2026-09-11,CUST00295,Harish Singh,Ahmedabad,Gujarat,West,Data Engineering Handbook,Books,5,1827,9135,Debit Card,Delivered
+ORD000505,2025-02-16,CUST00117,Sneha Sharma,Kolkata,West Bengal,East,Office Chair,Furniture,3,12174,36522,Cash on Delivery,Delivered
+ORD000506,2025-04-28,CUST00034,Sneha Nair,Bengaluru,Karnataka,South,Noise-Cancelling Headphones,Electronics,3,7316,21948,UPI,Delivered
+ORD000507,2025-07-15,CUST00438,Nikhil Verma,Hyderabad,Telangana,South,Notebook Pack,Stationery,2,517,1034,Debit Card,Delivered
+ORD000508,2025-07-14,CUST00068,Aarav Reddy,Jaipur,Rajasthan,North,Mechanical Keyboard,Accessories,4,3196,12784,UPI,Delivered
+ORD000509,2026-07-21,CUST00401,Zoya Iyer,Pune,Maharashtra,West,Notebook Pack,Stationery,5,467,2335,Net Banking,Cancelled
+ORD000510,2026-07-02,CUST00388,Neha Verma,Bengaluru,Karnataka,South,Data Engineering Handbook,Books,1,1718,1718,Cash on Delivery,Delivered
+ORD000511,2026-09-12,CUST00425,Vikram Nair,Chennai,Tamil Nadu,South,Standing Desk,Furniture,1,22558,22558,Debit Card,Processing
+ORD000512,2025-08-31,CUST00100,Akash Rao,Bengaluru,Karnataka,South,USB-C Hub,Electronics,1,2434,2434,Credit Card,Delivered
+ORD000513,2025-01-17,CUST00413,Nikhil Sharma,Delhi,Delhi,North,Laptop Stand,Accessories,1,1604,1604,Debit Card,Processing
+ORD000514,2025-05-19,CUST00198,Pooja Rao,Jaipur,Rajasthan,North,Wireless Mouse,Accessories,2,977,1954,Credit Card,Delivered
+ORD000515,2026-03-10,CUST00231,Neha Verma,Bhubaneswar,Odisha,East,Laptop Stand,Accessories,4,1433,5732,Debit Card,Cancelled
+ORD000516,2026-05-29,CUST00403,Nikhil Patel,Ahmedabad,Gujarat,West,Noise-Cancelling Headphones,Electronics,5,7280,36400,UPI,Processing
+ORD000517,2026-02-18,CUST00216,Zoya Iyer,Ahmedabad,Gujarat,West,Noise-Cancelling Headphones,Electronics,5,6578,32890,UPI,Processing
+ORD000518,2026-02-27,CUST00141,Rohan Reddy,Delhi,Delhi,North,Notebook Pack,Stationery,5,559,2795,Credit Card,Delivered
+ORD000519,2025-08-02,CUST00291,Akash Rao,Chennai,Tamil Nadu,South,Laptop Stand,Accessories,3,1466,4398,Cash on Delivery,Cancelled
+ORD000520,2025-06-15,CUST00111,Aarav Patel,Bengaluru,Karnataka,South,Wireless Mouse,Accessories,1,924,924,Debit Card,Delivered
+ORD000521,2025-08-08,CUST00270,Sneha Rao,Delhi,Delhi,North,Webcam,Electronics,5,2136,10680,Credit Card,Processing
+ORD000522,2026-08-03,CUST00251,Ishaan Nair,Pune,Maharashtra,West,Notebook Pack,Stationery,3,532,1596,Cash on Delivery,Delivered
+ORD000523,2025-05-19,CUST00402,Neha Nair,Chennai,Tamil Nadu,South,Office Chair,Furniture,4,12227,48908,Debit Card,Processing
+ORD000524,2025-03-03,CUST00265,Pooja Shah,Jaipur,Rajasthan,North,Noise-Cancelling Headphones,Electronics,3,6785,20355,Net Banking,Returned
+ORD000525,2026-06-10,CUST00239,Vikram Rao,Mumbai,Maharashtra,West,Data Engineering Handbook,Books,4,2007,8028,Debit Card,Delivered
+ORD000526,2026-05-20,CUST00352,Arjun Reddy,Hyderabad,Telangana,South,Mechanical Keyboard,Accessories,5,3072,15360,Credit Card,Cancelled
+ORD000527,2026-09-03,CUST00002,Zoya Reddy,Kolkata,West Bengal,East,Noise-Cancelling Headphones,Electronics,1,7066,7066,Debit Card,Processing
+ORD000528,2025-04-28,CUST00214,Pooja Sharma,Kolkata,West Bengal,East,Laptop Stand,Accessories,5,1569,7845,UPI,Cancelled
+ORD000529,2026-08-28,CUST00258,Harish Rao,Mumbai,Maharashtra,West,Notebook Pack,Stationery,3,478,1434,Debit Card,Delivered
+ORD000530,2025-11-27,CUST00162,Vikram Singh,Chennai,Tamil Nadu,South,Office Chair,Furniture,1,12970,12970,UPI,Processing
+ORD000531,2025-06-17,CUST00206,Meera Sharma,Pune,Maharashtra,West,Noise-Cancelling Headphones,Electronics,3,7735,23205,Cash on Delivery,Cancelled
+ORD000532,2025-10-22,CUST00006,Aditi Patel,Delhi,Delhi,North,Standing Desk,Furniture,1,23318,23318,Net Banking,Cancelled
+ORD000533,2026-06-29,CUST00029,Deepa Iyer,Bengaluru,Karnataka,South,Mechanical Keyboard,Accessories,1,3507,3507,Debit Card,Processing
+ORD000534,2025-11-11,CUST00110,Ishaan Patel,Mumbai,Maharashtra,West,Noise-Cancelling Headphones,Electronics,4,6818,27272,Cash on Delivery,Cancelled
+ORD000535,2025-11-05,CUST00305,Pooja Kumar,Delhi,Delhi,North,Laptop Stand,Accessories,1,1570,1570,Net Banking,Cancelled
+ORD000536,2025-04-05,CUST00232,Ishaan Singh,Bengaluru,Karnataka,South,Laptop Stand,Accessories,5,1439,7195,Net Banking,Processing
+ORD000537,2025-10-17,CUST00305,Riya Reddy,Kolkata,West Bengal,East,Mechanical Keyboard,Accessories,2,3403,6806,Debit Card,Delivered
+ORD000538,2026-03-31,CUST00278,Nikhil Rao,Chennai,Tamil Nadu,South,Noise-Cancelling Headphones,Electronics,2,7400,14800,Debit Card,Shipped
+ORD000539,2025-11-10,CUST00297,Zoya Reddy,Delhi,Delhi,North,Notebook Pack,Stationery,2,503,1006,Net Banking,Shipped
+ORD000540,2025-07-16,CUST00122,Rahul Sharma,Hyderabad,Telangana,South,Data Engineering Handbook,Books,5,1973,9865,UPI,Delivered
+ORD000541,2025-04-27,CUST00016,Sneha Verma,Pune,Maharashtra,West,Standing Desk,Furniture,2,22575,45150,UPI,Cancelled
+ORD000542,2025-02-10,CUST00431,Deepa Sharma,Hyderabad,Telangana,South,Notebook Pack,Stationery,1,475,475,Net Banking,Delivered
+ORD000543,2025-04-05,CUST00140,Zoya Iyer,Delhi,Delhi,North,Laptop Stand,Accessories,4,1670,6680,Credit Card,Delivered
+ORD000544,2025-09-06,CUST00388,Ishaan Verma,Bengaluru,Karnataka,South,Mechanical Keyboard,Accessories,3,3326,9978,Credit Card,Cancelled
+ORD000545,2026-01-04,CUST00198,Deepa Verma,Pune,Maharashtra,West,USB-C Hub,Electronics,2,2771,5542,Credit Card,Cancelled
+ORD000546,2025-06-23,CUST00268,Ishaan Singh,Mumbai,Maharashtra,West,USB-C Hub,Electronics,5,2525,12625,Net Banking,Delivered
+ORD000547,2026-03-23,CUST00266,Zoya Verma,Delhi,Delhi,North,Notebook Pack,Stationery,1,524,524,UPI,Delivered
+ORD000548,2025-09-05,CUST00339,Ishaan Sharma,Pune,Maharashtra,West,Mechanical Keyboard,Accessories,5,3605,18025,Credit Card,Cancelled
+ORD000549,2025-07-07,CUST00013,Arjun Shah,Bengaluru,Karnataka,South,Notebook Pack,Stationery,3,455,1365,Cash on Delivery,Delivered
+ORD000550,2025-11-17,CUST00400,Kavya Rao,Ahmedabad,Gujarat,West,Office Chair,Furniture,1,13041,13041,Debit Card,Delivered
+ORD000551,2025-01-15,CUST00046,Deepa Verma,Delhi,Delhi,North,Standing Desk,Furniture,5,22418,112090,Debit Card,Cancelled
+ORD000552,2025-05-24,CUST00126,Diya Sharma,Chennai,Tamil Nadu,South,Notebook Pack,Stationery,3,483,1449,Net Banking,Processing
+ORD000553,2026-09-16,CUST00052,Vikram Iyer,Kolkata,West Bengal,East,Standing Desk,Furniture,4,20878,83512,Net Banking,Delivered
+ORD000554,2025-06-19,CUST00246,Sneha Sharma,Chennai,Tamil Nadu,South,Data Engineering Handbook,Books,2,1900,3800,Cash on Delivery,Shipped
+ORD000555,2026-02-15,CUST00334,Aditi Reddy,Jaipur,Rajasthan,North,Standing Desk,Furniture,5,23974,119870,Credit Card,Returned
+ORD000556,2025-11-08,CUST00372,Meera Reddy,Bengaluru,Karnataka,South,Webcam,Electronics,5,2191,10955,Credit Card,Delivered
+ORD000557,2026-01-05,CUST00193,Harish Patel,Bhubaneswar,Odisha,East,Noise-Cancelling Headphones,Electronics,1,7187,7187,UPI,Processing
+ORD000558,2026-08-10,CUST00210,Rahul Kumar,Mumbai,Maharashtra,West,Webcam,Electronics,5,2192,10960,Net Banking,Processing
+ORD000559,2025-02-12,CUST00359,Aditi Rao,Bengaluru,Karnataka,South,Mechanical Keyboard,Accessories,4,3143,12572,Credit Card,Cancelled
+ORD000560,2025-10-11,CUST00090,Deepa Singh,Kolkata,West Bengal,East,Wireless Mouse,Accessories,3,999,2997,Credit Card,Delivered
+ORD000561,2026-09-15,CUST00428,Nikhil Singh,Ahmedabad,Gujarat,West,Webcam,Electronics,4,2402,9608,Net Banking,Delivered
+ORD000562,2026-03-05,CUST00066,Sneha Sharma,Pune,Maharashtra,West,Standing Desk,Furniture,4,22252,89008,Credit Card,Delivered
+ORD000563,2026-02-20,CUST00330,Harish Verma,Bengaluru,Karnataka,South,Mechanical Keyboard,Accessories,4,3131,12524,UPI,Delivered
+ORD000564,2025-02-24,CUST00368,Pooja Nair,Bengaluru,Karnataka,South,Office Chair,Furniture,3,11719,35157,Cash on Delivery,Delivered
+ORD000565,2026-03-02,CUST00177,Aarav Verma,Delhi,Delhi,North,Laptop Stand,Accessories,4,1550,6200,Credit Card,Delivered
+ORD000566,2026-07-25,CUST00193,Sneha Singh,Bengaluru,Karnataka,South,USB-C Hub,Electronics,5,2631,13155,Credit Card,Delivered
+ORD000567,2025-01-28,CUST00309,Kavya Iyer,Pune,Maharashtra,West,Office Chair,Furniture,2,11465,22930,Debit Card,Delivered
+ORD000568,2025-12-21,CUST00016,Nikhil Verma,Bengaluru,Karnataka,South,Office Chair,Furniture,3,12356,37068,UPI,Shipped
+ORD000569,2026-06-19,CUST00233,Ishaan Rao,Jaipur,Rajasthan,North,Laptop Stand,Accessories,2,1482,2964,Cash on Delivery,Delivered
+ORD000570,2025-07-19,CUST00376,Rahul Singh,Ahmedabad,Gujarat,West,Standing Desk,Furniture,4,22617,90468,Debit Card,Shipped
+ORD000571,2025-03-05,CUST00274,Vikram Patel,Delhi,Delhi,North,Webcam,Electronics,4,2092,8368,Debit Card,Returned
+ORD000572,2026-04-16,CUST00308,Riya Kumar,Delhi,Delhi,North,Office Chair,Furniture,3,13943,41829,UPI,Delivered
+ORD000573,2025-03-12,CUST00240,Rahul Kumar,Ahmedabad,Gujarat,West,Data Engineering Handbook,Books,5,1956,9780,Cash on Delivery,Returned
+ORD000574,2025-01-12,CUST00250,Riya Nair,Mumbai,Maharashtra,West,Mechanical Keyboard,Accessories,2,3511,7022,Cash on Delivery,Delivered
+ORD000575,2025-05-01,CUST00320,Pooja Kumar,Delhi,Delhi,North,Laptop Stand,Accessories,2,1367,2734,Cash on Delivery,Delivered
+ORD000576,2025-05-13,CUST00004,Aarav Sharma,Delhi,Delhi,North,Laptop Stand,Accessories,3,1361,4083,Debit Card,Processing
+ORD000577,2026-01-11,CUST00060,Meera Verma,Pune,Maharashtra,West,Data Engineering Handbook,Books,1,1868,1868,Debit Card,Cancelled
+ORD000578,2025-11-04,CUST00217,Arjun Verma,Pune,Maharashtra,West,USB-C Hub,Electronics,4,2604,10416,Debit Card,Delivered
+ORD000579,2026-03-26,CUST00141,Arjun Verma,Chennai,Tamil Nadu,South,Data Engineering Handbook,Books,2,1732,3464,Cash on Delivery,Returned
+ORD000580,2025-06-03,CUST00054,Kavya Kumar,Delhi,Delhi,North,Webcam,Electronics,2,2022,4044,Credit Card,Processing
+ORD000581,2025-03-19,CUST00068,Kavya Singh,Chennai,Tamil Nadu,South,Noise-Cancelling Headphones,Electronics,5,6443,32215,Debit Card,Cancelled
+ORD000582,2026-03-02,CUST00091,Harish Nair,Jaipur,Rajasthan,North,Office Chair,Furniture,5,13176,65880,UPI,Cancelled
+ORD000583,2025-10-05,CUST00368,Sneha Reddy,Kolkata,West Bengal,East,Mechanical Keyboard,Accessories,2,3459,6918,Cash on Delivery,Delivered
+ORD000584,2025-05-08,CUST00165,Zoya Verma,Chennai,Tamil Nadu,South,Office Chair,Furniture,1,11497,11497,Net Banking,Shipped
+ORD000585,2026-02-12,CUST00135,Akash Sharma,Hyderabad,Telangana,South,Mechanical Keyboard,Accessories,3,3036,9108,Debit Card,Returned
+ORD000586,2026-05-26,CUST00413,Rohan Sharma,Pune,Maharashtra,West,Mechanical Keyboard,Accessories,5,3407,17035,Net Banking,Cancelled
+ORD000587,2025-01-26,CUST00260,Aarav Singh,Mumbai,Maharashtra,West,Standing Desk,Furniture,1,19945,19945,Net Banking,Returned
+ORD000588,2025-07-10,CUST00200,Riya Reddy,Ahmedabad,Gujarat,West,Wireless Mouse,Accessories,5,990,4950,Net Banking,Returned
+ORD000589,2026-02-11,CUST00179,Akash Shah,Pune,Maharashtra,West,Standing Desk,Furniture,3,24118,72354,Net Banking,Delivered
+ORD000590,2025-11-26,CUST00367,Neha Rao,Hyderabad,Telangana,South,Mechanical Keyboard,Accessories,2,3486,6972,Credit Card,Cancelled
+ORD000591,2026-07-03,CUST00271,Diya Patel,Pune,Maharashtra,West,Office Chair,Furniture,3,13013,39039,Credit Card,Cancelled
+ORD000592,2025-11-01,CUST00001,Diya Shah,Bhubaneswar,Odisha,East,Wireless Mouse,Accessories,5,871,4355,UPI,Cancelled
+ORD000593,2026-07-01,CUST00351,Aditi Shah,Mumbai,Maharashtra,West,Mechanical Keyboard,Accessories,3,3676,11028,Net Banking,Shipped
+ORD000594,2026-07-10,CUST00432,Neha Reddy,Jaipur,Rajasthan,North,Mechanical Keyboard,Accessories,1,2981,2981,Debit Card,Delivered
+ORD000595,2025-10-02,CUST00293,Pooja Iyer,Mumbai,Maharashtra,West,Office Chair,Furniture,3,12825,38475,UPI,Shipped
+ORD000596,2025-09-07,CUST00241,Harish Reddy,Mumbai,Maharashtra,West,Webcam,Electronics,4,2334,9336,Credit Card,Delivered
+ORD000597,2025-06-23,CUST00109,Deepa Patel,Pune,Maharashtra,West,USB-C Hub,Electronics,5,2596,12980,Debit Card,Delivered
+ORD000598,2026-04-22,CUST00036,Riya Nair,Bhubaneswar,Odisha,East,Laptop Stand,Accessories,4,1580,6320,Net Banking,Returned
+ORD000599,2025-11-04,CUST00421,Kavya Reddy,Delhi,Delhi,North,Mechanical Keyboard,Accessories,2,3536,7072,UPI,Shipped
+ORD000600,2026-09-20,CUST00268,Neha Patel,Pune,Maharashtra,West,Noise-Cancelling Headphones,Electronics,2,6841,13682,Net Banking,Delivered
+ORD000601,2026-01-19,CUST00068,Akash Shah,Hyderabad,Telangana,South,Office Chair,Furniture,1,11679,11679,Net Banking,Delivered
+ORD000602,2025-03-27,CUST00007,Riya Rao,Delhi,Delhi,North,Mechanical Keyboard,Accessories,5,3396,16980,Credit Card,Delivered
+ORD000603,2026-04-23,CUST00277,Rohan Kumar,Mumbai,Maharashtra,West,Notebook Pack,Stationery,2,480,960,Cash on Delivery,Delivered
+ORD000604,2025-01-29,CUST00422,Meera Patel,Jaipur,Rajasthan,North,USB-C Hub,Electronics,1,2491,2491,Credit Card,Shipped
+ORD000605,2025-10-11,CUST00309,Nikhil Kumar,Bengaluru,Karnataka,South,Laptop Stand,Accessories,5,1525,7625,Net Banking,Processing
+ORD000606,2026-02-18,CUST00376,Diya Iyer,Hyderabad,Telangana,South,Standing Desk,Furniture,2,21105,42210,UPI,Delivered
+ORD000607,2026-07-26,CUST00152,Akash Shah,Hyderabad,Telangana,South,Webcam,Electronics,4,2252,9008,UPI,Shipped
+ORD000608,2025-03-06,CUST00028,Riya Sharma,Bhubaneswar,Odisha,East,Data Engineering Handbook,Books,4,1904,7616,Net Banking,Delivered
+ORD000609,2025-05-26,CUST00225,Arjun Sharma,Ahmedabad,Gujarat,West,Wireless Mouse,Accessories,5,881,4405,Cash on Delivery,Shipped
+ORD000610,2025-09-15,CUST00383,Rohan Reddy,Delhi,Delhi,North,Laptop Stand,Accessories,1,1446,1446,Debit Card,Delivered
+ORD000611,2026-01-06,CUST00151,Arjun Verma,Ahmedabad,Gujarat,West,Notebook Pack,Stationery,2,513,1026,Credit Card,Shipped
+ORD000612,2026-08-14,CUST00426,Ananya Singh,Pune,Maharashtra,West,Wireless Mouse,Accessories,1,1006,1006,Debit Card,Delivered
+ORD000613,2025-06-29,CUST00448,Kavya Sharma,Mumbai,Maharashtra,West,USB-C Hub,Electronics,1,2793,2793,UPI,Processing
+ORD000614,2025-06-04,CUST00080,Riya Nair,Delhi,Delhi,North,Noise-Cancelling Headphones,Electronics,2,6530,13060,Debit Card,Shipped
+ORD000615,2026-07-27,CUST00374,Harish Sharma,Mumbai,Maharashtra,West,Data Engineering Handbook,Books,1,1966,1966,Debit Card,Cancelled
+ORD000616,2025-05-28,CUST00033,Zoya Rao,Pune,Maharashtra,West,Mechanical Keyboard,Accessories,1,3185,3185,Net Banking,Delivered
+ORD000617,2025-11-06,CUST00399,Ishaan Reddy,Pune,Maharashtra,West,Data Engineering Handbook,Books,1,1833,1833,Debit Card,Shipped
+ORD000618,2025-04-28,CUST00325,Aditi Nair,Mumbai,Maharashtra,West,Mechanical Keyboard,Accessories,5,3224,16120,Debit Card,Cancelled
+ORD000619,2025-09-09,CUST00209,Meera Patel,Mumbai,Maharashtra,West,Notebook Pack,Stationery,4,490,1960,Cash on Delivery,Delivered
+ORD000620,2025-08-20,CUST00439,Ishaan Shah,Pune,Maharashtra,West,Standing Desk,Furniture,3,22167,66501,Cash on Delivery,Returned
+ORD000621,2025-08-30,CUST00097,Aditi Sharma,Kolkata,West Bengal,East,USB-C Hub,Electronics,2,2386,4772,UPI,Delivered
+ORD000622,2026-04-23,CUST00004,Riya Rao,Chennai,Tamil Nadu,South,Office Chair,Furniture,3,13151,39453,Net Banking,Cancelled
+ORD000623,2025-06-12,CUST00343,Vikram Singh,Kolkata,West Bengal,East,Webcam,Electronics,3,2046,6138,Debit Card,Returned
+ORD000624,2025-08-30,CUST00327,Ishaan Singh,Hyderabad,Telangana,South,Notebook Pack,Stationery,1,524,524,UPI,Cancelled
+ORD000625,2025-11-30,CUST00350,Aarav Singh,Delhi,Delhi,North,Standing Desk,Furniture,2,19835,39670,UPI,Delivered
+ORD000626,2025-07-22,CUST00199,Vikram Nair,Mumbai,Maharashtra,West,Noise-Cancelling Headphones,Electronics,5,7388,36940,Debit Card,Delivered
+ORD000627,2025-07-06,CUST00400,Meera Shah,Pune,Maharashtra,West,Notebook Pack,Stationery,3,538,1614,Cash on Delivery,Delivered
+ORD000628,2025-08-13,CUST00405,Rohan Nair,Bhubaneswar,Odisha,East,Laptop Stand,Accessories,3,1652,4956,Credit Card,Returned
+ORD000629,2026-09-14,CUST00026,Pooja Shah,Hyderabad,Telangana,South,Noise-Cancelling Headphones,Electronics,4,7223,28892,Debit Card,Shipped
+ORD000630,2025-05-09,CUST00212,Kavya Singh,Pune,Maharashtra,West,Standing Desk,Furniture,2,21609,43218,Debit Card,Delivered
+ORD000631,2025-10-06,CUST00012,Neha Verma,Bhubaneswar,Odisha,East,Office Chair,Furniture,1,12991,12991,Cash on Delivery,Delivered
+ORD000632,2026-09-05,CUST00375,Harish Iyer,Pune,Maharashtra,West,USB-C Hub,Electronics,4,2683,10732,Cash on Delivery,Cancelled
+ORD000633,2025-09-28,CUST00390,Pooja Sharma,Chennai,Tamil Nadu,South,USB-C Hub,Electronics,3,2347,7041,Net Banking,Delivered
+ORD000634,2025-02-04,CUST00416,Neha Patel,Bhubaneswar,Odisha,East,Notebook Pack,Stationery,5,476,2380,UPI,Delivered
+ORD000635,2026-06-29,CUST00127,Rohan Shah,Jaipur,Rajasthan,North,Wireless Mouse,Accessories,5,874,4370,Net Banking,Delivered
+ORD000636,2025-01-23,CUST00055,Harish Singh,Hyderabad,Telangana,South,Webcam,Electronics,2,2145,4290,UPI,Returned
+ORD000637,2026-05-02,CUST00369,Rahul Nair,Kolkata,West Bengal,East,Standing Desk,Furniture,2,23858,47716,Net Banking,Cancelled
+ORD000638,2026-02-17,CUST00209,Aditi Sharma,Bhubaneswar,Odisha,East,Data Engineering Handbook,Books,3,1960,5880,Net Banking,Returned
+ORD000639,2025-02-24,CUST00349,Zoya Patel,Pune,Maharashtra,West,Notebook Pack,Stationery,2,472,944,Net Banking,Delivered
+ORD000640,2026-02-09,CUST00319,Akash Shah,Jaipur,Rajasthan,North,Noise-Cancelling Headphones,Electronics,4,7125,28500,Cash on Delivery,Processing
+ORD000641,2026-01-11,CUST00109,Zoya Kumar,Chennai,Tamil Nadu,South,Laptop Stand,Accessories,4,1592,6368,Cash on Delivery,Returned
+ORD000642,2025-07-18,CUST00008,Rahul Sharma,Bhubaneswar,Odisha,East,Noise-Cancelling Headphones,Electronics,4,6860,27440,Cash on Delivery,Delivered
+ORD000643,2026-02-09,CUST00026,Arjun Singh,Delhi,Delhi,North,Notebook Pack,Stationery,3,501,1503,Debit Card,Shipped
+ORD000644,2026-05-23,CUST00078,Sneha Patel,Mumbai,Maharashtra,West,Notebook Pack,Stationery,5,504,2520,Net Banking,Delivered
+ORD000645,2026-08-26,CUST00009,Arjun Verma,Jaipur,Rajasthan,North,Wireless Mouse,Accessories,4,937,3748,Credit Card,Returned
+ORD000646,2025-10-25,CUST00061,Akash Shah,Kolkata,West Bengal,East,Standing Desk,Furniture,2,21426,42852,UPI,Cancelled
+ORD000647,2025-01-03,CUST00292,Harish Nair,Bhubaneswar,Odisha,East,Notebook Pack,Stationery,2,468,936,Debit Card,Shipped
+ORD000648,2026-02-03,CUST00249,Rahul Reddy,Kolkata,West Bengal,East,Mechanical Keyboard,Accessories,4,3523,14092,Net Banking,Delivered
+ORD000649,2026-07-13,CUST00418,Ishaan Iyer,Kolkata,West Bengal,East,Standing Desk,Furniture,4,20888,83552,Debit Card,Delivered
+ORD000650,2025-07-21,CUST00337,Riya Singh,Delhi,Delhi,North,Notebook Pack,Stationery,5,544,2720,Cash on Delivery,Cancelled
+ORD000651,2025-03-15,CUST00104,Rahul Shah,Ahmedabad,Gujarat,West,Data Engineering Handbook,Books,3,1906,5718,UPI,Delivered
+ORD000652,2026-09-15,CUST00279,Neha Shah,Kolkata,West Bengal,East,USB-C Hub,Electronics,2,2365,4730,Credit Card,Delivered
+ORD000653,2026-09-17,CUST00260,Sneha Patel,Bengaluru,Karnataka,South,Data Engineering Handbook,Books,3,1650,4950,Credit Card,Delivered
+ORD000654,2026-08-27,CUST00204,Akash Iyer,Kolkata,West Bengal,East,Mechanical Keyboard,Accessories,4,3320,13280,Credit Card,Returned
+ORD000655,2025-04-11,CUST00318,Aarav Kumar,Ahmedabad,Gujarat,West,Webcam,Electronics,1,2404,2404,Debit Card,Delivered
+ORD000656,2026-01-27,CUST00322,Kavya Singh,Hyderabad,Telangana,South,Mechanical Keyboard,Accessories,3,3503,10509,UPI,Shipped
+ORD000657,2026-02-16,CUST00309,Zoya Verma,Pune,Maharashtra,West,Noise-Cancelling Headphones,Electronics,5,6729,33645,Credit Card,Delivered
+ORD000658,2025-03-29,CUST00429,Sneha Iyer,Jaipur,Rajasthan,North,Mechanical Keyboard,Accessories,5,3626,18130,Credit Card,Shipped
+ORD000659,2026-07-24,CUST00388,Deepa Iyer,Mumbai,Maharashtra,West,Webcam,Electronics,2,2348,4696,Credit Card,Processing
+ORD000660,2025-08-11,CUST00391,Sneha Nair,Kolkata,West Bengal,East,Mechanical Keyboard,Accessories,5,3225,16125,Debit Card,Cancelled
+ORD000661,2025-11-29,CUST00004,Harish Sharma,Bengaluru,Karnataka,South,Office Chair,Furniture,4,12301,49204,Cash on Delivery,Returned
+ORD000662,2026-05-26,CUST00408,Harish Nair,Hyderabad,Telangana,South,Standing Desk,Furniture,3,22044,66132,Credit Card,Delivered
+ORD000663,2026-05-26,CUST00422,Kavya Iyer,Pune,Maharashtra,West,Laptop Stand,Accessories,5,1608,8040,Credit Card,Delivered
+ORD000664,2025-10-04,CUST00244,Nikhil Kumar,Chennai,Tamil Nadu,South,Laptop Stand,Accessories,2,1370,2740,Net Banking,Shipped
+ORD000665,2026-05-14,CUST00238,Neha Reddy,Mumbai,Maharashtra,West,Notebook Pack,Stationery,3,485,1455,Debit Card,Cancelled
+ORD000666,2026-01-09,CUST00337,Sneha Reddy,Pune,Maharashtra,West,Mechanical Keyboard,Accessories,5,3198,15990,Credit Card,Returned
+ORD000667,2025-04-11,CUST00230,Diya Shah,Delhi,Delhi,North,Data Engineering Handbook,Books,1,1638,1638,Credit Card,Cancelled
+ORD000668,2025-01-16,CUST00144,Rohan Sharma,Ahmedabad,Gujarat,West,USB-C Hub,Electronics,2,2378,4756,Net Banking,Cancelled
+ORD000669,2025-11-29,CUST00256,Pooja Iyer,Kolkata,West Bengal,East,Noise-Cancelling Headphones,Electronics,2,6347,12694,UPI,Processing
+ORD000670,2026-01-04,CUST00116,Harish Rao,Bengaluru,Karnataka,South,Notebook Pack,Stationery,5,528,2640,Net Banking,Returned
+ORD000671,2025-09-12,CUST00241,Kavya Verma,Kolkata,West Bengal,East,Mechanical Keyboard,Accessories,1,3563,3563,Credit Card,Processing
+ORD000672,2026-08-31,CUST00321,Riya Patel,Pune,Maharashtra,West,Laptop Stand,Accessories,3,1357,4071,UPI,Cancelled
+ORD000673,2025-09-21,CUST00216,Rohan Nair,Jaipur,Rajasthan,North,Laptop Stand,Accessories,3,1468,4404,Debit Card,Processing
+ORD000674,2025-01-27,CUST00368,Akash Patel,Chennai,Tamil Nadu,South,Notebook Pack,Stationery,2,487,974,Credit Card,Delivered
+ORD000675,2025-04-19,CUST00326,Vikram Rao,Delhi,Delhi,North,Laptop Stand,Accessories,2,1604,3208,Cash on Delivery,Shipped
+ORD000676,2025-05-10,CUST00254,Nikhil Singh,Ahmedabad,Gujarat,West,Data Engineering Handbook,Books,5,1760,8800,UPI,Delivered
+ORD000677,2026-09-13,CUST00031,Vikram Nair,Delhi,Delhi,North,Noise-Cancelling Headphones,Electronics,2,7619,15238,Cash on Delivery,Cancelled
+ORD000678,2025-02-18,CUST00395,Rahul Kumar,Pune,Maharashtra,West,Wireless Mouse,Accessories,2,912,1824,Debit Card,Cancelled
+ORD000679,2025-04-08,CUST00308,Zoya Iyer,Mumbai,Maharashtra,West,Mechanical Keyboard,Accessories,4,3263,13052,Debit Card,Delivered
+ORD000680,2026-07-02,CUST00137,Aditi Singh,Pune,Maharashtra,West,USB-C Hub,Electronics,3,2397,7191,Debit Card,Processing
+ORD000681,2026-02-15,CUST00415,Aarav Sharma,Bengaluru,Karnataka,South,Notebook Pack,Stationery,5,541,2705,UPI,Delivered
+ORD000682,2026-02-26,CUST00280,Aditi Nair,Delhi,Delhi,North,Mechanical Keyboard,Accessories,1,3449,3449,UPI,Processing
+ORD000683,2025-02-19,CUST00336,Harish Singh,Kolkata,West Bengal,East,Notebook Pack,Stationery,2,501,1002,UPI,Shipped
+ORD000684,2025-07-27,CUST00142,Vikram Shah,Bhubaneswar,Odisha,East,Office Chair,Furniture,4,11549,46196,Cash on Delivery,Returned
+ORD000685,2026-03-05,CUST00035,Ananya Nair,Ahmedabad,Gujarat,West,Mechanical Keyboard,Accessories,1,3670,3670,UPI,Delivered
+ORD000686,2026-09-22,CUST00282,Akash Nair,Jaipur,Rajasthan,North,USB-C Hub,Electronics,3,2574,7722,Credit Card,Shipped
+ORD000687,2025-07-23,CUST00365,Rahul Verma,Delhi,Delhi,North,Webcam,Electronics,4,2203,8812,Net Banking,Cancelled
+ORD000688,2025-07-23,CUST00315,Nikhil Rao,Pune,Maharashtra,West,USB-C Hub,Electronics,4,2681,10724,UPI,Processing
+ORD000689,2026-01-09,CUST00327,Zoya Iyer,Bhubaneswar,Odisha,East,Standing Desk,Furniture,4,22427,89708,Debit Card,Returned
+ORD000690,2026-01-04,CUST00192,Kavya Singh,Kolkata,West Bengal,East,Mechanical Keyboard,Accessories,5,3521,17605,Debit Card,Cancelled
+ORD000691,2025-10-22,CUST00243,Riya Nair,Jaipur,Rajasthan,North,USB-C Hub,Electronics,4,2593,10372,Cash on Delivery,Processing
+ORD000692,2025-09-27,CUST00356,Sneha Verma,Ahmedabad,Gujarat,West,Standing Desk,Furniture,3,22634,67902,Net Banking,Delivered
+ORD000693,2025-03-08,CUST00179,Neha Reddy,Mumbai,Maharashtra,West,Standing Desk,Furniture,1,22418,22418,Cash on Delivery,Cancelled
+ORD000694,2025-02-18,CUST00304,Rahul Nair,Bhubaneswar,Odisha,East,Webcam,Electronics,2,2452,4904,Debit Card,Delivered
+ORD000695,2025-11-05,CUST00286,Rohan Nair,Delhi,Delhi,North,Mechanical Keyboard,Accessories,4,3691,14764,UPI,Delivered
+ORD000696,2026-06-18,CUST00009,Nikhil Singh,Pune,Maharashtra,West,Wireless Mouse,Accessories,4,960,3840,Net Banking,Returned
+ORD000697,2026-08-09,CUST00246,Ananya Reddy,Bengaluru,Karnataka,South,Mechanical Keyboard,Accessories,3,2982,8946,Credit Card,Delivered
+ORD000698,2025-05-18,CUST00138,Kavya Shah,Pune,Maharashtra,West,Standing Desk,Furniture,4,21311,85244,Credit Card,Cancelled
+ORD000699,2025-12-14,CUST00418,Vikram Nair,Kolkata,West Bengal,East,Webcam,Electronics,1,2201,2201,UPI,Delivered
+ORD000700,2025-09-25,CUST00158,Rohan Patel,Ahmedabad,Gujarat,West,Standing Desk,Furniture,2,22841,45682,Cash on Delivery,Processing
+ORD000701,2026-06-23,CUST00351,Meera Nair,Jaipur,Rajasthan,North,USB-C Hub,Electronics,3,2560,7680,Debit Card,Shipped
+ORD000702,2026-09-13,CUST00175,Akash Sharma,Bhubaneswar,Odisha,East,Standing Desk,Furniture,1,22364,22364,Cash on Delivery,Returned
+ORD000703,2025-03-15,CUST00107,Deepa Iyer,Jaipur,Rajasthan,North,Mechanical Keyboard,Accessories,3,3681,11043,Credit Card,Shipped
+ORD000704,2026-02-25,CUST00122,Harish Sharma,Kolkata,West Bengal,East,USB-C Hub,Electronics,2,2549,5098,Debit Card,Delivered
+ORD000705,2025-06-08,CUST00149,Sneha Iyer,Chennai,Tamil Nadu,South,Webcam,Electronics,2,2284,4568,Credit Card,Processing
+ORD000706,2025-01-06,CUST00214,Neha Iyer,Bhubaneswar,Odisha,East,USB-C Hub,Electronics,4,2608,10432,Credit Card,Cancelled
+ORD000707,2025-08-26,CUST00061,Nikhil Verma,Jaipur,Rajasthan,North,Noise-Cancelling Headphones,Electronics,5,6332,31660,Credit Card,Returned
+ORD000708,2026-07-24,CUST00418,Rahul Sharma,Mumbai,Maharashtra,West,Notebook Pack,Stationery,4,473,1892,Net Banking,Delivered
+ORD000709,2026-09-12,CUST00043,Aarav Shah,Hyderabad,Telangana,South,Notebook Pack,Stationery,2,470,940,Debit Card,Returned
+ORD000710,2026-05-31,CUST00272,Ishaan Reddy,Pune,Maharashtra,West,Mechanical Keyboard,Accessories,2,3028,6056,Debit Card,Delivered
+ORD000711,2025-06-18,CUST00032,Diya Shah,Bengaluru,Karnataka,South,Standing Desk,Furniture,2,20587,41174,Net Banking,Processing
+ORD000712,2025-04-21,CUST00205,Aarav Kumar,Jaipur,Rajasthan,North,Notebook Pack,Stationery,5,524,2620,Credit Card,Delivered
+ORD000713,2025-04-19,CUST00373,Riya Shah,Bengaluru,Karnataka,South,Mechanical Keyboard,Accessories,4,3267,13068,UPI,Delivered
+ORD000714,2025-03-24,CUST00112,Aditi Nair,Delhi,Delhi,North,Noise-Cancelling Headphones,Electronics,5,6520,32600,UPI,Returned
+ORD000715,2025-02-03,CUST00081,Aditi Singh,Ahmedabad,Gujarat,West,Noise-Cancelling Headphones,Electronics,5,7331,36655,Debit Card,Delivered
+ORD000716,2026-09-06,CUST00332,Kavya Shah,Bengaluru,Karnataka,South,Standing Desk,Furniture,2,23981,47962,Cash on Delivery,Delivered
+ORD000717,2025-04-13,CUST00247,Zoya Reddy,Ahmedabad,Gujarat,West,Notebook Pack,Stationery,2,552,1104,Cash on Delivery,Shipped
+ORD000718,2025-08-31,CUST00205,Aarav Iyer,Mumbai,Maharashtra,West,USB-C Hub,Electronics,5,2519,12595,Debit Card,Delivered
+ORD000719,2026-05-11,CUST00015,Vikram Patel,Bengaluru,Karnataka,South,USB-C Hub,Electronics,1,2443,2443,Debit Card,Shipped
+ORD000720,2026-07-15,CUST00279,Ishaan Rao,Mumbai,Maharashtra,West,Data Engineering Handbook,Books,4,1957,7828,Net Banking,Delivered
+ORD000721,2025-09-10,CUST00288,Sneha Kumar,Bhubaneswar,Odisha,East,Laptop Stand,Accessories,5,1416,7080,Net Banking,Processing
+ORD000722,2025-07-14,CUST00309,Aditi Singh,Ahmedabad,Gujarat,West,Wireless Mouse,Accessories,2,918,1836,UPI,Processing
+ORD000723,2026-06-04,CUST00371,Rahul Nair,Ahmedabad,Gujarat,West,USB-C Hub,Electronics,4,2670,10680,Debit Card,Cancelled
+ORD000724,2025-08-15,CUST00393,Riya Sharma,Chennai,Tamil Nadu,South,Wireless Mouse,Accessories,5,859,4295,Cash on Delivery,Cancelled
+ORD000725,2025-08-26,CUST00218,Aarav Singh,Hyderabad,Telangana,South,Office Chair,Furniture,5,12135,60675,Credit Card,Returned
+ORD000726,2026-05-09,CUST00310,Ananya Sharma,Pune,Maharashtra,West,Mechanical Keyboard,Accessories,5,3322,16610,UPI,Processing
+ORD000727,2026-06-30,CUST00284,Rahul Reddy,Ahmedabad,Gujarat,West,Data Engineering Handbook,Books,1,1777,1777,Credit Card,Delivered
+ORD000728,2025-03-31,CUST00294,Sneha Patel,Kolkata,West Bengal,East,Noise-Cancelling Headphones,Electronics,3,6694,20082,Debit Card,Delivered
+ORD000729,2025-05-27,CUST00188,Sneha Rao,Pune,Maharashtra,West,Mechanical Keyboard,Accessories,1,3190,3190,Cash on Delivery,Returned
+ORD000730,2025-06-06,CUST00249,Aarav Verma,Hyderabad,Telangana,South,Webcam,Electronics,1,2107,2107,Net Banking,Delivered
+ORD000731,2025-07-11,CUST00015,Aditi Kumar,Kolkata,West Bengal,East,Data Engineering Handbook,Books,2,1662,3324,Credit Card,Delivered
+ORD000732,2026-03-20,CUST00391,Nikhil Singh,Bhubaneswar,Odisha,East,Notebook Pack,Stationery,3,454,1362,Debit Card,Processing
+ORD000733,2025-05-13,CUST00273,Rohan Verma,Mumbai,Maharashtra,West,Webcam,Electronics,5,2326,11630,UPI,Shipped
+ORD000734,2025-10-04,CUST00276,Akash Reddy,Hyderabad,Telangana,South,Data Engineering Handbook,Books,3,1934,5802,Cash on Delivery,Delivered
+ORD000735,2025-11-02,CUST00214,Meera Singh,Ahmedabad,Gujarat,West,Data Engineering Handbook,Books,5,1744,8720,Debit Card,Returned
+ORD000736,2025-03-02,CUST00255,Aarav Kumar,Pune,Maharashtra,West,Standing Desk,Furniture,5,23803,119015,Debit Card,Shipped
+ORD000737,2026-01-05,CUST00293,Aditi Patel,Chennai,Tamil Nadu,South,Office Chair,Furniture,5,11798,58990,UPI,Cancelled
+ORD000738,2025-09-27,CUST00070,Aarav Patel,Bhubaneswar,Odisha,East,Wireless Mouse,Accessories,5,823,4115,Cash on Delivery,Cancelled
+ORD000739,2026-05-29,CUST00136,Aditi Nair,Delhi,Delhi,North,Notebook Pack,Stationery,1,491,491,Cash on Delivery,Returned
+ORD000740,2025-05-31,CUST00429,Harish Shah,Ahmedabad,Gujarat,West,Notebook Pack,Stationery,2,456,912,Credit Card,Shipped
+ORD000741,2025-09-24,CUST00162,Diya Verma,Ahmedabad,Gujarat,West,Data Engineering Handbook,Books,2,1822,3644,Credit Card,Delivered
+ORD000742,2025-08-05,CUST00406,Zoya Shah,Ahmedabad,Gujarat,West,Notebook Pack,Stationery,5,499,2495,UPI,Returned
+ORD000743,2026-05-03,CUST00300,Arjun Verma,Mumbai,Maharashtra,West,Data Engineering Handbook,Books,2,1646,3292,Credit Card,Shipped
+ORD000744,2025-01-28,CUST00019,Aarav Rao,Bengaluru,Karnataka,South,Notebook Pack,Stationery,4,469,1876,Net Banking,Shipped
+ORD000745,2025-03-10,CUST00059,Aarav Shah,Chennai,Tamil Nadu,South,Mechanical Keyboard,Accessories,5,2977,14885,Credit Card,Shipped
+ORD000746,2025-09-12,CUST00144,Sneha Patel,Kolkata,West Bengal,East,Wireless Mouse,Accessories,1,1005,1005,UPI,Delivered
+ORD000747,2026-02-19,CUST00129,Diya Singh,Delhi,Delhi,North,Office Chair,Furniture,4,13631,54524,Net Banking,Shipped
+ORD000748,2025-03-06,CUST00147,Meera Patel,Hyderabad,Telangana,South,Mechanical Keyboard,Accessories,5,3505,17525,Credit Card,Delivered
+ORD000749,2025-03-06,CUST00301,Ishaan Kumar,Pune,Maharashtra,West,Office Chair,Furniture,5,12139,60695,Debit Card,Delivered
+ORD000750,2025-01-15,CUST00060,Akash Kumar,Delhi,Delhi,North,Noise-Cancelling Headphones,Electronics,5,6925,34625,UPI,Returned
+ORD000751,2026-07-25,CUST00019,Riya Nair,Bhubaneswar,Odisha,East,Wireless Mouse,Accessories,3,860,2580,UPI,Delivered
+ORD000752,2025-08-15,CUST00208,Akash Nair,Mumbai,Maharashtra,West,Notebook Pack,Stationery,5,480,2400,Credit Card,Delivered
+ORD000753,2026-08-28,CUST00325,Nikhil Rao,Ahmedabad,Gujarat,West,Laptop Stand,Accessories,2,1438,2876,UPI,Processing
+ORD000754,2025-04-12,CUST00215,Diya Reddy,Delhi,Delhi,North,Data Engineering Handbook,Books,4,1664,6656,Credit Card,Delivered
+ORD000755,2026-07-15,CUST00263,Zoya Reddy,Bengaluru,Karnataka,South,Notebook Pack,Stationery,4,548,2192,Cash on Delivery,Cancelled
+ORD000756,2025-07-22,CUST00205,Pooja Shah,Bhubaneswar,Odisha,East,Webcam,Electronics,5,2409,12045,UPI,Delivered
+ORD000757,2025-12-25,CUST00187,Sneha Iyer,Bhubaneswar,Odisha,East,Notebook Pack,Stationery,1,483,483,Debit Card,Delivered
+ORD000758,2025-02-14,CUST00228,Deepa Reddy,Bhubaneswar,Odisha,East,USB-C Hub,Electronics,1,2796,2796,UPI,Returned
+ORD000759,2025-03-12,CUST00395,Harish Sharma,Jaipur,Rajasthan,North,USB-C Hub,Electronics,4,2678,10712,Net Banking,Delivered
+ORD000760,2026-07-06,CUST00101,Riya Singh,Delhi,Delhi,North,Laptop Stand,Accessories,4,1543,6172,UPI,Cancelled
+ORD000761,2026-08-17,CUST00111,Harish Patel,Hyderabad,Telangana,South,Notebook Pack,Stationery,4,482,1928,Cash on Delivery,Cancelled
+ORD000762,2026-06-22,CUST00105,Deepa Rao,Bengaluru,Karnataka,South,Noise-Cancelling Headphones,Electronics,4,6459,25836,UPI,Delivered
+ORD000763,2025-11-30,CUST00127,Ananya Sharma,Pune,Maharashtra,West,Data Engineering Handbook,Books,5,1838,9190,Net Banking,Shipped
+ORD000764,2025-11-07,CUST00419,Diya Reddy,Bhubaneswar,Odisha,East,USB-C Hub,Electronics,2,2335,4670,UPI,Processing
+ORD000765,2025-07-04,CUST00097,Pooja Rao,Delhi,Delhi,North,Webcam,Electronics,4,2349,9396,UPI,Shipped
+ORD000766,2025-07-15,CUST00219,Vikram Iyer,Bhubaneswar,Odisha,East,Notebook Pack,Stationery,2,502,1004,UPI,Delivered
+ORD000767,2026-09-22,CUST00124,Harish Singh,Pune,Maharashtra,West,Mechanical Keyboard,Accessories,1,3260,3260,Cash on Delivery,Delivered
+ORD000768,2025-03-31,CUST00412,Diya Nair,Jaipur,Rajasthan,North,Office Chair,Furniture,3,13088,39264,Debit Card,Delivered
+ORD000769,2026-03-17,CUST00354,Rahul Nair,Mumbai,Maharashtra,West,Noise-Cancelling Headphones,Electronics,3,6569,19707,Debit Card,Cancelled
+ORD000770,2025-09-06,CUST00110,Ishaan Sharma,Pune,Maharashtra,West,USB-C Hub,Electronics,5,2694,13470,UPI,Cancelled
+ORD000771,2025-07-26,CUST00413,Ishaan Nair,Ahmedabad,Gujarat,West,Office Chair,Furniture,2,12232,24464,Debit Card,Delivered
+ORD000772,2025-02-10,CUST00073,Vikram Singh,Pune,Maharashtra,West,Wireless Mouse,Accessories,4,941,3764,Debit Card,Delivered
+ORD000773,2025-07-02,CUST00049,Neha Patel,Delhi,Delhi,North,Standing Desk,Furniture,1,22090,22090,Cash on Delivery,Delivered
+ORD000774,2026-02-23,CUST00046,Sneha Nair,Chennai,Tamil Nadu,South,Noise-Cancelling Headphones,Electronics,3,7052,21156,Credit Card,Returned
+ORD000775,2026-05-19,CUST00218,Rahul Patel,Chennai,Tamil Nadu,South,Noise-Cancelling Headphones,Electronics,2,7083,14166,UPI,Delivered
+ORD000776,2025-02-18,CUST00193,Diya Iyer,Bhubaneswar,Odisha,East,Webcam,Electronics,5,2242,11210,Net Banking,Delivered
+ORD000777,2025-03-03,CUST00148,Vikram Kumar,Bhubaneswar,Odisha,East,Webcam,Electronics,4,2280,9120,UPI,Cancelled
+ORD000778,2025-04-25,CUST00043,Ishaan Verma,Pune,Maharashtra,West,USB-C Hub,Electronics,1,2669,2669,Debit Card,Delivered
+ORD000779,2026-03-12,CUST00303,Sneha Iyer,Bhubaneswar,Odisha,East,USB-C Hub,Electronics,4,2536,10144,Debit Card,Delivered
+ORD000780,2025-05-23,CUST00052,Diya Sharma,Ahmedabad,Gujarat,West,Office Chair,Furniture,5,13981,69905,Net Banking,Shipped
+ORD000781,2026-03-18,CUST00283,Ishaan Reddy,Delhi,Delhi,North,Data Engineering Handbook,Books,3,1622,4866,Net Banking,Delivered
+ORD000782,2025-11-15,CUST00059,Aditi Reddy,Mumbai,Maharashtra,West,Laptop Stand,Accessories,1,1510,1510,Net Banking,Shipped
+ORD000783,2026-09-04,CUST00047,Akash Shah,Bhubaneswar,Odisha,East,Wireless Mouse,Accessories,4,842,3368,Net Banking,Delivered
+ORD000784,2025-10-26,CUST00150,Nikhil Rao,Jaipur,Rajasthan,North,Mechanical Keyboard,Accessories,1,3252,3252,Net Banking,Delivered
+ORD000785,2025-05-05,CUST00262,Kavya Kumar,Bengaluru,Karnataka,South,Mechanical Keyboard,Accessories,5,3278,16390,UPI,Shipped
+ORD000786,2026-01-26,CUST00342,Rahul Reddy,Delhi,Delhi,North,Webcam,Electronics,2,2053,4106,Cash on Delivery,Delivered
+ORD000787,2025-09-10,CUST00369,Aditi Singh,Hyderabad,Telangana,South,USB-C Hub,Electronics,3,2456,7368,Cash on Delivery,Delivered
+ORD000788,2025-08-21,CUST00140,Pooja Verma,Bhubaneswar,Odisha,East,Wireless Mouse,Accessories,3,894,2682,Net Banking,Delivered
+ORD000789,2026-02-16,CUST00320,Riya Shah,Delhi,Delhi,North,Noise-Cancelling Headphones,Electronics,2,7127,14254,Net Banking,Cancelled
+ORD000790,2026-08-19,CUST00063,Harish Kumar,Ahmedabad,Gujarat,West,USB-C Hub,Electronics,2,2686,5372,Cash on Delivery,Processing
+ORD000791,2026-07-16,CUST00282,Aarav Patel,Delhi,Delhi,North,Standing Desk,Furniture,1,23944,23944,Debit Card,Delivered
+ORD000792,2025-12-29,CUST00110,Vikram Nair,Chennai,Tamil Nadu,South,Office Chair,Furniture,3,13501,40503,Cash on Delivery,Returned
+ORD000793,2025-04-04,CUST00361,Pooja Iyer,Chennai,Tamil Nadu,South,Mechanical Keyboard,Accessories,3,3337,10011,Net Banking,Processing
+ORD000794,2026-01-31,CUST00149,Neha Shah,Pune,Maharashtra,West,Data Engineering Handbook,Books,2,1877,3754,Cash on Delivery,Delivered
+ORD000795,2025-03-03,CUST00360,Kavya Patel,Mumbai,Maharashtra,West,Wireless Mouse,Accessories,2,937,1874,Cash on Delivery,Returned
+ORD000796,2025-02-25,CUST00040,Nikhil Kumar,Chennai,Tamil Nadu,South,Standing Desk,Furniture,1,21600,21600,Credit Card,Delivered
+ORD000797,2025-08-21,CUST00291,Vikram Kumar,Bhubaneswar,Odisha,East,Mechanical Keyboard,Accessories,5,3629,18145,Credit Card,Shipped
+ORD000798,2025-11-20,CUST00240,Kavya Sharma,Delhi,Delhi,North,Mechanical Keyboard,Accessories,3,3259,9777,Debit Card,Returned
+ORD000799,2025-09-10,CUST00100,Rohan Iyer,Chennai,Tamil Nadu,South,Noise-Cancelling Headphones,Electronics,3,7725,23175,Cash on Delivery,Delivered
+ORD000800,2025-11-12,CUST00244,Vikram Sharma,Ahmedabad,Gujarat,West,Standing Desk,Furniture,1,21547,21547,UPI,Delivered
+ORD000801,2025-10-20,CUST00297,Ishaan Iyer,Chennai,Tamil Nadu,South,Laptop Stand,Accessories,5,1349,6745,Cash on Delivery,Delivered
+ORD000802,2025-07-22,CUST00101,Meera Sharma,Delhi,Delhi,North,Laptop Stand,Accessories,2,1616,3232,Net Banking,Delivered
+ORD000803,2025-09-30,CUST00053,Nikhil Verma,Bhubaneswar,Odisha,East,USB-C Hub,Electronics,2,2567,5134,Net Banking,Processing
+ORD000804,2026-07-21,CUST00154,Ishaan Iyer,Ahmedabad,Gujarat,West,Mechanical Keyboard,Accessories,1,3611,3611,Net Banking,Processing
+ORD000805,2026-08-25,CUST00076,Aditi Sharma,Kolkata,West Bengal,East,Noise-Cancelling Headphones,Electronics,1,7812,7812,Net Banking,Shipped
+ORD000806,2025-11-20,CUST00279,Zoya Iyer,Bengaluru,Karnataka,South,Standing Desk,Furniture,4,20755,83020,UPI,Returned
+ORD000807,2025-01-18,CUST00239,Akash Sharma,Kolkata,West Bengal,East,Wireless Mouse,Accessories,1,838,838,Net Banking,Processing
+ORD000808,2025-03-21,CUST00130,Zoya Nair,Ahmedabad,Gujarat,West,Wireless Mouse,Accessories,2,876,1752,UPI,Returned
+ORD000809,2026-02-14,CUST00434,Kavya Patel,Bengaluru,Karnataka,South,Wireless Mouse,Accessories,1,863,863,UPI,Cancelled
+ORD000810,2026-09-01,CUST00012,Arjun Rao,Bhubaneswar,Odisha,East,USB-C Hub,Electronics,3,2327,6981,UPI,Delivered
+ORD000811,2025-02-09,CUST00248,Aarav Patel,Jaipur,Rajasthan,North,USB-C Hub,Electronics,1,2585,2585,Credit Card,Delivered
+ORD000812,2026-05-04,CUST00417,Sneha Singh,Bhubaneswar,Odisha,East,Office Chair,Furniture,5,12232,61160,UPI,Shipped
+ORD000813,2025-01-25,CUST00204,Arjun Singh,Pune,Maharashtra,West,Data Engineering Handbook,Books,5,1847,9235,Credit Card,Cancelled
+ORD000814,2025-08-13,CUST00195,Ishaan Iyer,Bhubaneswar,Odisha,East,Wireless Mouse,Accessories,3,974,2922,UPI,Processing
+ORD000815,2025-01-22,CUST00090,Riya Shah,Jaipur,Rajasthan,North,Laptop Stand,Accessories,2,1593,3186,Cash on Delivery,Shipped
+ORD000816,2026-05-04,CUST00336,Neha Kumar,Hyderabad,Telangana,South,Noise-Cancelling Headphones,Electronics,2,7796,15592,Credit Card,Processing
+ORD000817,2025-11-28,CUST00207,Riya Patel,Kolkata,West Bengal,East,Laptop Stand,Accessories,5,1350,6750,Credit Card,Delivered
+ORD000818,2025-04-18,CUST00422,Rahul Verma,Hyderabad,Telangana,South,Laptop Stand,Accessories,5,1475,7375,UPI,Delivered
+ORD000819,2026-07-06,CUST00124,Akash Iyer,Chennai,Tamil Nadu,South,Laptop Stand,Accessories,1,1675,1675,Cash on Delivery,Cancelled
+ORD000820,2025-10-11,CUST00384,Rahul Shah,Jaipur,Rajasthan,North,Office Chair,Furniture,3,13848,41544,Net Banking,Delivered
+ORD000821,2025-09-10,CUST00269,Deepa Shah,Bhubaneswar,Odisha,East,Office Chair,Furniture,4,12604,50416,Credit Card,Processing
+ORD000822,2026-03-28,CUST00315,Arjun Rao,Jaipur,Rajasthan,North,Mechanical Keyboard,Accessories,4,3098,12392,Debit Card,Processing
+ORD000823,2026-08-18,CUST00414,Rahul Kumar,Bhubaneswar,Odisha,East,Data Engineering Handbook,Books,2,1891,3782,UPI,Shipped
+ORD000824,2026-03-28,CUST00338,Akash Verma,Jaipur,Rajasthan,North,Noise-Cancelling Headphones,Electronics,5,6299,31495,Net Banking,Shipped
+ORD000825,2026-08-07,CUST00315,Riya Verma,Bhubaneswar,Odisha,East,USB-C Hub,Electronics,2,2586,5172,Debit Card,Delivered
+ORD000826,2025-01-17,CUST00102,Zoya Sharma,Kolkata,West Bengal,East,Webcam,Electronics,4,2432,9728,UPI,Delivered
+ORD000827,2026-06-18,CUST00272,Rahul Iyer,Ahmedabad,Gujarat,West,Office Chair,Furniture,3,11357,34071,Debit Card,Delivered
+ORD000828,2025-11-11,CUST00204,Harish Iyer,Jaipur,Rajasthan,North,Standing Desk,Furniture,2,23173,46346,Cash on Delivery,Processing
+ORD000829,2025-05-07,CUST00006,Kavya Shah,Mumbai,Maharashtra,West,Webcam,Electronics,5,2195,10975,Cash on Delivery,Returned
+ORD000830,2025-06-29,CUST00393,Nikhil Iyer,Kolkata,West Bengal,East,Laptop Stand,Accessories,2,1571,3142,Debit Card,Delivered
+ORD000831,2025-08-29,CUST00064,Rohan Shah,Ahmedabad,Gujarat,West,Standing Desk,Furniture,4,23310,93240,Net Banking,Shipped
+ORD000832,2025-07-31,CUST00432,Aarav Reddy,Kolkata,West Bengal,East,Mechanical Keyboard,Accessories,4,3220,12880,Cash on Delivery,Cancelled
+ORD000833,2025-08-23,CUST00266,Nikhil Shah,Jaipur,Rajasthan,North,USB-C Hub,Electronics,3,2735,8205,Debit Card,Delivered
+ORD000834,2026-02-10,CUST00179,Aarav Kumar,Bengaluru,Karnataka,South,Notebook Pack,Stationery,5,549,2745,Debit Card,Delivered
+ORD000835,2026-08-02,CUST00006,Nikhil Shah,Pune,Maharashtra,West,USB-C Hub,Electronics,2,2481,4962,Debit Card,Delivered
+ORD000836,2026-07-28,CUST00435,Diya Patel,Kolkata,West Bengal,East,USB-C Hub,Electronics,2,2776,5552,Net Banking,Cancelled
+ORD000837,2025-07-07,CUST00127,Rohan Iyer,Jaipur,Rajasthan,North,Office Chair,Furniture,2,13405,26810,Net Banking,Processing
+ORD000838,2026-06-26,CUST00310,Rohan Kumar,Bhubaneswar,Odisha,East,Webcam,Electronics,5,2356,11780,Cash on Delivery,Returned
+ORD000839,2025-04-12,CUST00024,Zoya Nair,Mumbai,Maharashtra,West,USB-C Hub,Electronics,4,2676,10704,Credit Card,Processing
+ORD000840,2025-01-05,CUST00258,Neha Rao,Mumbai,Maharashtra,West,Laptop Stand,Accessories,4,1575,6300,Debit Card,Shipped
+ORD000841,2025-04-12,CUST00228,Harish Kumar,Delhi,Delhi,North,Laptop Stand,Accessories,4,1567,6268,Cash on Delivery,Processing
+ORD000842,2025-05-02,CUST00415,Nikhil Kumar,Mumbai,Maharashtra,West,Standing Desk,Furniture,3,24267,72801,Cash on Delivery,Cancelled
+ORD000843,2025-12-09,CUST00148,Rohan Patel,Kolkata,West Bengal,East,Standing Desk,Furniture,4,24037,96148,Cash on Delivery,Delivered
+ORD000844,2025-01-23,CUST00358,Kavya Shah,Hyderabad,Telangana,South,USB-C Hub,Electronics,1,2685,2685,UPI,Cancelled
+ORD000845,2026-02-12,CUST00378,Riya Kumar,Hyderabad,Telangana,South,Noise-Cancelling Headphones,Electronics,2,7484,14968,UPI,Delivered
+ORD000846,2025-11-12,CUST00122,Vikram Singh,Jaipur,Rajasthan,North,Data Engineering Handbook,Books,4,1908,7632,Cash on Delivery,Delivered
+ORD000847,2025-08-30,CUST00365,Vikram Nair,Ahmedabad,Gujarat,West,Standing Desk,Furniture,2,23200,46400,UPI,Shipped
+ORD000848,2026-09-21,CUST00282,Nikhil Shah,Bhubaneswar,Odisha,East,Webcam,Electronics,2,2402,4804,Credit Card,Delivered
+ORD000849,2026-09-17,CUST00257,Nikhil Rao,Delhi,Delhi,North,Mechanical Keyboard,Accessories,3,3354,10062,Debit Card,Processing
+ORD000850,2025-11-20,CUST00377,Aditi Shah,Chennai,Tamil Nadu,South,Wireless Mouse,Accessories,3,932,2796,Net Banking,Cancelled
+ORD000851,2025-06-07,CUST00272,Ishaan Nair,Bhubaneswar,Odisha,East,Mechanical Keyboard,Accessories,1,3143,3143,Debit Card,Delivered
+ORD000852,2025-02-01,CUST00369,Arjun Rao,Bhubaneswar,Odisha,East,Noise-Cancelling Headphones,Electronics,5,6865,34325,Net Banking,Delivered
+ORD000853,2025-07-20,CUST00001,Deepa Shah,Hyderabad,Telangana,South,Notebook Pack,Stationery,1,466,466,Debit Card,Cancelled
+ORD000854,2025-03-16,CUST00164,Rohan Nair,Hyderabad,Telangana,South,USB-C Hub,Electronics,5,2595,12975,UPI,Cancelled
+ORD000855,2025-06-04,CUST00190,Rohan Nair,Bhubaneswar,Odisha,East,USB-C Hub,Electronics,3,2330,6990,Net Banking,Shipped
+ORD000856,2026-03-27,CUST00440,Kavya Reddy,Jaipur,Rajasthan,North,Notebook Pack,Stationery,1,536,536,Credit Card,Returned
+ORD000857,2026-05-28,CUST00375,Harish Verma,Delhi,Delhi,North,Mechanical Keyboard,Accessories,1,3676,3676,UPI,Delivered
+ORD000858,2025-10-24,CUST00186,Riya Rao,Ahmedabad,Gujarat,West,Standing Desk,Furniture,4,20066,80264,UPI,Delivered
+ORD000859,2026-08-14,CUST00042,Pooja Iyer,Kolkata,West Bengal,East,Wireless Mouse,Accessories,2,857,1714,Net Banking,Shipped
+ORD000860,2025-06-26,CUST00345,Rohan Nair,Hyderabad,Telangana,South,Standing Desk,Furniture,1,23014,23014,UPI,Delivered
+ORD000861,2025-05-31,CUST00370,Akash Shah,Kolkata,West Bengal,East,Laptop Stand,Accessories,2,1383,2766,UPI,Delivered
+ORD000862,2025-04-17,CUST00340,Pooja Rao,Mumbai,Maharashtra,West,Data Engineering Handbook,Books,2,1698,3396,Debit Card,Delivered
+ORD000863,2026-06-06,CUST00220,Sneha Iyer,Ahmedabad,Gujarat,West,Webcam,Electronics,3,2454,7362,Cash on Delivery,Shipped
+ORD000864,2025-10-21,CUST00095,Zoya Shah,Hyderabad,Telangana,South,USB-C Hub,Electronics,5,2352,11760,UPI,Delivered
+ORD000865,2025-05-26,CUST00098,Arjun Shah,Bhubaneswar,Odisha,East,Webcam,Electronics,3,2044,6132,Debit Card,Cancelled
+ORD000866,2025-05-30,CUST00435,Kavya Shah,Pune,Maharashtra,West,USB-C Hub,Electronics,1,2747,2747,Credit Card,Delivered
+ORD000867,2026-02-04,CUST00252,Ananya Rao,Kolkata,West Bengal,East,Data Engineering Handbook,Books,2,1633,3266,Cash on Delivery,Shipped
+ORD000868,2025-01-24,CUST00260,Sneha Nair,Hyderabad,Telangana,South,Webcam,Electronics,3,2366,7098,UPI,Cancelled
+ORD000869,2025-08-27,CUST00028,Zoya Verma,Mumbai,Maharashtra,West,USB-C Hub,Electronics,3,2314,6942,Cash on Delivery,Cancelled
+ORD000870,2025-05-11,CUST00416,Riya Patel,Delhi,Delhi,North,Noise-Cancelling Headphones,Electronics,1,6730,6730,Debit Card,Delivered
+ORD000871,2025-08-06,CUST00123,Neha Singh,Bengaluru,Karnataka,South,Standing Desk,Furniture,2,22740,45480,Credit Card,Cancelled
+ORD000872,2025-11-17,CUST00281,Ananya Patel,Bhubaneswar,Odisha,East,Office Chair,Furniture,4,11450,45800,Net Banking,Delivered
+ORD000873,2025-05-26,CUST00327,Meera Nair,Mumbai,Maharashtra,West,Notebook Pack,Stationery,3,488,1464,Debit Card,Delivered
+ORD000874,2026-04-09,CUST00257,Riya Rao,Ahmedabad,Gujarat,West,Notebook Pack,Stationery,2,544,1088,Net Banking,Processing
+ORD000875,2025-09-05,CUST00139,Aarav Kumar,Kolkata,West Bengal,East,USB-C Hub,Electronics,5,2730,13650,Debit Card,Processing
+ORD000876,2025-03-05,CUST00338,Harish Shah,Mumbai,Maharashtra,West,Wireless Mouse,Accessories,2,917,1834,Net Banking,Processing
+ORD000877,2026-09-04,CUST00015,Aditi Kumar,Chennai,Tamil Nadu,South,Mechanical Keyboard,Accessories,3,3382,10146,UPI,Delivered
+ORD000878,2025-01-09,CUST00325,Ananya Sharma,Mumbai,Maharashtra,West,Noise-Cancelling Headphones,Electronics,5,6475,32375,UPI,Delivered
+ORD000879,2026-02-01,CUST00372,Aarav Patel,Kolkata,West Bengal,East,Wireless Mouse,Accessories,5,932,4660,Credit Card,Cancelled
+ORD000880,2025-10-01,CUST00289,Kavya Shah,Pune,Maharashtra,West,Wireless Mouse,Accessories,4,913,3652,Debit Card,Processing
+ORD000881,2025-03-09,CUST00162,Pooja Verma,Mumbai,Maharashtra,West,Office Chair,Furniture,4,11345,45380,Net Banking,Returned
+ORD000882,2026-06-10,CUST00294,Aditi Patel,Mumbai,Maharashtra,West,Laptop Stand,Accessories,2,1582,3164,Net Banking,Cancelled
+ORD000883,2025-04-28,CUST00304,Deepa Singh,Kolkata,West Bengal,East,Standing Desk,Furniture,3,21191,63573,Debit Card,Delivered
+ORD000884,2026-07-28,CUST00308,Diya Sharma,Bengaluru,Karnataka,South,Data Engineering Handbook,Books,5,1972,9860,Net Banking,Returned
+ORD000885,2025-11-23,CUST00158,Zoya Kumar,Mumbai,Maharashtra,West,Wireless Mouse,Accessories,4,934,3736,Debit Card,Returned
+ORD000886,2025-04-13,CUST00125,Ananya Reddy,Pune,Maharashtra,West,USB-C Hub,Electronics,4,2699,10796,Debit Card,Shipped
+ORD000887,2026-02-07,CUST00310,Ishaan Sharma,Hyderabad,Telangana,South,Mechanical Keyboard,Accessories,4,3038,12152,Cash on Delivery,Cancelled
+ORD000888,2025-06-04,CUST00082,Aarav Verma,Pune,Maharashtra,West,Wireless Mouse,Accessories,5,919,4595,Net Banking,Shipped
+ORD000889,2026-02-11,CUST00410,Nikhil Verma,Delhi,Delhi,North,Mechanical Keyboard,Accessories,2,3026,6052,Net Banking,Delivered
+ORD000890,2025-12-04,CUST00144,Akash Nair,Mumbai,Maharashtra,West,USB-C Hub,Electronics,5,2644,13220,UPI,Delivered
+ORD000891,2025-09-01,CUST00257,Arjun Shah,Kolkata,West Bengal,East,USB-C Hub,Electronics,3,2422,7266,Credit Card,Shipped
+ORD000892,2025-04-10,CUST00117,Ishaan Sharma,Delhi,Delhi,North,Webcam,Electronics,4,2227,8908,Net Banking,Cancelled
+ORD000893,2026-08-19,CUST00421,Harish Patel,Chennai,Tamil Nadu,South,Noise-Cancelling Headphones,Electronics,2,6994,13988,Net Banking,Cancelled
+ORD000894,2025-12-13,CUST00176,Akash Patel,Jaipur,Rajasthan,North,Data Engineering Handbook,Books,4,1909,7636,Debit Card,Cancelled
+ORD000895,2026-04-15,CUST00288,Riya Kumar,Pune,Maharashtra,West,Wireless Mouse,Accessories,5,984,4920,Net Banking,Delivered
+ORD000896,2026-09-03,CUST00423,Nikhil Patel,Pune,Maharashtra,West,USB-C Hub,Electronics,1,2460,2460,Net Banking,Returned
+ORD000897,2025-04-27,CUST00252,Zoya Iyer,Jaipur,Rajasthan,North,USB-C Hub,Electronics,1,2306,2306,Net Banking,Shipped
+ORD000898,2026-04-29,CUST00302,Sneha Iyer,Ahmedabad,Gujarat,West,Notebook Pack,Stationery,5,542,2710,UPI,Delivered
+ORD000899,2026-09-05,CUST00344,Riya Verma,Mumbai,Maharashtra,West,Office Chair,Furniture,4,13261,53044,Net Banking,Returned
+ORD000900,2025-01-29,CUST00386,Aditi Kumar,Jaipur,Rajasthan,North,Webcam,Electronics,4,2041,8164,Net Banking,Delivered
+ORD000901,2025-12-24,CUST00022,Deepa Rao,Bengaluru,Karnataka,South,Office Chair,Furniture,2,13963,27926,Cash on Delivery,Returned
+ORD000902,2025-04-22,CUST00008,Harish Iyer,Mumbai,Maharashtra,West,Wireless Mouse,Accessories,1,830,830,Credit Card,Cancelled
+ORD000903,2025-07-31,CUST00123,Aditi Verma,Bhubaneswar,Odisha,East,Standing Desk,Furniture,2,24441,48882,Net Banking,Processing
+ORD000904,2026-08-08,CUST00081,Meera Kumar,Mumbai,Maharashtra,West,Standing Desk,Furniture,1,21505,21505,Debit Card,Delivered
+ORD000905,2025-04-07,CUST00192,Meera Rao,Kolkata,West Bengal,East,Notebook Pack,Stationery,4,453,1812,Net Banking,Delivered
+ORD000906,2026-01-20,CUST00177,Ananya Patel,Chennai,Tamil Nadu,South,Wireless Mouse,Accessories,4,842,3368,Net Banking,Processing
+ORD000907,2025-10-21,CUST00079,Pooja Rao,Mumbai,Maharashtra,West,Noise-Cancelling Headphones,Electronics,1,7479,7479,Debit Card,Cancelled
+ORD000908,2025-12-28,CUST00251,Neha Singh,Bhubaneswar,Odisha,East,Mechanical Keyboard,Accessories,5,3021,15105,Net Banking,Delivered
+ORD000909,2025-07-04,CUST00385,Rahul Rao,Bhubaneswar,Odisha,East,Wireless Mouse,Accessories,2,987,1974,UPI,Returned
+ORD000910,2026-07-08,CUST00316,Ananya Verma,Kolkata,West Bengal,East,Laptop Stand,Accessories,1,1663,1663,Debit Card,Cancelled
+ORD000911,2025-08-03,CUST00341,Pooja Reddy,Chennai,Tamil Nadu,South,Webcam,Electronics,2,2450,4900,UPI,Delivered
+ORD000912,2026-04-21,CUST00374,Nikhil Reddy,Kolkata,West Bengal,East,Noise-Cancelling Headphones,Electronics,2,7438,14876,Credit Card,Delivered
+ORD000913,2026-05-25,CUST00334,Vikram Verma,Mumbai,Maharashtra,West,Mechanical Keyboard,Accessories,1,3121,3121,UPI,Processing
+ORD000914,2025-07-10,CUST00186,Rohan Singh,Jaipur,Rajasthan,North,Noise-Cancelling Headphones,Electronics,2,6897,13794,Cash on Delivery,Delivered
+ORD000915,2026-03-22,CUST00011,Aditi Kumar,Chennai,Tamil Nadu,South,Office Chair,Furniture,5,12816,64080,Debit Card,Processing
+ORD000916,2025-12-09,CUST00295,Arjun Singh,Mumbai,Maharashtra,West,Laptop Stand,Accessories,3,1368,4104,UPI,Returned
+ORD000917,2026-01-27,CUST00429,Aarav Reddy,Pune,Maharashtra,West,USB-C Hub,Electronics,2,2782,5564,Net Banking,Cancelled
+ORD000918,2026-03-10,CUST00199,Sneha Nair,Bengaluru,Karnataka,South,Standing Desk,Furniture,3,24080,72240,Cash on Delivery,Shipped
+ORD000919,2025-08-27,CUST00133,Sneha Iyer,Hyderabad,Telangana,South,Webcam,Electronics,5,2434,12170,Debit Card,Cancelled
+ORD000920,2025-07-16,CUST00434,Rahul Singh,Hyderabad,Telangana,South,Office Chair,Furniture,5,11527,57635,UPI,Processing
+ORD000921,2026-01-19,CUST00252,Deepa Reddy,Chennai,Tamil Nadu,South,Wireless Mouse,Accessories,1,841,841,UPI,Cancelled
+ORD000922,2025-04-22,CUST00252,Ishaan Verma,Bengaluru,Karnataka,South,Office Chair,Furniture,3,11316,33948,Credit Card,Returned
+ORD000923,2025-07-19,CUST00393,Riya Patel,Bhubaneswar,Odisha,East,Notebook Pack,Stationery,4,523,2092,UPI,Delivered
+ORD000924,2025-07-02,CUST00378,Harish Shah,Ahmedabad,Gujarat,West,USB-C Hub,Electronics,5,2658,13290,UPI,Delivered
+ORD000925,2025-11-17,CUST00316,Vikram Rao,Bhubaneswar,Odisha,East,USB-C Hub,Electronics,4,2613,10452,Cash on Delivery,Delivered
+ORD000926,2026-08-15,CUST00138,Rohan Rao,Hyderabad,Telangana,South,Wireless Mouse,Accessories,5,893,4465,UPI,Delivered
+ORD000927,2025-12-09,CUST00422,Zoya Sharma,Chennai,Tamil Nadu,South,Data Engineering Handbook,Books,3,1847,5541,Net Banking,Returned
+ORD000928,2026-04-17,CUST00349,Ishaan Sharma,Chennai,Tamil Nadu,South,Wireless Mouse,Accessories,3,894,2682,Cash on Delivery,Returned
+ORD000929,2025-07-30,CUST00098,Meera Kumar,Pune,Maharashtra,West,Noise-Cancelling Headphones,Electronics,5,7244,36220,Cash on Delivery,Delivered
+ORD000930,2026-03-29,CUST00436,Deepa Verma,Mumbai,Maharashtra,West,Office Chair,Furniture,4,11754,47016,Credit Card,Shipped
+ORD000931,2025-01-05,CUST00329,Kavya Iyer,Delhi,Delhi,North,Wireless Mouse,Accessories,4,986,3944,Cash on Delivery,Processing
+ORD000932,2026-06-10,CUST00385,Rahul Reddy,Jaipur,Rajasthan,North,Noise-Cancelling Headphones,Electronics,1,7417,7417,Cash on Delivery,Delivered
+ORD000933,2025-05-14,CUST00243,Rahul Rao,Delhi,Delhi,North,Mechanical Keyboard,Accessories,5,3411,17055,UPI,Returned
+ORD000934,2026-09-21,CUST00051,Aarav Sharma,Ahmedabad,Gujarat,West,Data Engineering Handbook,Books,4,1759,7036,UPI,Delivered
+ORD000935,2026-04-15,CUST00315,Rohan Iyer,Bengaluru,Karnataka,South,Wireless Mouse,Accessories,4,929,3716,Credit Card,Shipped
+ORD000936,2025-10-22,CUST00281,Arjun Rao,Delhi,Delhi,North,Data Engineering Handbook,Books,2,1671,3342,Debit Card,Returned
+ORD000937,2025-09-21,CUST00293,Aarav Verma,Bhubaneswar,Odisha,East,Mechanical Keyboard,Accessories,4,3544,14176,UPI,Delivered
+ORD000938,2026-08-04,CUST00035,Riya Nair,Jaipur,Rajasthan,North,Webcam,Electronics,1,2212,2212,Debit Card,Shipped
+ORD000939,2025-06-28,CUST00314,Aarav Sharma,Ahmedabad,Gujarat,West,Noise-Cancelling Headphones,Electronics,1,6894,6894,Debit Card,Cancelled
+ORD000940,2026-06-28,CUST00341,Nikhil Patel,Kolkata,West Bengal,East,Laptop Stand,Accessories,4,1567,6268,Cash on Delivery,Shipped
+ORD000941,2025-04-24,CUST00056,Sneha Reddy,Ahmedabad,Gujarat,West,Wireless Mouse,Accessories,2,834,1668,Credit Card,Delivered
+ORD000942,2026-09-04,CUST00137,Diya Nair,Delhi,Delhi,North,Noise-Cancelling Headphones,Electronics,5,6302,31510,Net Banking,Delivered
+ORD000943,2025-02-04,CUST00310,Sneha Shah,Pune,Maharashtra,West,Wireless Mouse,Accessories,3,833,2499,Debit Card,Returned
+ORD000944,2025-09-08,CUST00094,Rohan Kumar,Pune,Maharashtra,West,Wireless Mouse,Accessories,1,885,885,Cash on Delivery,Delivered
+ORD000945,2025-10-31,CUST00435,Sneha Shah,Pune,Maharashtra,West,Laptop Stand,Accessories,5,1450,7250,UPI,Returned
+ORD000946,2026-06-18,CUST00174,Neha Sharma,Jaipur,Rajasthan,North,Laptop Stand,Accessories,1,1489,1489,Debit Card,Cancelled
+ORD000947,2026-06-12,CUST00437,Aditi Iyer,Bengaluru,Karnataka,South,Noise-Cancelling Headphones,Electronics,3,7414,22242,Debit Card,Delivered
+ORD000948,2025-05-05,CUST00161,Riya Rao,Hyderabad,Telangana,South,Data Engineering Handbook,Books,1,1990,1990,Debit Card,Cancelled
+ORD000949,2026-09-06,CUST00253,Deepa Verma,Jaipur,Rajasthan,North,Data Engineering Handbook,Books,5,1977,9885,Debit Card,Delivered
+ORD000950,2025-03-08,CUST00388,Aditi Patel,Mumbai,Maharashtra,West,Noise-Cancelling Headphones,Electronics,1,7206,7206,Credit Card,Returned
+ORD000951,2025-01-24,CUST00356,Rahul Singh,Delhi,Delhi,North,Mechanical Keyboard,Accessories,2,3006,6012,Cash on Delivery,Processing
+ORD000952,2025-03-20,CUST00003,Vikram Verma,Delhi,Delhi,North,Webcam,Electronics,1,2085,2085,Debit Card,Processing
+ORD000953,2025-10-03,CUST00067,Ishaan Iyer,Delhi,Delhi,North,Wireless Mouse,Accessories,2,817,1634,Net Banking,Cancelled
+ORD000954,2025-12-14,CUST00170,Sneha Reddy,Mumbai,Maharashtra,West,Laptop Stand,Accessories,2,1465,2930,UPI,Processing
+ORD000955,2025-01-08,CUST00357,Rohan Reddy,Jaipur,Rajasthan,North,Data Engineering Handbook,Books,5,1840,9200,UPI,Delivered
+ORD000956,2025-02-24,CUST00025,Riya Rao,Kolkata,West Bengal,East,Noise-Cancelling Headphones,Electronics,2,7764,15528,UPI,Shipped
+ORD000957,2025-09-11,CUST00398,Aarav Nair,Ahmedabad,Gujarat,West,Wireless Mouse,Accessories,5,859,4295,UPI,Delivered
+ORD000958,2026-03-16,CUST00209,Meera Rao,Kolkata,West Bengal,East,Office Chair,Furniture,1,12000,12000,UPI,Delivered
+ORD000959,2025-11-30,CUST00245,Pooja Reddy,Pune,Maharashtra,West,Notebook Pack,Stationery,2,497,994,Debit Card,Shipped
+ORD000960,2025-05-08,CUST00180,Vikram Rao,Kolkata,West Bengal,East,Notebook Pack,Stationery,5,514,2570,UPI,Returned
+ORD000961,2025-08-12,CUST00426,Nikhil Shah,Ahmedabad,Gujarat,West,Data Engineering Handbook,Books,1,2010,2010,Net Banking,Processing
+ORD000962,2025-07-17,CUST00357,Rohan Kumar,Bengaluru,Karnataka,South,Noise-Cancelling Headphones,Electronics,4,7337,29348,UPI,Shipped
+ORD000963,2026-02-09,CUST00290,Riya Patel,Delhi,Delhi,North,Office Chair,Furniture,4,11944,47776,Credit Card,Returned
+ORD000964,2025-07-19,CUST00234,Harish Verma,Bengaluru,Karnataka,South,Webcam,Electronics,5,2253,11265,Net Banking,Delivered
+ORD000965,2025-03-05,CUST00366,Neha Iyer,Bengaluru,Karnataka,South,Data Engineering Handbook,Books,4,1724,6896,Cash on Delivery,Processing
+ORD000966,2025-01-07,CUST00015,Aditi Shah,Chennai,Tamil Nadu,South,Mechanical Keyboard,Accessories,3,3689,11067,Cash on Delivery,Processing
+ORD000967,2025-12-10,CUST00082,Nikhil Verma,Jaipur,Rajasthan,North,Standing Desk,Furniture,3,23452,70356,Debit Card,Delivered
+ORD000968,2026-08-06,CUST00056,Aarav Shah,Ahmedabad,Gujarat,West,Webcam,Electronics,5,2164,10820,Cash on Delivery,Delivered
+ORD000969,2025-10-30,CUST00271,Akash Singh,Hyderabad,Telangana,South,Data Engineering Handbook,Books,3,1805,5415,Credit Card,Delivered
+ORD000970,2025-10-16,CUST00076,Aditi Reddy,Delhi,Delhi,North,Noise-Cancelling Headphones,Electronics,3,7020,21060,Credit Card,Delivered
+ORD000971,2025-09-29,CUST00027,Harish Nair,Pune,Maharashtra,West,Wireless Mouse,Accessories,1,952,952,Credit Card,Cancelled
+ORD000972,2025-08-08,CUST00428,Pooja Sharma,Pune,Maharashtra,West,Office Chair,Furniture,4,12798,51192,Credit Card,Delivered
+ORD000973,2025-09-22,CUST00027,Harish Iyer,Bhubaneswar,Odisha,East,Mechanical Keyboard,Accessories,5,3227,16135,Cash on Delivery,Returned
+ORD000974,2025-11-26,CUST00039,Neha Nair,Delhi,Delhi,North,Mechanical Keyboard,Accessories,1,2984,2984,Credit Card,Delivered
+ORD000975,2026-09-18,CUST00391,Zoya Verma,Ahmedabad,Gujarat,West,Notebook Pack,Stationery,1,522,522,Debit Card,Cancelled
+ORD000976,2026-01-18,CUST00067,Meera Iyer,Mumbai,Maharashtra,West,Laptop Stand,Accessories,2,1394,2788,Cash on Delivery,Processing
+ORD000977,2025-12-16,CUST00216,Neha Iyer,Hyderabad,Telangana,South,Notebook Pack,Stationery,4,472,1888,Cash on Delivery,Delivered
+ORD000978,2025-05-14,CUST00297,Harish Rao,Pune,Maharashtra,West,Noise-Cancelling Headphones,Electronics,1,7673,7673,Cash on Delivery,Processing
+ORD000979,2026-04-17,CUST00389,Arjun Verma,Chennai,Tamil Nadu,South,Mechanical Keyboard,Accessories,1,3210,3210,Net Banking,Delivered
+ORD000980,2025-05-30,CUST00227,Sneha Rao,Ahmedabad,Gujarat,West,Noise-Cancelling Headphones,Electronics,2,6448,12896,Net Banking,Shipped
+ORD000981,2026-05-15,CUST00248,Vikram Kumar,Kolkata,West Bengal,East,Data Engineering Handbook,Books,4,1933,7732,Credit Card,Cancelled
+ORD000982,2026-06-05,CUST00446,Harish Nair,Hyderabad,Telangana,South,Standing Desk,Furniture,2,21174,42348,UPI,Shipped
+ORD000983,2025-03-12,CUST00227,Nikhil Verma,Bengaluru,Karnataka,South,Office Chair,Furniture,4,11763,47052,Credit Card,Delivered
+ORD000984,2026-02-06,CUST00038,Pooja Shah,Delhi,Delhi,North,Noise-Cancelling Headphones,Electronics,1,7140,7140,Credit Card,Shipped
+ORD000985,2026-05-01,CUST00289,Rahul Shah,Bengaluru,Karnataka,South,Standing Desk,Furniture,3,23219,69657,Cash on Delivery,Delivered
+ORD000986,2026-05-02,CUST00183,Neha Patel,Mumbai,Maharashtra,West,Standing Desk,Furniture,2,20712,41424,Net Banking,Returned
+ORD000987,2025-03-16,CUST00021,Vikram Kumar,Chennai,Tamil Nadu,South,Wireless Mouse,Accessories,3,848,2544,Credit Card,Shipped
+ORD000988,2025-04-13,CUST00331,Akash Reddy,Pune,Maharashtra,West,Mechanical Keyboard,Accessories,1,3465,3465,Credit Card,Returned
+ORD000989,2025-03-11,CUST00302,Rahul Nair,Kolkata,West Bengal,East,Standing Desk,Furniture,1,24207,24207,Cash on Delivery,Delivered
+ORD000990,2025-02-19,CUST00184,Neha Verma,Ahmedabad,Gujarat,West,Office Chair,Furniture,4,12263,49052,UPI,Processing
+ORD000991,2026-03-15,CUST00223,Pooja Reddy,Mumbai,Maharashtra,West,USB-C Hub,Electronics,3,2631,7893,Cash on Delivery,Returned
+ORD000992,2025-11-21,CUST00228,Pooja Iyer,Bhubaneswar,Odisha,East,Wireless Mouse,Accessories,4,860,3440,Cash on Delivery,Processing
+ORD000993,2026-08-13,CUST00263,Ananya Patel,Delhi,Delhi,North,USB-C Hub,Electronics,1,2663,2663,UPI,Delivered
+ORD000994,2025-03-19,CUST00051,Sneha Sharma,Hyderabad,Telangana,South,USB-C Hub,Electronics,5,2345,11725,Debit Card,Delivered
+ORD000995,2025-06-25,CUST00387,Ananya Verma,Jaipur,Rajasthan,North,Office Chair,Furniture,5,11880,59400,Cash on Delivery,Cancelled
+ORD000996,2026-09-02,CUST00426,Kavya Iyer,Bengaluru,Karnataka,South,Laptop Stand,Accessories,5,1514,7570,Cash on Delivery,Delivered
+ORD000997,2026-05-12,CUST00044,Riya Rao,Pune,Maharashtra,West,USB-C Hub,Electronics,3,2748,8244,Net Banking,Delivered
+ORD000998,2025-11-14,CUST00362,Ishaan Rao,Bengaluru,Karnataka,South,Wireless Mouse,Accessories,3,868,2604,Debit Card,Shipped
+ORD000999,2026-07-20,CUST00114,Meera Reddy,Pune,Maharashtra,West,Laptop Stand,Accessories,2,1367,2734,Debit Card,Processing
+ORD001000,2025-12-24,CUST00010,Riya Kumar,Mumbai,Maharashtra,West,Data Engineering Handbook,Books,5,1624,8120,UPI,Shipped
+ORD001001,2026-01-15,CUST00185,Diya Singh,Chennai,Tamil Nadu,South,Laptop Stand,Accessories,4,1662,6648,Debit Card,Delivered
+ORD001002,2025-05-07,CUST00274,Meera Rao,Delhi,Delhi,North,Notebook Pack,Stationery,2,508,1016,Credit Card,Delivered
+ORD001003,2025-01-10,CUST00091,Riya Rao,Bengaluru,Karnataka,South,Notebook Pack,Stationery,1,536,536,Credit Card,Delivered
+ORD001004,2025-08-16,CUST00213,Arjun Patel,Bhubaneswar,Odisha,East,Data Engineering Handbook,Books,3,1632,4896,Credit Card,Returned
+ORD001005,2025-05-23,CUST00321,Nikhil Iyer,Hyderabad,Telangana,South,Data Engineering Handbook,Books,3,1682,5046,Cash on Delivery,Cancelled
+ORD001006,2026-03-09,CUST00314,Aditi Iyer,Chennai,Tamil Nadu,South,Noise-Cancelling Headphones,Electronics,5,7442,37210,UPI,Cancelled
+ORD001007,2025-01-30,CUST00106,Akash Patel,Mumbai,Maharashtra,West,Standing Desk,Furniture,3,24042,72126,Cash on Delivery,Processing
+ORD001008,2026-09-16,CUST00284,Sneha Kumar,Hyderabad,Telangana,South,Webcam,Electronics,5,2233,11165,Net Banking,Delivered
+ORD001009,2025-07-07,CUST00359,Neha Iyer,Ahmedabad,Gujarat,West,Wireless Mouse,Accessories,3,989,2967,Net Banking,Returned
+ORD001010,2026-04-18,CUST00158,Meera Shah,Bhubaneswar,Odisha,East,Webcam,Electronics,2,2101,4202,Debit Card,Shipped
+ORD001011,2025-03-18,CUST00051,Vikram Iyer,Bengaluru,Karnataka,South,Wireless Mouse,Accessories,1,883,883,Debit Card,Shipped
+ORD001012,2025-12-22,CUST00396,Nikhil Verma,Bengaluru,Karnataka,South,Office Chair,Furniture,4,11968,47872,Cash on Delivery,Returned
+ORD001013,2025-06-14,CUST00422,Nikhil Shah,Delhi,Delhi,North,Standing Desk,Furniture,3,24193,72579,Cash on Delivery,Cancelled
+ORD001014,2025-06-14,CUST00184,Meera Rao,Pune,Maharashtra,West,Standing Desk,Furniture,1,23813,23813,Cash on Delivery,Returned
+ORD001015,2025-12-05,CUST00059,Deepa Shah,Bhubaneswar,Odisha,East,Notebook Pack,Stationery,1,543,543,UPI,Delivered
+ORD001016,2026-01-05,CUST00343,Vikram Kumar,Delhi,Delhi,North,Noise-Cancelling Headphones,Electronics,4,6512,26048,Credit Card,Shipped
+ORD001017,2025-04-10,CUST00325,Rohan Reddy,Bhubaneswar,Odisha,East,Webcam,Electronics,2,2074,4148,Debit Card,Delivered
+ORD001018,2025-12-28,CUST00327,Diya Reddy,Ahmedabad,Gujarat,West,Notebook Pack,Stationery,4,525,2100,Debit Card,Returned
+ORD001019,2025-01-20,CUST00426,Riya Sharma,Mumbai,Maharashtra,West,Notebook Pack,Stationery,4,512,2048,UPI,Delivered
+ORD001020,2025-08-13,CUST00033,Nikhil Reddy,Mumbai,Maharashtra,West,Wireless Mouse,Accessories,2,885,1770,Credit Card,Delivered
+ORD001021,2025-09-20,CUST00295,Ishaan Sharma,Delhi,Delhi,North,Wireless Mouse,Accessories,2,837,1674,UPI,Delivered
+ORD001022,2025-08-26,CUST00436,Akash Nair,Hyderabad,Telangana,South,Webcam,Electronics,1,2367,2367,Credit Card,Cancelled
+ORD001023,2025-04-18,CUST00131,Ishaan Patel,Mumbai,Maharashtra,West,Wireless Mouse,Accessories,5,888,4440,Debit Card,Delivered
+ORD001024,2025-06-25,CUST00245,Aarav Sharma,Mumbai,Maharashtra,West,Data Engineering Handbook,Books,5,1849,9245,UPI,Returned
+ORD001025,2026-04-22,CUST00022,Pooja Shah,Bhubaneswar,Odisha,East,Noise-Cancelling Headphones,Electronics,4,6829,27316,Debit Card,Processing
+ORD001026,2025-12-18,CUST00129,Rohan Sharma,Pune,Maharashtra,West,Noise-Cancelling Headphones,Electronics,1,7367,7367,Credit Card,Shipped
+ORD001027,2026-04-26,CUST00325,Riya Rao,Mumbai,Maharashtra,West,Webcam,Electronics,1,2394,2394,UPI,Processing
+ORD001028,2026-01-14,CUST00395,Rohan Kumar,Ahmedabad,Gujarat,West,Mechanical Keyboard,Accessories,3,3634,10902,Debit Card,Returned
+ORD001029,2025-08-24,CUST00253,Aarav Kumar,Mumbai,Maharashtra,West,Notebook Pack,Stationery,2,502,1004,Cash on Delivery,Shipped
+ORD001030,2025-12-12,CUST00317,Vikram Nair,Chennai,Tamil Nadu,South,Noise-Cancelling Headphones,Electronics,5,7793,38965,UPI,Returned
+ORD001031,2025-01-22,CUST00097,Ishaan Reddy,Hyderabad,Telangana,South,Mechanical Keyboard,Accessories,4,3569,14276,Net Banking,Processing
+ORD001032,2026-02-28,CUST00343,Akash Nair,Mumbai,Maharashtra,West,USB-C Hub,Electronics,4,2782,11128,Net Banking,Delivered
+ORD001033,2026-01-02,CUST00090,Deepa Reddy,Ahmedabad,Gujarat,West,Laptop Stand,Accessories,5,1651,8255,Credit Card,Delivered
+ORD001034,2026-05-14,CUST00266,Meera Nair,Delhi,Delhi,North,Data Engineering Handbook,Books,4,1671,6684,Debit Card,Shipped
+ORD001035,2026-01-05,CUST00411,Zoya Patel,Bhubaneswar,Odisha,East,Notebook Pack,Stationery,4,503,2012,Cash on Delivery,Delivered
+ORD001036,2025-12-18,CUST00050,Rohan Shah,Chennai,Tamil Nadu,South,Notebook Pack,Stationery,3,546,1638,Net Banking,Returned
+ORD001037,2025-05-22,CUST00380,Deepa Reddy,Ahmedabad,Gujarat,West,Notebook Pack,Stationery,2,454,908,Net Banking,Shipped
+ORD001038,2025-05-12,CUST00194,Diya Singh,Bengaluru,Karnataka,South,Mechanical Keyboard,Accessories,4,3672,14688,Cash on Delivery,Delivered
+ORD001039,2025-05-02,CUST00246,Ananya Kumar,Mumbai,Maharashtra,West,Office Chair,Furniture,1,13534,13534,Debit Card,Returned
+ORD001040,2026-03-06,CUST00395,Ananya Sharma,Kolkata,West Bengal,East,Noise-Cancelling Headphones,Electronics,4,6792,27168,Debit Card,Delivered
+ORD001041,2026-06-04,CUST00103,Harish Nair,Kolkata,West Bengal,East,Data Engineering Handbook,Books,5,1671,8355,UPI,Delivered
+ORD001042,2025-08-27,CUST00348,Deepa Iyer,Bhubaneswar,Odisha,East,Mechanical Keyboard,Accessories,2,3636,7272,Net Banking,Shipped
+ORD001043,2026-07-21,CUST00426,Rohan Sharma,Chennai,Tamil Nadu,South,Office Chair,Furniture,5,12991,64955,Credit Card,Cancelled
+ORD001044,2025-09-06,CUST00370,Zoya Verma,Bhubaneswar,Odisha,East,Office Chair,Furniture,1,13413,13413,Debit Card,Delivered
+ORD001045,2025-12-20,CUST00365,Aarav Reddy,Kolkata,West Bengal,East,Notebook Pack,Stationery,3,514,1542,UPI,Processing
+ORD001046,2025-07-28,CUST00405,Rahul Reddy,Bengaluru,Karnataka,South,USB-C Hub,Electronics,5,2379,11895,Credit Card,Shipped
+ORD001047,2026-03-29,CUST00231,Neha Nair,Bhubaneswar,Odisha,East,Laptop Stand,Accessories,1,1639,1639,Cash on Delivery,Processing
+ORD001048,2026-03-07,CUST00276,Rahul Rao,Bhubaneswar,Odisha,East,Laptop Stand,Accessories,4,1532,6128,Credit Card,Delivered
+ORD001049,2025-10-08,CUST00066,Vikram Iyer,Jaipur,Rajasthan,North,Wireless Mouse,Accessories,4,815,3260,Cash on Delivery,Cancelled
+ORD001050,2025-12-18,CUST00319,Rohan Verma,Bengaluru,Karnataka,South,Noise-Cancelling Headphones,Electronics,3,6398,19194,Credit Card,Delivered
+ORD001051,2026-06-21,CUST00018,Ananya Reddy,Mumbai,Maharashtra,West,Data Engineering Handbook,Books,2,1857,3714,UPI,Cancelled
+ORD001052,2025-03-12,CUST00033,Deepa Rao,Chennai,Tamil Nadu,South,USB-C Hub,Electronics,2,2399,4798,Cash on Delivery,Returned
+ORD001053,2025-12-27,CUST00316,Meera Nair,Delhi,Delhi,North,Laptop Stand,Accessories,4,1546,6184,Credit Card,Delivered
+ORD001054,2026-01-13,CUST00054,Ishaan Nair,Kolkata,West Bengal,East,Webcam,Electronics,4,2291,9164,Debit Card,Delivered
+ORD001055,2025-03-09,CUST00178,Aarav Reddy,Bhubaneswar,Odisha,East,Data Engineering Handbook,Books,5,1678,8390,Debit Card,Delivered
+ORD001056,2025-10-07,CUST00271,Neha Singh,Mumbai,Maharashtra,West,Notebook Pack,Stationery,4,485,1940,Cash on Delivery,Delivered
+ORD001057,2025-11-23,CUST00059,Nikhil Verma,Pune,Maharashtra,West,Office Chair,Furniture,3,12496,37488,Credit Card,Cancelled
+ORD001058,2026-07-25,CUST00449,Meera Rao,Kolkata,West Bengal,East,Webcam,Electronics,5,2227,11135,Debit Card,Processing
+ORD001059,2026-04-17,CUST00115,Harish Verma,Chennai,Tamil Nadu,South,Mechanical Keyboard,Accessories,2,3408,6816,UPI,Delivered
+ORD001060,2025-06-26,CUST00406,Aditi Nair,Jaipur,Rajasthan,North,Laptop Stand,Accessories,2,1585,3170,Credit Card,Delivered
+ORD001061,2026-06-10,CUST00126,Aarav Iyer,Mumbai,Maharashtra,West,Noise-Cancelling Headphones,Electronics,4,6602,26408,UPI,Delivered
+ORD001062,2025-01-05,CUST00440,Kavya Patel,Bengaluru,Karnataka,South,Office Chair,Furniture,1,12895,12895,Debit Card,Cancelled
+ORD001063,2026-04-05,CUST00441,Akash Iyer,Mumbai,Maharashtra,West,Notebook Pack,Stationery,2,513,1026,Credit Card,Processing
+ORD001064,2025-09-05,CUST00112,Arjun Rao,Chennai,Tamil Nadu,South,USB-C Hub,Electronics,1,2260,2260,Net Banking,Returned
+ORD001065,2025-02-24,CUST00286,Aditi Iyer,Delhi,Delhi,North,USB-C Hub,Electronics,4,2413,9652,Net Banking,Delivered
+ORD001066,2025-04-26,CUST00268,Aditi Reddy,Pune,Maharashtra,West,Noise-Cancelling Headphones,Electronics,4,7419,29676,UPI,Delivered
+ORD001067,2025-12-19,CUST00139,Meera Shah,Mumbai,Maharashtra,West,Data Engineering Handbook,Books,2,1619,3238,Debit Card,Shipped
+ORD001068,2026-07-01,CUST00031,Harish Reddy,Hyderabad,Telangana,South,Data Engineering Handbook,Books,3,1700,5100,Debit Card,Shipped
+ORD001069,2025-12-07,CUST00388,Rohan Patel,Delhi,Delhi,North,Laptop Stand,Accessories,4,1460,5840,Cash on Delivery,Cancelled
+ORD001070,2025-08-29,CUST00003,Deepa Singh,Mumbai,Maharashtra,West,USB-C Hub,Electronics,5,2290,11450,Debit Card,Delivered
+ORD001071,2025-07-15,CUST00018,Riya Nair,Mumbai,Maharashtra,West,Webcam,Electronics,2,2335,4670,Net Banking,Delivered
+ORD001072,2025-10-18,CUST00265,Zoya Kumar,Bhubaneswar,Odisha,East,Data Engineering Handbook,Books,2,1671,3342,Cash on Delivery,Shipped
+ORD001073,2025-04-19,CUST00355,Ishaan Singh,Mumbai,Maharashtra,West,USB-C Hub,Electronics,4,2709,10836,Debit Card,Returned
+ORD001074,2026-05-22,CUST00416,Pooja Singh,Delhi,Delhi,North,Standing Desk,Furniture,3,22594,67782,Net Banking,Processing
+ORD001075,2025-05-10,CUST00195,Vikram Kumar,Hyderabad,Telangana,South,Noise-Cancelling Headphones,Electronics,1,7225,7225,Net Banking,Delivered
+ORD001076,2025-02-18,CUST00172,Diya Verma,Pune,Maharashtra,West,Data Engineering Handbook,Books,3,1926,5778,UPI,Delivered
+ORD001077,2026-08-13,CUST00176,Diya Shah,Kolkata,West Bengal,East,Webcam,Electronics,1,2332,2332,Cash on Delivery,Processing
+ORD001078,2026-05-19,CUST00378,Riya Reddy,Bhubaneswar,Odisha,East,Standing Desk,Furniture,1,23219,23219,Credit Card,Delivered
+ORD001079,2025-06-11,CUST00125,Aarav Singh,Delhi,Delhi,North,Standing Desk,Furniture,3,20650,61950,Debit Card,Processing
+ORD001080,2025-08-08,CUST00071,Aarav Reddy,Ahmedabad,Gujarat,West,Standing Desk,Furniture,3,21820,65460,Cash on Delivery,Cancelled
+ORD001081,2025-09-14,CUST00044,Deepa Reddy,Hyderabad,Telangana,South,Laptop Stand,Accessories,5,1360,6800,UPI,Delivered
+ORD001082,2025-05-24,CUST00274,Deepa Sharma,Bhubaneswar,Odisha,East,Wireless Mouse,Accessories,3,954,2862,UPI,Processing
+ORD001083,2025-01-18,CUST00226,Riya Sharma,Hyderabad,Telangana,South,Wireless Mouse,Accessories,2,938,1876,Net Banking,Returned
+ORD001084,2025-01-28,CUST00239,Kavya Shah,Hyderabad,Telangana,South,Laptop Stand,Accessories,2,1621,3242,Debit Card,Delivered
+ORD001085,2025-10-23,CUST00240,Akash Kumar,Kolkata,West Bengal,East,Noise-Cancelling Headphones,Electronics,1,6984,6984,Net Banking,Cancelled
+ORD001086,2025-06-13,CUST00253,Diya Rao,Bengaluru,Karnataka,South,Office Chair,Furniture,1,13355,13355,UPI,Returned
+ORD001087,2025-08-12,CUST00413,Pooja Iyer,Jaipur,Rajasthan,North,Office Chair,Furniture,1,11630,11630,Net Banking,Returned
+ORD001088,2025-09-20,CUST00177,Arjun Singh,Delhi,Delhi,North,Office Chair,Furniture,1,11642,11642,Debit Card,Cancelled
+ORD001089,2026-08-31,CUST00163,Rahul Verma,Kolkata,West Bengal,East,Office Chair,Furniture,3,13273,39819,Net Banking,Delivered
+ORD001090,2026-06-10,CUST00210,Nikhil Kumar,Hyderabad,Telangana,South,Noise-Cancelling Headphones,Electronics,2,7095,14190,Credit Card,Returned
+ORD001091,2026-08-21,CUST00420,Ananya Kumar,Delhi,Delhi,North,Laptop Stand,Accessories,1,1564,1564,UPI,Returned
+ORD001092,2025-11-13,CUST00070,Arjun Verma,Delhi,Delhi,North,Standing Desk,Furniture,4,20236,80944,UPI,Processing
+ORD001093,2026-03-31,CUST00423,Rohan Shah,Pune,Maharashtra,West,Wireless Mouse,Accessories,1,984,984,UPI,Delivered
+ORD001094,2025-05-26,CUST00062,Rahul Singh,Mumbai,Maharashtra,West,Notebook Pack,Stationery,5,529,2645,Cash on Delivery,Processing
+ORD001095,2025-09-02,CUST00207,Sneha Singh,Bhubaneswar,Odisha,East,Standing Desk,Furniture,2,20218,40436,UPI,Processing
+ORD001096,2026-08-15,CUST00163,Akash Singh,Delhi,Delhi,North,Wireless Mouse,Accessories,3,944,2832,Net Banking,Delivered
+ORD001097,2025-07-15,CUST00029,Aarav Singh,Bhubaneswar,Odisha,East,Laptop Stand,Accessories,4,1578,6312,Credit Card,Processing
+ORD001098,2025-06-15,CUST00383,Harish Singh,Bengaluru,Karnataka,South,Standing Desk,Furniture,3,24466,73398,Cash on Delivery,Delivered
+ORD001099,2026-09-20,CUST00170,Akash Rao,Chennai,Tamil Nadu,South,Mechanical Keyboard,Accessories,1,3043,3043,Net Banking,Returned
+ORD001100,2026-04-05,CUST00024,Meera Nair,Bengaluru,Karnataka,South,Standing Desk,Furniture,2,21193,42386,Credit Card,Cancelled
+ORD001101,2026-07-18,CUST00181,Rahul Iyer,Jaipur,Rajasthan,North,USB-C Hub,Electronics,4,2574,10296,Credit Card,Delivered
+ORD001102,2026-07-27,CUST00084,Ananya Iyer,Chennai,Tamil Nadu,South,Notebook Pack,Stationery,5,508,2540,Debit Card,Shipped
+ORD001103,2026-02-17,CUST00139,Vikram Singh,Kolkata,West Bengal,East,Standing Desk,Furniture,2,21097,42194,Debit Card,Shipped
+ORD001104,2025-05-26,CUST00195,Arjun Reddy,Bhubaneswar,Odisha,East,Data Engineering Handbook,Books,2,1676,3352,Debit Card,Cancelled
+ORD001105,2025-08-29,CUST00353,Diya Verma,Chennai,Tamil Nadu,South,USB-C Hub,Electronics,1,2639,2639,UPI,Delivered
+ORD001106,2025-01-18,CUST00237,Aditi Singh,Pune,Maharashtra,West,Notebook Pack,Stationery,2,478,956,Debit Card,Delivered
+ORD001107,2025-01-14,CUST00288,Arjun Kumar,Kolkata,West Bengal,East,Data Engineering Handbook,Books,4,1908,7632,Debit Card,Processing
+ORD001108,2025-04-07,CUST00386,Arjun Nair,Bengaluru,Karnataka,South,Noise-Cancelling Headphones,Electronics,2,6662,13324,Net Banking,Delivered
+ORD001109,2026-01-14,CUST00085,Diya Shah,Kolkata,West Bengal,East,Office Chair,Furniture,1,12509,12509,Debit Card,Shipped
+ORD001110,2026-06-10,CUST00267,Harish Singh,Hyderabad,Telangana,South,Data Engineering Handbook,Books,4,1639,6556,UPI,Cancelled
+ORD001111,2025-12-15,CUST00026,Neha Nair,Bengaluru,Karnataka,South,Webcam,Electronics,4,2135,8540,Cash on Delivery,Shipped
+ORD001112,2025-04-15,CUST00131,Kavya Shah,Bhubaneswar,Odisha,East,Standing Desk,Furniture,3,22272,66816,Net Banking,Delivered
+ORD001113,2025-03-22,CUST00158,Rahul Patel,Chennai,Tamil Nadu,South,Laptop Stand,Accessories,3,1559,4677,Net Banking,Returned
+ORD001114,2026-04-18,CUST00007,Zoya Singh,Ahmedabad,Gujarat,West,Webcam,Electronics,3,2037,6111,UPI,Shipped
+ORD001115,2025-01-17,CUST00299,Deepa Kumar,Kolkata,West Bengal,East,Wireless Mouse,Accessories,4,872,3488,Debit Card,Cancelled
+ORD001116,2025-05-24,CUST00128,Zoya Rao,Bengaluru,Karnataka,South,Webcam,Electronics,1,2180,2180,Credit Card,Shipped
+ORD001117,2026-04-09,CUST00449,Vikram Rao,Ahmedabad,Gujarat,West,Wireless Mouse,Accessories,4,1005,4020,UPI,Delivered
+ORD001118,2026-06-09,CUST00400,Neha Iyer,Mumbai,Maharashtra,West,USB-C Hub,Electronics,5,2524,12620,Net Banking,Shipped
+ORD001119,2025-06-01,CUST00251,Aarav Sharma,Ahmedabad,Gujarat,West,Wireless Mouse,Accessories,3,816,2448,UPI,Delivered
+ORD001120,2026-01-12,CUST00348,Ishaan Rao,Chennai,Tamil Nadu,South,Noise-Cancelling Headphones,Electronics,2,7031,14062,Debit Card,Shipped
+ORD001121,2025-06-30,CUST00217,Deepa Reddy,Jaipur,Rajasthan,North,Standing Desk,Furniture,2,19877,39754,Cash on Delivery,Cancelled
+ORD001122,2025-08-01,CUST00026,Deepa Shah,Bengaluru,Karnataka,South,Standing Desk,Furniture,4,23624,94496,Cash on Delivery,Delivered
+ORD001123,2025-10-19,CUST00348,Aarav Iyer,Jaipur,Rajasthan,North,Webcam,Electronics,3,2103,6309,UPI,Processing
+ORD001124,2025-01-11,CUST00008,Aarav Kumar,Pune,Maharashtra,West,Notebook Pack,Stationery,4,506,2024,Credit Card,Delivered
+ORD001125,2026-02-01,CUST00234,Diya Sharma,Jaipur,Rajasthan,North,Laptop Stand,Accessories,3,1466,4398,Net Banking,Delivered
+ORD001126,2025-02-16,CUST00275,Aditi Kumar,Jaipur,Rajasthan,North,USB-C Hub,Electronics,5,2465,12325,Net Banking,Delivered
+ORD001127,2025-11-05,CUST00395,Kavya Patel,Ahmedabad,Gujarat,West,Notebook Pack,Stationery,2,466,932,Credit Card,Delivered
+ORD001128,2025-05-06,CUST00438,Neha Shah,Mumbai,Maharashtra,West,Webcam,Electronics,2,2039,4078,Net Banking,Delivered
+ORD001129,2025-02-05,CUST00199,Akash Shah,Jaipur,Rajasthan,North,Data Engineering Handbook,Books,3,1764,5292,UPI,Delivered
+ORD001130,2026-03-23,CUST00071,Zoya Verma,Mumbai,Maharashtra,West,Standing Desk,Furniture,3,24399,73197,Cash on Delivery,Cancelled
+ORD001131,2025-11-06,CUST00285,Sneha Singh,Jaipur,Rajasthan,North,Notebook Pack,Stationery,4,468,1872,Net Banking,Processing
+ORD001132,2026-03-12,CUST00078,Aditi Verma,Jaipur,Rajasthan,North,USB-C Hub,Electronics,1,2722,2722,Debit Card,Returned
+ORD001133,2026-01-01,CUST00275,Meera Reddy,Mumbai,Maharashtra,West,Webcam,Electronics,3,2239,6717,Cash on Delivery,Cancelled
+ORD001134,2026-05-22,CUST00070,Neha Singh,Chennai,Tamil Nadu,South,Webcam,Electronics,4,2123,8492,Debit Card,Shipped
+ORD001135,2026-02-18,CUST00422,Arjun Sharma,Bhubaneswar,Odisha,East,Data Engineering Handbook,Books,1,1726,1726,Net Banking,Processing
+ORD001136,2026-01-07,CUST00163,Sneha Rao,Hyderabad,Telangana,South,Notebook Pack,Stationery,5,518,2590,Cash on Delivery,Shipped
+ORD001137,2025-04-06,CUST00051,Rahul Singh,Pune,Maharashtra,West,Noise-Cancelling Headphones,Electronics,2,6568,13136,Debit Card,Processing
+ORD001138,2026-06-15,CUST00147,Meera Patel,Jaipur,Rajasthan,North,Noise-Cancelling Headphones,Electronics,1,7649,7649,Debit Card,Cancelled
+ORD001139,2025-06-11,CUST00124,Meera Shah,Ahmedabad,Gujarat,West,USB-C Hub,Electronics,1,2686,2686,Cash on Delivery,Delivered
+ORD001140,2025-07-12,CUST00378,Arjun Patel,Delhi,Delhi,North,Webcam,Electronics,3,2376,7128,Debit Card,Cancelled
+ORD001141,2026-02-01,CUST00038,Nikhil Verma,Bhubaneswar,Odisha,East,Wireless Mouse,Accessories,3,974,2922,Cash on Delivery,Returned
+ORD001142,2026-03-15,CUST00419,Sneha Kumar,Pune,Maharashtra,West,Standing Desk,Furniture,5,22779,113895,UPI,Delivered
+ORD001143,2025-06-27,CUST00131,Pooja Rao,Bengaluru,Karnataka,South,Wireless Mouse,Accessories,5,922,4610,Credit Card,Delivered
+ORD001144,2025-09-27,CUST00381,Riya Verma,Chennai,Tamil Nadu,South,Mechanical Keyboard,Accessories,1,3199,3199,Credit Card,Delivered
+ORD001145,2025-12-19,CUST00198,Sneha Reddy,Jaipur,Rajasthan,North,USB-C Hub,Electronics,2,2341,4682,Credit Card,Processing
+ORD001146,2026-05-10,CUST00030,Arjun Sharma,Delhi,Delhi,North,USB-C Hub,Electronics,4,2619,10476,Debit Card,Delivered
+ORD001147,2025-11-22,CUST00418,Vikram Patel,Pune,Maharashtra,West,Office Chair,Furniture,5,12766,63830,Credit Card,Delivered
+ORD001148,2025-03-23,CUST00066,Zoya Kumar,Bhubaneswar,Odisha,East,Webcam,Electronics,2,2039,4078,Net Banking,Shipped
+ORD001149,2026-06-25,CUST00007,Vikram Kumar,Hyderabad,Telangana,South,Data Engineering Handbook,Books,5,1660,8300,UPI,Delivered
+ORD001150,2026-02-01,CUST00069,Vikram Singh,Hyderabad,Telangana,South,Standing Desk,Furniture,1,21810,21810,Debit Card,Delivered
+ORD001151,2026-04-27,CUST00438,Rohan Singh,Bhubaneswar,Odisha,East,Standing Desk,Furniture,4,20165,80660,Net Banking,Cancelled
+ORD001152,2025-01-28,CUST00153,Ananya Verma,Mumbai,Maharashtra,West,Office Chair,Furniture,5,12908,64540,UPI,Delivered
+ORD001153,2025-06-21,CUST00037,Meera Sharma,Bengaluru,Karnataka,South,Standing Desk,Furniture,3,22078,66234,Credit Card,Cancelled
+ORD001154,2026-09-01,CUST00358,Meera Verma,Bengaluru,Karnataka,South,Wireless Mouse,Accessories,5,943,4715,UPI,Delivered
+ORD001155,2025-05-19,CUST00399,Pooja Nair,Hyderabad,Telangana,South,Office Chair,Furniture,3,11885,35655,Debit Card,Processing
+ORD001156,2025-12-22,CUST00147,Rahul Singh,Ahmedabad,Gujarat,West,Mechanical Keyboard,Accessories,3,3641,10923,Net Banking,Delivered
+ORD001157,2025-09-06,CUST00175,Akash Iyer,Hyderabad,Telangana,South,USB-C Hub,Electronics,3,2564,7692,Net Banking,Processing
+ORD001158,2025-02-27,CUST00105,Pooja Shah,Pune,Maharashtra,West,Webcam,Electronics,2,2073,4146,Credit Card,Delivered
+ORD001159,2025-02-07,CUST00259,Meera Shah,Bhubaneswar,Odisha,East,Noise-Cancelling Headphones,Electronics,1,6953,6953,UPI,Cancelled
+ORD001160,2026-03-21,CUST00353,Aarav Iyer,Kolkata,West Bengal,East,USB-C Hub,Electronics,5,2660,13300,Cash on Delivery,Processing
+ORD001161,2025-03-17,CUST00242,Harish Patel,Pune,Maharashtra,West,Noise-Cancelling Headphones,Electronics,4,6746,26984,UPI,Shipped
+ORD001162,2025-05-04,CUST00283,Diya Rao,Jaipur,Rajasthan,North,Office Chair,Furniture,4,12566,50264,UPI,Processing
+ORD001163,2025-03-23,CUST00023,Aarav Kumar,Hyderabad,Telangana,South,Office Chair,Furniture,2,13731,27462,Credit Card,Cancelled
+ORD001164,2025-11-18,CUST00428,Zoya Patel,Kolkata,West Bengal,East,Webcam,Electronics,5,2230,11150,Cash on Delivery,Delivered
+ORD001165,2025-12-07,CUST00381,Aditi Nair,Bhubaneswar,Odisha,East,Wireless Mouse,Accessories,5,838,4190,Debit Card,Shipped
+ORD001166,2026-06-04,CUST00319,Zoya Iyer,Ahmedabad,Gujarat,West,Data Engineering Handbook,Books,3,1866,5598,Cash on Delivery,Delivered
+ORD001167,2025-04-28,CUST00132,Rahul Nair,Jaipur,Rajasthan,North,Notebook Pack,Stationery,4,487,1948,Credit Card,Shipped
+ORD001168,2025-06-15,CUST00137,Kavya Sharma,Bhubaneswar,Odisha,East,Standing Desk,Furniture,1,20872,20872,Cash on Delivery,Delivered
+ORD001169,2026-08-06,CUST00038,Pooja Iyer,Delhi,Delhi,North,Wireless Mouse,Accessories,4,991,3964,Cash on Delivery,Shipped
+ORD001170,2026-05-23,CUST00346,Harish Iyer,Jaipur,Rajasthan,North,Noise-Cancelling Headphones,Electronics,4,7108,28432,Cash on Delivery,Cancelled
+ORD001171,2026-02-23,CUST00022,Ananya Reddy,Kolkata,West Bengal,East,Mechanical Keyboard,Accessories,1,3598,3598,Net Banking,Shipped
+ORD001172,2026-06-17,CUST00412,Zoya Reddy,Jaipur,Rajasthan,North,Noise-Cancelling Headphones,Electronics,1,6482,6482,Cash on Delivery,Cancelled
+ORD001173,2026-06-28,CUST00077,Ananya Rao,Bengaluru,Karnataka,South,Laptop Stand,Accessories,4,1623,6492,Net Banking,Shipped
+ORD001174,2026-05-12,CUST00413,Deepa Rao,Ahmedabad,Gujarat,West,Webcam,Electronics,5,2314,11570,Cash on Delivery,Returned
+ORD001175,2025-06-19,CUST00357,Arjun Sharma,Pune,Maharashtra,West,Notebook Pack,Stationery,4,510,2040,Net Banking,Delivered
+ORD001176,2025-01-06,CUST00218,Neha Patel,Chennai,Tamil Nadu,South,USB-C Hub,Electronics,2,2290,4580,Credit Card,Processing
+ORD001177,2026-08-14,CUST00402,Rahul Singh,Hyderabad,Telangana,South,Laptop Stand,Accessories,5,1654,8270,Credit Card,Delivered
+ORD001178,2025-02-22,CUST00444,Akash Sharma,Bhubaneswar,Odisha,East,Laptop Stand,Accessories,2,1475,2950,Cash on Delivery,Delivered
+ORD001179,2026-06-09,CUST00207,Diya Iyer,Bengaluru,Karnataka,South,Office Chair,Furniture,5,12839,64195,UPI,Delivered
+ORD001180,2025-02-26,CUST00224,Aarav Nair,Chennai,Tamil Nadu,South,Data Engineering Handbook,Books,5,1716,8580,Net Banking,Cancelled
+ORD001181,2026-08-16,CUST00034,Zoya Verma,Bengaluru,Karnataka,South,Noise-Cancelling Headphones,Electronics,5,7327,36635,Credit Card,Delivered
+ORD001182,2026-08-10,CUST00234,Rahul Kumar,Ahmedabad,Gujarat,West,Notebook Pack,Stationery,2,550,1100,Credit Card,Processing
+ORD001183,2026-04-07,CUST00019,Zoya Rao,Ahmedabad,Gujarat,West,Standing Desk,Furniture,5,23516,117580,Cash on Delivery,Delivered
+ORD001184,2025-09-29,CUST00247,Kavya Kumar,Pune,Maharashtra,West,Noise-Cancelling Headphones,Electronics,5,7808,39040,Credit Card,Processing
+ORD001185,2026-01-23,CUST00041,Neha Iyer,Ahmedabad,Gujarat,West,Wireless Mouse,Accessories,2,850,1700,Cash on Delivery,Delivered
+ORD001186,2025-12-22,CUST00324,Harish Nair,Delhi,Delhi,North,Mechanical Keyboard,Accessories,4,3293,13172,UPI,Returned
+ORD001187,2025-09-11,CUST00184,Nikhil Verma,Ahmedabad,Gujarat,West,Standing Desk,Furniture,3,21048,63144,Credit Card,Returned
+ORD001188,2026-06-05,CUST00031,Ananya Rao,Ahmedabad,Gujarat,West,Wireless Mouse,Accessories,4,950,3800,Net Banking,Processing
+ORD001189,2025-02-07,CUST00144,Pooja Shah,Bhubaneswar,Odisha,East,Laptop Stand,Accessories,5,1446,7230,Credit Card,Returned
+ORD001190,2026-09-10,CUST00071,Akash Rao,Bengaluru,Karnataka,South,Webcam,Electronics,3,2262,6786,Cash on Delivery,Processing
+ORD001191,2026-05-25,CUST00427,Deepa Reddy,Hyderabad,Telangana,South,Wireless Mouse,Accessories,5,833,4165,Cash on Delivery,Shipped
+ORD001192,2025-05-23,CUST00034,Pooja Reddy,Pune,Maharashtra,West,Wireless Mouse,Accessories,4,993,3972,UPI,Processing
+ORD001193,2026-07-29,CUST00270,Arjun Kumar,Kolkata,West Bengal,East,Notebook Pack,Stationery,4,517,2068,UPI,Returned
+ORD001194,2026-03-15,CUST00090,Riya Patel,Kolkata,West Bengal,East,Mechanical Keyboard,Accessories,4,3446,13784,Debit Card,Delivered
+ORD001195,2025-07-21,CUST00276,Ishaan Verma,Pune,Maharashtra,West,Office Chair,Furniture,1,13994,13994,UPI,Delivered
+ORD001196,2026-02-19,CUST00164,Nikhil Sharma,Jaipur,Rajasthan,North,Noise-Cancelling Headphones,Electronics,5,6357,31785,Debit Card,Returned
+ORD001197,2026-07-05,CUST00350,Rahul Verma,Delhi,Delhi,North,Mechanical Keyboard,Accessories,4,3619,14476,UPI,Delivered
+ORD001198,2026-03-29,CUST00034,Riya Nair,Ahmedabad,Gujarat,West,Noise-Cancelling Headphones,Electronics,3,7477,22431,Net Banking,Cancelled
+ORD001199,2026-04-13,CUST00167,Sneha Rao,Mumbai,Maharashtra,West,Office Chair,Furniture,3,12329,36987,UPI,Processing
+ORD001200,2025-07-20,CUST00237,Rohan Rao,Hyderabad,Telangana,South,Webcam,Electronics,5,2330,11650,Net Banking,Returned
